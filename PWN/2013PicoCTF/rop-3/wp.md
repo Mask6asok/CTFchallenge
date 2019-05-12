@@ -1,5 +1,5 @@
 # Write-Up
-```
+```cpp
 void vulnerable_function()  {
 	char buf[128];
 	read(STDIN_FILENO, buf,256);
