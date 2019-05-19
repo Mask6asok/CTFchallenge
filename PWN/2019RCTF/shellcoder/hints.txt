@@ -1,0 +1,11 @@
+who likes singing, dancing, rapping and shell-coding?
+
+The directories on the server looks something like this:
+
+...
+©À©¤©¤ flag
+©¦   ©À©¤©¤ unknown
+©¦   ©¦   ©¸©¤©¤ ...
+©¦   ©¦       ©¸©¤©¤ flag
+©¦   ©¸©¤©¤ unknown
+©¸©¤©¤ shellcoder
