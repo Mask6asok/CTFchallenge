@@ -1,0 +1,15 @@
+name: mfc_re
+type: RE
+score:
+    dynamic: false
+    base_score: 200
+flag:
+    dynamic: false
+    value: i_think_so
+description: >
+    Can you find the flag?
+    \n得到flag{*}
+external_link: 
+    - 'https://pan.baidu.com/s/1NFpixXTsO0eRQHRTXO3Y5A pass: 5j8w'
+hint:
+    - win32相关

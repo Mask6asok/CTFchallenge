@@ -1,0 +1,16326 @@
+.null
+.strtab
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+UTUUUUUU
+UTUUUUUU(
+SIPIQIRISITIUH
+ZI8H
+I]I\I[IZIYIX[
+unknown object type during mark phase
+IPIQI
+8IYIX
+IYIXH
+QIPIQIRISITIUIVIWH
+I_I^I]I\I[IZIYIXY
+IPIQIRISITIUH
+UTUUUUUU^VH9
+\I]I\I[IZIYIX
+9r*H
+t+QV
+~8^Y
+UTUUUUUUH
+object resolving in is not a scope
+0PQUH
+0PQUH
+0PQUH
+t$WH
+0PQUH
+0PQUH
+0PQUH
+X^_XH
+^_XH1
+WRVH
+UTUUUUUUH
+0PQH
+0PQH
+0PQH
+t%QVH
+invalid type while evaluating ?
+tried to def to non-string key
+trying to store zero object address
+FIXME: typed string application
+access into empty array
+access into empty string
+execute
+not an executable thing
+trying to execute array on string or float
+typed
+#=[]
+non-array, non-string passed to =[]
+#len
+neither string nor array in len
+#-01 cat
+#cat
+neither string nor array in cat
+type mismatch in cat
+tOSRH
+(:ZH
+u!SIVH
+[IVM
+[YZXH
+?r,@
+RQPH
+t.QH
+puQI
+u%RH
+w:WR
+[IVS
+Y[QL
+YSIVH
+invalid activation mode in internalExecuteIdentifierUnquoted
+invalid activation mode in internalExecuteIdentifierUnquotedAndPatchLateResolve
+invalid activation mode in internalExecuteIdentifierUnquotedAndPatchLateResolve@patchConstant
+invalid activation mode in internalExecuteIdentifierUnquotedAndPatchLateResolve@patchStatic
+no space available for example object
+parent count out of save limits in internalExecuteIdentifierUnquotedAndPatchLateResolve
+quote activation mode in internalExecuteIdentifierUnquotedAndPatchLateResolve@patchConstant
+quote activation mode in internalExecuteIdentifierUnquotedAndPatchLateResolve@patchStatic
+hook
+(:rVPIVPH
+YXXH9
+t3PH
+7IVH
+XIVPH
+7IVH
+XIVPH
+PtlI
+invalid activation mode in internalExecuteIdentifier
+unresolved name in internalExecuteIdentifier: 
+IVPH
+u.PH
+tried to '' for non-array input arguments
+tried to '' for non-array output arguments
+#each
+neither string nor array in each
+invalid activation mode in .
+XYQQP
+Y^PH
+#dom
+non-array passed to dom
+could not parse function start while preparing coroutine
+could not parse function start while preparing coroutine
+cannot leave coroutine with ! which was entered by * (missing own stack)
+type of object not handled in !
+[Y]Q
+E YH
+(:]H
+YUSH
+UTUUUUUUL
+UTUUUUUUH
+XSPI
+invalid object during quote construction
+invalid object during quote construction
+invalid object during quote construction
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+band not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+bor not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+bxor not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+mod not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+umod not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+udiv not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+and not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+or not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+xor not available on floats
+arithmetic operation not defined on strings
+invalid operand types for arithmetic (1)
+invalid operand types for arithmetic (2)
+invalid operand types for arithmetic (3)
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[Z_H
+?r?H
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+[YZH
+7I^H
+neither int nor string argument in sys .asm .syscall
+attepmting to patch reference, but no space is available
+argv
+defv
+?r0A
+?r0A
+?r0A
+UTUUUUUU
+ZPRH
+UTUUUUUUL
+typed
+linux
+prefix length above string length in inplacePrefix
+separator string not single character
+[_WH
+[_XH
+[_XH
+[_XH
+Y^PH
+QVH)
+Y^ZP
+[XYH
+QVH)
+Y^ZP
+QVH)
+Y^ZP
+H+|$
+H+L$
+[_H1
+UTUUUUUU
+UTUUUUUU
+******** 
+,,,,,,,, 
+,--,--,- 
+typetype@
+,---,--- 
+,_,_,_,_ 
+--,--,-- 
+////////
+<<<<<<<< 
+======== 
+=[]=[]=[ 
+>>>>>>>> 
+>'>'>'>'
+typetype8
+iiiiiiii 
+???????? 
+[[[[[[[[ 
+]]]]]]]] 
+_,_,_,_, 
+catcatca 
+dearrayd 
+defdefde 
+diediedi 
+lenlenle 
+quotedqu 
+rangeran 
+scopesco 
+|||||||| 
+'''''''' 
+-------- 
+-------- 
+........ 
+.?.?.?.? 
+.?'.?'.? 
+.|.|.|.|
+arrarrar
+#itrans# 
+........
+cccccccc 
+typeStacktypeSta
+transformLoopIndextransfX
+arrarrar@
+regno`
+;;;;;;;; 
+rmN_
+________ 
+v_%&
+deffdeff 
+deffcdef 
+!hL6
+deffddef 
+deffsdef 
+deffstde 
+defftdef 
+defmdefm 
+defmcdef 
+defmddef 
+defmsdef 
+defmstde 
+defmtdef 
+'HK/
+defqdefq 
+defvdefv 
+defvcdef 
+defvddef 
+defvsdef 
+defvstde 
+defvtdef 
+eacheach 
+keyskeys 
+looploop 
+reprepre 
+!!!!!!!! 
+!!!!!!!! 
+!!'!!'!! 
+domdomdo 
+{{{{{{{{ 
+}}}}}}}} 
+}"}"}"}" 
+}'}'}'}'
+typetypeX
+nameOffsetnameOfTZ7
+arrarrar
+#istart# 
+........
+getLoopStartgetL
+jnzLbl8
+ssssssss 
+arrarrar
+jnzRel8
+constant0
+typetype
+modrm11
+diediedi0
+arrarrar 
+addaddad 
+andandan 
+bandband 
+borborbo 
+bxorbxor 
+divdivdi 
+eqeqeqeq 
+gegegege 
+gtgtgtgt 
+lelelele 
+ltltltlt 
+modmodmo 
+mulmulmu 
+neqneqne 
+orororor 
+subsubsu 
+udivudiv 
+umodumod 
+xorxorxo 
+bnotbnot 
+negnegne 
+notnotno@
+capturedScopecap
+setgeReg
+executeIdentifierexecute 
+aJyG
+executeIdentifierScopede@
+69"#
+resolveInforesol
+defvdefv
+v_%&
+deffdeff 
+'HK/
+defqdefq 
+#iend#ie 
+........
+createFunctioncr
+executee 
+globalAllocBaseg
+globalAllocCount
+globalAllocSizeg
+arrarrar
+intToFloatintToF
+modrm11
+internalAllocateFloatint 
+internalAllocateIntegeri0
+internalAllocateScopeint 
+internalAllocateStringin 
+peekpeek 
+pokepoke@
+programStartprog
+OVD&
+rawAddressrawAdd
+rawCodeAddressra
+rawObjectrawObje
+replacer 
+syscalls 
+patchProgramStartpatchPr 
+defvdefv
+v_%&
+deffdeff 
+'HK/
+defqdefq@
+hookhook
+defvdefv 
+v_%&
+deffdeff
+'HK/
+defqdefq@
+getgetge 
+withwith 
+defvdefv
+v_%&
+deffdeff 
+'HK/
+defqdefq
+inputsin
+outputso 
+typetype
+defvdefv 
+v_%&
+deffdeff
+'HK/
+defqdefq 
+>gbD
+heapSize 
+allocall
+bitReset 
+bitSetbix
+bitTestb 
+fromArrayfromArr
+infixinf 
+inplacePrefixinp
+postfixp(
+isLoopEndisLoopE b
+prefixpr 
+splitspl 
+zerozero 
+defvdefv
+v_%&
+deffdeff 
+'HK/
+defqdefq
+==?==?==0
+=*?=*?=*X
+secret _ len dearray j eq { } { 1 sys .exit } ? * ] =secret 
+======== 
+%%%%%%%%@
+=*=*=*=* 
+%%%%%%%% 
+loopBody 
+00000000 
+==:==:==@
+01010101 
+=*:=*:=*@
+}}}}}}}}
+ffffffff
+xxxxxxxx
+entry
+asmasmas
+%%%%%%%%8
+00000000 
+********
+40404040 
+%%%%%%%%
+}_}_}_}_ 
+%%%%%%%%@
+01010101
+oooooooo
+00000000
+r10w
+38383838 
+%%%%%%%%
+........
+filename
+12121212
+%%%%%%%%
+00000000
+divqReg
+40404040 
+%%%%%%%%H
+00000000 
+%%%%%%%%
+%%%%%%%% 
+reg1
+00000000 
+deffstde 
+||||||||
+00000000 
+%%%%%%%%
+%%%%%%%%@
+00000000X
+viaviavi 
+40404040 
+%%%%%%%%
+executee(
+ffffffff
+aaaaaaaa
+rawCodeAddress
+thirdLast
+40404040 
+%%%%%%%%0
+fold on empty arrayfold  
+diediedi
+rawCodeAddress
+unravelu
+%%%%%%%%
+@0$:
+foldfold@
+40404040(
+encode
+aaaaaaaa 
+I!G I!G(I!G0I!G8A
+none
+unravelu@
+reverser@
+rawCodeAddressraTZ7
+--------
+? * 
+asmasmas
+w#8t
+anyanyan@
+rmN_
+________
+lenlenle
+programStartprogTZ7
+andandan 
+||||||||
+@0$:
+foldfold
+asmasmas 
+--------
+????????
+r10b
+********
+%%%%%%%% 
+allallal 
+%%%%%%%%
+00000000 
+pppppppp 
+=*=*=*=*
+XT*3
+00000000 
+[[[[[[[[
+01010101 
+--------
+00000000 
+%%%%%%%% 
+rmN_
+________
+pppppppp
+01010101 
+%%%%%%%% 
+%%%%%%%% 
+--------
+00000000
+????????
+********
+3E3E3E3E 
+%%%%%%%%
+eacheach
+]]]]]]]]
+%%%%%%%%
+00000000
+engrepen 
+02020202 
+%%%%%%%% 
+engrepen
+unravelu 
+********
+00000000 
+%%%%%%%%
+grepgrep 
+%%%%%%%%@
+11011011 
+--------
+dLD|
+loopsloo 
+;;;;;;;;
+engrepen
+argTypes 
+domdomdo 
+||||||||
+20*1*20* 
+--------
+00000000
+indicesi 
+00000000 
+%%%%%%%% 
+pppppppp 
+=*=*=*=*
+rmN_
+________
+aaaaaaaa 
+=*=*=*=*
+eacheach 
+lenlenle
+llllllll 
+========
+negnegne
+rrrrrrrr 
+========
+00000000 
+%%%%%%%% 
+rmN_
+________
+=[]=[]=[ 
+llllllll
+qImm8Reg 
+ltltltlt
+negnegne
+iiiiiiii 
+rrrrrrrr
+eqeqeqeq
+******** 
+andandan
+%%%%%%%%
+00000000 
+rmN_
+________
+aaaaaaaa
+******** 
+pppppppp
+00000000 
+%%%%%%%% 
+rmN_
+________
+rrrrrrrr 
+========
+%%%%%%%% 
+00000000x
+????????
+iiiiiiii 
+********
+addaddad
+vvvvvvvv 
+looploop
+--------
+======== 
+rrrrrrrr
+indexind 
+00000000 
+%%%%%%%% 
+r11b
+notnotno
+%%%%%%%%
+Assertion failureAsserti 
+diediedi
+p1cZ
+09090909
+iiiiiiii 
+reprepre
+assertas 
+freebsdf 
+.?.?.?.?
+ssssssss 
+========
+[[[[[[[[
+ssssssss
+stagesta 
+keyskeys
+syssyssy
+ssssssss
+01010101 
+--------
+======== 
+........
+eacheach
+]]]]]]]] 
+]]]]]]]]
+valuesva
+condscon 
+dearrayd(
+00000000 
+%%%%%%%%(
+none
+maxmaxma 
+lenlenle(
+iiiiiiii 
+rmN_
+________(
+00000000 
+%%%%%%%%0
+linuxlin(
+%%%%%%%%(
+%%%%%%%% 
+01010101
+01010101
+02020202 
+%%%%%%%%
+30*20*10*30*20*1
+iiiiiiii 
+ELFELFEL
+7F7F7F7F 
+%%%%%%%%
+[[[[[[[[
+dataOffsetdataOf
+condscon(
+alignUptoalignUp
+!hL6
+======== 
+vvvvvvvv
+maxmaxma0
+10101010 
+--------
+ltltltlt
+02102102 
+--------
+????????
+minminmi@
+--------
+dataSize
+#.?#.?#.@
+keyskeys
+dumpdump
+base
+undefined member in .: u 
+dumpdump
+dumpdump
+diediedi
+dataOffsetdataOf
+#.#.#.#.0
+keyskeys
+dumpdump
+undefined member in .|:  
+dumpdump
+dumpdump
+diediedi
+setDataOffsetset
+#.|#.|#.@
+keyskeys
+dumpdump
+undefined member in =: u 
+dumpdump
+dumpdump
+diediedi
+dataOffsetdataOf
+#.=#.=#.@
+MATCHMAT 
+ssssssss 
+XT*3
+TERMTERM 
+XPw"
+JUMPJUMP
+SPLITSPL
+SAVESAVE
+FIRSTFIR@
+LASTLAST8
+bbbbbbbb
+aaaaaaaa
+availableRegisters
+>2wm~
+consumedInputStack
+addrOrInt
+registerDeallocations
+math
+typetype 
+XT*3
+?R^5
+alternativealter
+sequence
+dataOffsetdataOfTZ7
+aaaaaaaa
+========
+ffffffff 
+'''''''' 
+aaaaaaaa
+]]]]]]]]
+[[[[[[[[ 
+aaaaaaaa
+reg1
+........
+#istep#i 
+aaaaaaaa
+arrarrar 
+unravelu 
+starstar 
+alignUptoalignUpTZ7
+pppppppp 
+dataOffsetdataOf
+pppppppp
+dump
+dataOffsetdataOf
+terminal
+unbase
+TERMANYT
+dataSize@
+TERMCHAR(
+dataOffsetdataOfTZ7
+iiiiiiii 
+typetype 
+aaaaaaaa 
+iiiiiiii
+parse`
+jnzRel8
+aaaaaaaa
+ffffffff 
+iiiiiiii
+S4+T
+capturec 
+setDataOffsetsetTZ7
+doLoopStepdoLoop
+emptyemp
+strstrst 
+zero
+]]]]]]]] 
+strstrst
+dataOffsetdataOf
+strstrst
+ssssssss
+headhead@
+01010101 
+done
+ffffffff 
+postfixp 
+dump
+dataOffsetdataOf
+tailtail(
+01010101
+10110110 
+none
+LOGICFUNCTION
+40404040 
+%%%%%%%%
+^^^^^^^^0
+installi
+38383838 
+%%%%%%%% 
+(((((((( 
+)))))))) 
+[[[[[[[[ 
+]]]]]]]] 
+-------- 
+|||||||| 
+^^^^^^^^ 
+******** 
+++++++++ 
+........ 
+$$$$$$$$ 
+\\\\\\\\ 
+????????(
+cccccccc(
+[[[[[[[[ 
+******** 
+cccccccc
+%%%%%%%%@
+|_{]
+01010101 
+40404040
+threadGetPCthrea
+threadGetCapturesthreadG
+band
+cloneThreadclone
+updateThreadupda
+K!,9
+bestViewPortSize
+!hL6
+jjjjjjjj(
+gtm16 to
+none
+concreteTypeStackconcret@)
+fullCloneThreadf
+|||||||| 
+origaddo
+.|.|.|.| 
+bitTestb(
+bitSetbi(
+zerozero0
+maxSizem
+search
+sizesize0
+encode
+getgetge@
+entry
+allocall 
+xmm2
+pcUsedpc@
+setDatas 
+stringTablestrinTZ7
+--------
+addqMemIndexScaleDisp32Reg
+sib cannot encode rbp as base
+addqRegMemIndexScaleDisp32
+iiiiiiii 
+addaddad
+resultsr
+addqMemIndexScaleDisp8Reg
+XH0i
+poppoppo@
+nameOffsetnameOfTZ7
+setlReg
+]]]]]]]] 
+lJ11S
+clearcle 
+syscall
+[[[[[[[[ 
+threadListthread
+currentCapturecu
+nnnnnnnn 
+mnemonic
+aaaaaaaa 
+nameOffsetnameOfTZ7
+strparse 
+bbbbbbbb 
+aaaaaaaa
+bbbbbbbb
+======== 
+none
+aaaaaaaa 
+strstrst 
+entry
+aaaaaaaa
+setNameOffsetset
+parsepar 
+catcatca
+ssssssss 
+addqRegMemIndexScaleDisp8
+aaaaaaaa 
+strstrst 
+llllllll 
+disp
+nameOffsetnameOfTZ7
+OVD&
+rawAddress
+01010101 
+imm8
+01010101 
+01010101 
+03210321 
+00000000 
+%%%%%%%% 
+addqMemIndexScaleReg
+llllllll
+llllllll
+nnnnnnnn 
+addqRegMemIndexScale
+llllllll
+llllllll
+llllllll
+nnnnnnnn
+nnnnnnnn(
+addqMemIndexReg
+namename 
+llllllll
+band
+llllllll 
+none
+ssssssss
+none
+ssssssss 
+addqRegMemIndex
+aaaaaaaa
+llllllll
+aaaaaaaa
+========
+llllllll 
+argTypea 
+invalid scale chosen for sib
+aaaaaaaa
+llllllll
+addqMemDisp32Reg
+seqseqse 
+zero
+aaaaaaaa 
+addqRegMemDisp320
+movqRegXmm
+regno
+00000000 
+%%%%%%%%
+currentCapturecu
+thisCapturethisC
+currentCapturecu
+currentCapturecu
+stagesta 
+Rel8
+aaaaaaaa
+^)^)^)^)
+addqMemDisp8Reg
+) expected) expe
+diediedi
+nameOffsetnameOf
+PAGESIZE
+allocSectionsallTZ7
+nsetnset 
+IC:&N`C
+addqRegMemDisp8
+\ke}
+setsetse
+shufflePush
+] expected] expe
+diediedi
+addqMemReg
+entry
+dataSize 
+addqRegMem
+\ke}
+setsetse 
+globalAllocSizegTZ7
+] expected] expe
+diediedi
+addqRegReg
+\ke}
+setsetse
+aaaaaaaa 
+dataBase 
+none
+aaaaaaaa 
+globalAllocBaseg
+Constant: 
+xmmAssert
+aaaaaaaa 
+entsizee 
+linklink 
+r11d
+argTypes 
+encode
+aaaaaaaa 
+XT*3
+addraddr 
+globalAllocBaseg
+dLD|
+loopsloo
+dddddddd
+00000000 
+right`
+eachArray
+99999999
+flagsfla
+aaaaaaaa
+typetype
+nnnnnnnn
+setDataOffsetsetTZ7
+********
+eqeqeqeq
+terminal
+aaaaaaaa 
+========
+tailtail
+dataOffsetdataOf
+........ 
+[[[[[[[[ 
+???????? 
+******** 
+++++++++ 
+$$$$$$$$ 
+^^^^^^^^ 
+\\\\\\\\ 
+band
+cccccccc 
+dataOffsetdataOf
+setNameOffsetset
+XHpK
+invalid scale chosen for sib
+rreg
+aaaaaaaa 
+XH@Q
+nameOffsetnameOfTZ7
+invalid character 'inval0
+' after \ in regex' afte 
+12012012 
+--------
+catcatca
+======== 
+catcatca
+loopsloo 
+diediedi
+nameOffsetnameOf
+catcatca 
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[0m.
+namename
+labels
+dLD|
+loopsloo 
+aaaaaaaa 
+]]]]]]]] 
+XH>P
+negnegne 
+aaaaaaaa
+iiiiiiii 
+xmmTable
+[[[[[[[[ 
+atomatom 
+tailtail
+======== 
+chars2ch
+argTypes 
+ssssssss 
+=*=*=*=*
+rmN_
+________
+ssssssss
+catcatca 
+01010101 
+--------
+]]]]]]]] 
+********
+argTypes 
+eqeqeqeq
+orororor
+]]]]]]]] 
+setsetse 
+==?==?==
+]KPGz
+metaSectionsmetaTZ7
+none
+\ke}
+setsetse 
+typetype 
+[[[[[[[[ 
+\ke}
+setsetse
+charscha 
+stringTablestrinTZ7
+action
+tailtail
+chars2ch
+ssssssss 
+=*=*=*=*
+rmN_
+________
+ssssssss
+01010101 
+--------
+-------- 
+********
+eqeqeqeq
+orororor
+setsetse 
+==?==?==
+setDatas 
+\ke}
+setsetse 
+\ke}
+setsetse
+dataSize 
+chars2ch 
+reverse
+\ke}
+setsetse 
+=buffer 
+datadata
+\ke}
+setsetse
+s1s1s1s1
+s2s2s2s2
+regno`
+dataSize
+\ke}
+setsetse
+datadata 
+target
+\ke}
+setsetse
+charsRch
+lowByte
+none
+startsta
+entsizee 
+xmm14`
+linklink
+\\\\\\\\
+startsta
+addraddr
+flagsfla
+nnnnnnnn 
+^^^^^^^^
+typetype 
+********
+startsta 
+========
+setDataOffsetsetTZ7
+invalid character 'inval0
+' after \ in regex' afte 
+12012012 
+--------
+catcatca
+catcatca
+diediedi
+dataOffsetdataOf
+reprepre`
+========
+endenden
+catcatca
+dataOffsetdataOfTZ7
+tailtail
+[[[[[[[[
+internalAllocateInteger
+^\^\^\^\
+setNameOffsetsetTZ7
+\\\\\\\\ 
+********
+endenden 
+========
+nnnnnnnn 
+^^^^^^^^
+nameOffsetnameOf
+********
+]]]]]]]] 
+endenden 
+========
+nameOffsetnameOf
+namename 
+invalid character 'inval0
+' after \ in regex' afte 
+12012012 
+--------
+catcatca
+jjjjjjjj 
+catcatca
+diediedi
+dump
+.strtab.
+[[[[[[[[ 
+]]]]]]]]
+condscon
+=[]=[]=[ 
+base
+r10d
+startsta
+jjjjjjjj
+reverser 
+endenden
+]]]]]]]]
+dataSize
+\ke}
+setsetse
+H)si
+datadata 
+startsta
+-------- 
+E*3^
+last
+MemIndex 
+\ke}
+setsetse
+dearrayd 
+lenlenle 
+\ke}
+setsetse
+entsizee
+XT*3
+charsNch 
+regno
+rmN_
+________
+linklink
+reverser(
+currentCapturecu
+addraddr 
+********
+newThreadnewThre
+jjjjjjjj 
+flagsfla 
+progprog
+stringst 
+[[[[[[[[ 
+position 
+reprepre 
+maxPositionmaxPo
+matchedm 
+======== 
+matchedThreadmat
+jjjjjjjj
+labelHoles%
+andandan 
+modrm11
+clistcli 
+typetype
+TM1-
+nlistnli
+ltltltlt
+ilistili
+newThreadnewThre
+======== 
+defOp`
+typetype 
+threadth 
+addaddad
+pcpcpcpc 
+typetype 
+typetype 
+codecode 
+none
+******** 
+addaddad 
+iPushiPu 
+******** 
+poppoppo 
+disp
+iPopiPop 
+jjjjjjjj 
+setDataOffsetset
+X`6Z
+X`6Z
+X`6Z
+dataOffsetdataOfTZ7
+XT*3
+x 7n
+jjjjjjjj 
+none
+dataOffsetdataOf
+lreg
+setNameOffsetsetTZ7
+modrmOpcode
+testScopeModifications
+target
+nameOffsetnameOf
+position
+eqeqeqeq
+nameOffsetnameOfTZ7
+pcpcpcpc
+addaddad
+threadth
+cloneThreadclone
+opcode2
+iPushiPu
+reprepre
+namename 
+.null.nu 
+position
+maxPositionmaxPo
+modrm11
+eqeqeqeq
+pcpcpcpc
+addaddad
+threadth
+cloneThreadclone
+iPushiPu
+movsl`
+reprepre
+openopen 
+codeSemanticscod
+setgReg
+typetype 
+iiiiiiii 
+scale`
+I!G I!G(I!G0I!G8A
+writeonlywriteon
+regno`
+creating
+X`,Z
+X`,Z
+offsetInExtensionArea
+rmN_
+outoutou(
+needsAScope
+iiiiiiii
+strstrst 
+zero
+2-Y]z
+filefile
+target
+logic`
+dLD|
+loopsloo
+lodsb`
+PYZH
+imm8
+currentCapturecu
+base
+iiiiiiii@
+alignUptoalignUpTZ7
+UNTYPEDUNSCOPEDSTAR
+XYPQH
+argTypes
+********@
+???????? 
+infixinf 
+********
+executee 
+XPj$
+ffffffff
+dearrayd 
+progprog 
+canRewrite
+lenlenle 
+XPj$
+01010101 
+rmN_
+________ 
+01010101 
+offset
+******** 
+???????? 
+defOp
+keys
+progprog 
+valueval 
+[[[[[[[[
+diediedi 
+[[[[[[[[
+SPLITSPL
+]]]]]]]]
+dumpdump 
+[[[[[[[[
+TERMTERM
+--------
+alignalih
+subsubsu 
+]]]]]]]]
+[[[[[[[[
+JUMPJUMP
+dumpdump 
+negnegne
+]]]]]]]]
+progprog
+defOp`
+rmN_
+________
+lenlenle
+dearrayd
+]]]]]]]]
+progprog 
+========
+outputso
+outputso 
+progprog
+encode
+XT*3
+uint8uin
+`pqU
+bandband 
+w9g#
+enregexe8
+reprepre
+addaddad8
+inputsin 
+typedtyp 
+typetype 
+ltltltlt
+XT*3
+rmN_
+________ 
+enregexe 
+||||||||
+inputsin 
+******** 
+||||||||
+bit64assert
+uint16ui 
+w9g#
+enregexe
+********
+regexreg8
+mode
+scopesco
+H) ;
+base
+keyskeys
+globalsg@
+RDONLYRD@
+WRONLYWR 
+RDWRRDWR
+multi-output function in auto-loopmulti- 
+diediedi 
+RWMASKRW
+PROTREAD 
+PROTWRITEPROTWRI
+PROTEXEC 
+xmm1
+MAPPRIVATEMAPPRI
+OVD&
+rawAddress
+MAPANONYMOUSMAPA
+OCREATOC
+........ 
+OTRUNCOT
+OAPPENDO 
+argargar8
+READREAD 
+eacheach
+WRITEWRIx
+OPENOPEN 
+reprepre
+CLOSECLO0
+e\.O
+MMAPMMAP 
+********
+MUNMAPMU@
+iiiiiiii 
+EXITEXIT@
+priorRead
+addaddad@
+neqneqne@
+ ==f 
+iiiiiiii0
+========@
+objects of type 13 should not appear
+xmm13`
+action
+iiiiiiii 
+codecode 
+========
+codecode
+EXITEXIT
+rangeran 
+syssyssy
+asmasmas 
+........
+syscalls 
+........
+exit failedexit 
+diediedi
+concreteArgsconc
+exitexit
+lenlenle@
+four
+modemode@
+reprepre 
+flagsfla 
+fdfdfdfd 
+flagsfla
+diediedi 
+RWMASKRW
+bnotbnot
+bandband
+dumpdump 
+RDONLYRD
+borborbo
+flagsfla 
+========
+dumpdump 
+readonly 
+l9J#`
+uint32ui@
+eqeqeqeq
+eacheach 
+writeonlywriteon
+flagsfla
+RWMASKRW
+reprepre 
+bnotbnot
+bandband
+RDWRRDWR
+borborbo
+reprepre 
+flagsfla 
+========
+readwritereadwri
+========
+creating@
+flagsfla
+.?.?.?.? 
+OAPPENDO
+src ff 
+borborbo
+======== 
+flagsfla 
+========
+appendingappendi
+rmN_
+________
+FUNCTIONCREATE
+addaddad 
+flagsfla
+OTRUNCOT
+catcatca 
+borborbo
+flagsfla 
+========
+gggggggg(
+truncatingtrunca
+j\FX
+pathpath 
+parse`
+******** 
+INLINEBLOCKAND
+file already openfile al 
+diediedi
+uint64ui 
+#-04321  
+#-0321 # 
+#-021 #- 
+#-01 #-0 
+######## 
+[[[[[[[[ 
+asmasmas 
+subsubsu 
+syscalls 
+subsubsu 
+fdfdfdfd 
+lenlenle 
+cannot open cann
+j\FX
+pathpath
+catcatca
+diediedi
+movqImmReg
+argargar 
+openopen 
+reprepre@
+diediedi 
+syscalls@
+bad things happened to your close callba 
+diediedi
+dumpdump
+MgzJ
+closeclo0
+orqImm32MemIndexScaleDisp32
+countcou 
+dumpdump@
+strparse 
+%%%%%%%% 
+file not openfil
+diediedi
+rawCodeAddress
+bit8assert
+gtgtgtgt0
+Zs@kb
+orqImm8MemIndexScaleDisp32
+allocall 
+dump
+bufbufbu 
+eqeqeqeq
+strstrst
+........@
+........
+asmasmas@
+syscalls@
+syssyssy@
+\\\\\\\\
+ffffffff
+orwImmMemIndexScaleDisp32
+read failedread 
+diediedi
+strstrst
+........@
+orbImmMemIndexScaleDisp32
+........(
+inplacePrefixinp
+asmasmas 
+readread@
+20*10*20@
+bufbufbu 
+========
+syssyssy 
+fdfdfdfd
+ltltltlt
+not a valid hex-stringno 
+file not openfil
+diediedi
+|||||||| 
+reprepre
+fdfdfdfd
+======== 
+bufbufbu
+gggggggg 
+rmN_
+________
+lenlenle
+rmN_
+________ 
+WRITEWRI
+syssyssy
+asmasmas 
+........
+globalsg 
+syscalls 
+........
+--------
+rmN_
+________
+ltltltlt
+strNumberstrNumbTZ7
+write failedwrit
+diediedi
+frozenAllocationCountfro
+reprepre
+patchProgramStartpatchPr 
+eqeqeqeq 
+writewri 
+type
+ARITHFUNCTION`
+bufbufbu0
+........ 
+opcode1
+typetype@
+stageCallsstageCTZ7
+file not openfil
+diediedi
+concreteArgsCopy
+concreteArgsCopyTZ7
+........(
+concreteArgsconc
+``_G
+concreteArgsCopyTZ7
+typedtyp 
+syssyssy 
+E*3^
+last
+orqImm32MemIndexScaleDisp8
+argargar
+jbLbl32
+======== 
+syscalls 
+jbRel32
+argargar0
+rawObject
+******** 
+concreteArgsconcTZ7
+write failedwrit
+diediedi
+doLoopStepdoLoop
+orqImm8MemIndexScaleDisp8
+[ secret _ len dearray j eq { } { 1 sys .exit } ? * ] =secret 
+postfixp 
+scoped t@
+eacheach
+transformLoopIndextransf@*
+writeall 
+ffffffff 
+reprepre 
+bufferbu 
+readread
+orwImmMemIndexScaleDisp8@
+======== 
+opcode1
+XT*3
+iiiiiiii 
+======== 
+splitspl
+lineslin 
+andandan
+orbImmMemIndexScaleDisp8
+notnotno 
+transformLoopIndextransf 
+H)@M
+neqneqne 
+........ 
+XPR,
+typetype
+........
+typedtyp
+concreteArgsCopy
+syssyssy
+******** 
+rewriteArithmetics
+bufferbu
+strstrst
+splitspl 
+........
+ffffffff 
+||||||||
+inputsin 
+eacheach
+isLoopEndisLoopE
+`Q`CS
+eachLine
+getLoopStartgetLv_%&
+cloneForLoopclon
+loopedOverlooped
+makefile8
+RDWRRDWR
+makefile
+fdToFilex
+........`
+makefile
+viewPortOffsetvi
+2-Y]z
+filefile
+inininin
+concrete argument constant functionification needs to be implemented, mismatch: $bestViewPortMatchconcre
+loopIndexloopInd
+outoutou
+typeStacktypeSta
+errerrer
+reqAddrr 
+========
+iiiiiiii 
+reqSizer 
+========
+<<<<<<<<
+........ 
+reqAddrr
+typetype 
+reqSizer
+PROTEXEC
+........ 
+PROTREAD
+typedtyp(
+PROTWRITEPROTWRI
+borborbo
+syssyssy 
+borborbo
+MAPPRIVATEMAPPRI
+********(
+MAPANONYMOUSMAPA
+borborbo
+negnegne
+iiiiiiii 
+e\.O
+MMAPMMAP
+syssyssy
+======== 
+asmasmas 
+........
+iiiiiiii 
+syscalls 
+........
+--------
+rmN_
+________
+reverser 
+ltltltlt
+mmap failedmmap 
+diediedi
+reprepre
+rangeran 
+basebase 
+========
+reqSizer
+lenlenle 
+sizesize 
+========
+basebase
+sizesize
+MUNMAPMU
+======== 
+syssyssy
+asmasmas 
+........
+======== 
+syscalls 
+........
+--------
+ltltltlt
+munmap failedmun
+diediedi
+concreteArgsconc
+reprepre
+stageCallsstageC
+freefree 
+=*=*=*=*
+>>>>>>>>
+formalTypeStackf
+allocAta
+deffdeff(
+stageCallsstageCTZ7
+syssyssy
+asmasmas 
+........
+allocAta 
+........
+allocall
+<<<<<<<<@
+objectob@
+objectob
+dumpdump
+unknown type in typeStackunknown
+diediedi
+unknownu0
+objectob
+dumpdump
+invalid type in typeStackinvalid
+diediedi
+stageCalls2stage
+invalidi
+stageCalls2stageTZ7
+toBeAbstractedTypestoBeA
+literall
+xmm4
+typetype`
+I!G I!G(I!G0I!G8A
+toBeAbstractedTypestoBeA
+objectob
+syssyssy
+typedtyp 
+........
+inputsin 
+........
+inininin 
+========
+inininin
+lenlenle
+neqneqne
+iterationSourceiTZ7
+multi-input function in typeStackmulti-i 
+diediedi
+isIterableTypeis
+reprepre
+[[[[[[[[
+inininin
+modrm00
+********
+negnegne
+]]]]]]]]
+none
+objectob
+syssyssy
+jbLbl8
+typedtyp 
+........
+outputso 
+........
+outoutou 
+========
+outoutou
+jbRel8
+lenlenle
+neqneqne
+iterationSourceiTZ7
+multi-output function in typeStackmulti- 
+diediedi
+commonIterationTypecommo 
+reprepre
+outoutou
+********
++mGh
+typeStackInternaltypeSta
+toBeAbstractedTypestoBeA`
+iiiiiiii
+XT*3
+xmm9
++mGh
+typeStackInternaltypeSta
+isIterableTypeis
+iterationSourceiTZ7
+[[[[[[[[
+negnegne
+]]]]]]]]
+stageCalls2stage
+zero
+[[[[[[[[
+objectob
+#dom#dom 
+.?.?.?.?
+stageCallsstageCTZ7
+objectob
+#dom#dom 
+........
+dddddddd 
+========
+objectob
+#in#in#i 
+........
+inininin 
+========
+inininin
+lenlenle
+neqneqne
+concreteArgsconcTZ7
+multi-input scope (with #dom) in typeStackmulti-
+diediedi
+typeMismatchtype
+reprepre
+[[[[[[[[
+inininin
+********
+dddddddd
+lenlenle
+7I`1
+subsubsu
+7I@2
+]]]]]]]]
+7I 3
+objectob
+#out#out 
+........
+outoutou 
+========
+outoutou
+lenlenle
+buffer
+neqneqne
+invalid input type at argument index invH
+multi-output scope (with #dom) in typeStackmulti
+diediedi
+handlingMemberha
+reprepre
+7I <
+outoutou
+********
++mGh
+typeStackInternaltypeSta
+concreteArgsconc
+mismatchIndexmisTZ7
+objectob
+#*#*#*#* 
+.?.?.?.?
+concreteArgsconc
+mismatchIndexmisTZ7
+objectob
+#in#in#i 
+........
+inininin 
+========
+inininin
+lenlenle
+7IpK
+modrm11
+neqneqne
+7IPL
+handlingMemberhaTZ7
+multi-input scope in typeStackmu
+diediedi
+handlingMemberha
+reprepre
+[[[[[[[[
+inininin
+********
+7I`R
+negnegne
+7I@S
+]]]]]]]]
+7I T
+======== 
+objectob
+cccccccc 
+#out#out 
+........
+outoutou 
+========
+outoutou
+lenlenle
+diediedi 
+neqneqne
+candidatecandidaTZ7
+multi-output scope in typeStackm
+diediedi
+candidatecandida
+reprepre
+outoutou
+diediedi 
+********
++mGh
+typeStackInternaltypeSta
+#-0987654321 #-0
+#-087654321 #-08TZ7
+]]]]]]]]
+literall
+]]]]]]]]
+condscon
+#-07654312 #-076
+tokentok
+regno
+xmm7
+#-0654321 #-0654
+?r&PH
++mGh
+typeStackInternaltypeStax
++mGh
+typeStackInternaltypeSta
+#-054321 #-05432
+typeStacktypeSta
+mismatchIndexmisv_%&
+@^9 
+concreteArgsconc
+isVariableTypeis
+mismatchIndexmis 
+ttttttttX
+opcode
+?r&PH
+mismatchIndexmisTZ7
+complex execution type non-triplecomplex 
+diediedi
+rawAddressrawAdd
+eacheach
+rawAddressrawAdd
+xpq!
+isIterableTypeis
+handlingMemberhav_%&
+@^9 
+========
+aaaaaaaa 
+=*=*=*=*
+bbbbbbbb 
+=*=*=*=*
+reprepre 
+[[[[[[[[
+concreteArgsconcTZ7
+aaaaaaaa
+syssyssy
+regno`
+typedtyp 
+........
+typetype 
+........
+======== 
+bbbbbbbb
+syssyssy
+typedtyp 
+........
+======== 
+typetype 
+........
+neqneqne
+mismatchIndexmis
+typeMismatchtypeTZ7
+mismatchIndexmisTZ7
+aaaaaaaa
+syssyssy
+typedtyp 
+........
+ltltltlt 
+typetype 
+........
+neqneqne
+typeMismatchtype
+typeMismatchtypeTZ7
+type equality only implemented for intst 
+diediedi
+concreteArgsconc
+concreteArgsconcTZ7
+bbbbbbbb
+syssyssy
+typedtyp 
+........
+======== 
+typetype 
+........
+neqneqne
+mismatchIndexmis
+typeMismatchtypeTZ7
+type equality only implemented for intst 
+diediedi
+toBeAbstractedTypestoBeA
+aaaaaaaa
+modrm10
+bbbbbbbb
+right`
+neqneqne
+each
+remainingremainiTZ7
+typeStacktypeStaTZ7
+======== 
+]]]]]]]]
+condscon
+typeEqualtypeEqu
+earlierTypeearli
+========
+]]]]]]]](
+laterTypelaterTy
+========
+[[[[[[[[
+earlierTypeearli
+eacheach(
+laterTypelaterTy
+typeEqualtypeEqu
+earlierTypeearli
+earlierTypeearli
+fmulp`
+********
+syssyssy
+******** 
+typedtyp 
+........
+typetype 
+........
+{{{{{{{{ 
+neqneqne
+magic goes here FIXMEmag
+xmm6
+earlierTypeearli
+********
+rangeran(
+laterTypelaterTy
+********
+neqneqne
+bestViewPortMatchbestVieP
+earlierTypeearli
+[[[[[[[[ 
+********
+negnegne
+======== 
+neqneqne
+viewPortMatchvie
+bestViewPortSizeTZ7
+earlierTypeearli
+viewPortSizeview
+Al9i"
+bestViewPortMatchbestVie
+laterTypelaterTy
+********
+negnegne
+rangeran 
+neqneqne
+viewPortMatchvie
+viewPortMatchvieTZ7
+laterTypelaterTy
+typeMismatchCounttypeMis
+concreteTypeStackconcret 
+formalTypeStackfTZ7
+earlierTypeearli
+typeViewPorttype
+]]]]]]]]
+addaddad 
+condscon
+concreteTypeStackconcret 
+commonIterationTypecommox
+{{{{{{{{ 
+arrarrar
+lenlenle
+typetype
+viewPortSizeviewTZ7
+I!G I!G(I!G0I!G8A
+viewPortSizeview
+concreteTypeStackconcret
+arrarrar
+#iclone# 
+........
+isVariableTypeis
+cloneForLoopclon
+Al9i"
+bestViewPortMatchbestVie 
+arrarrar
+iiiiiiii
+cannot create member-fallback for argument index cannot 
+a handling member could not be found at argument index a
+?r&PH
+7IrT
+7IP5
+7Ip2
+7Ip0
+7Ip(
+PYZH
+0@!3
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+QRSVWH
+_^[ZYH
+tXPH
+I!G I!G(I!G0I!G8A
+`pb/
+7I@%
+7I`"
+flagsfla@
+orqImm32MemIndexScale
+addraddr 
+orqImm8MemIndexScale
+dataOffsetdataOf
+  i l eq { 
+orwImmMemIndexScale
+} ? * 
+dataSize@
+orbImmMemIndexScale
+linklink 
+parse`
+btsqRegMemIndexScaleDisp32
+btsqRegMemIndexScaleDisp8
+btsqRegMemIndexScale
+ssssssss(
+01010101 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+modrm11
+00000000 
+%%%%%%%%
+07070707 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+dataOffsetdataOf
+dataBase
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+dump
+00000000 
+%%%%%%%%
+btsqRegMemIndex
+dataSize 
+orqImm32MemIndex
+dataSize 
+regno`
+01010101 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+00000000 
+%%%%%%%%
+btsqRegMemDisp320
+rawObject
+fileHeadersfileH
+fileOffsetfileOf
+btsqRegMemDisp8
+datadata@
+btsqRegMem
+datadata8
+btsqRegReg
+orqImm8MemIndex
+bit64assert
+orwImmMemIndex
+jngLbl32(
+fromArrayfromArr
+imm8
+H@c[
+writeall@
+orbImmMemIndex
+sections
+dataOffsetdataOf
+orqImm32MemDisp32
+allocall
+orqImm8MemDisp32
+found`
+writeall
+labelStack
+dataOffsetdataOf
+SCOPEIGNORANTFUNCTIONS
+dataSize
+orwImmMemDisp32
+fileOffsetfileOf
+math
+fdfdfdfd
+orbImmMemDisp32
+dataBase
+dataSize 
+asmasmas
+syscalls
+dataSize
+orqImm32MemDisp8
+INLINEQUESTIONSTARTHISSCOPE
+write failedwrit
+diediedi
+orqImm8MemDisp8
+orwImmMemDisp8
+``2f
+outoutou
+closeclo 
+........
+ffffffff 
+========
+defOp`
+syssyssy
+asmasmas 
+........
+patchProgramStartpatchPr 
+........
+--------
+>gbD
+heapSize
+neqneqne
+freezing allocated new memory chunks, retrying...freezin 
+dumpdump
+jngRel32 
+ffffffff
+regno`
+filename
+syssyssy
+freezefr 
+........
+orbImmMemDisp8
+XT*3
+reprepre
+freezefr
+rmN_
+________
+ffffffff 
+========
+rmN_
+________
+syssyssy
+typedtyp 
+........
+inputsin 
+........
+inputsin 
+========
+syssyssy
+typedtyp 
+........
+outputso 
+........
+outputso 
+========
+unbase
+inputsin
+lenlenle
+ltltltlt
+ffffffff
+orqImm32Mem
+band
+t from curry should never executet from  
+diediedi
+orqImm8Mem
+[[[[[[[[
+inputsin
+lenlenle
+subsubsu
+inputsin
+********
+]]]]]]]]
+outputso
+''''''''
+tttttttt 
+========
+inputsin
+lenlenle
+subsubsu
+rangeran
+reverser
+orwImmMem
+iiiiiiii 
+========
+tttttttt
+[[[[[[[[
+iiiiiiii
+inputsin
+********
+]]]]]]]]
+[[[[[[[[
+tttttttt
+]]]]]]]]
+''''''''
+tttttttt 
+========
+`Lu|	
+orbImmMem8%
+eacheach
+inputsin
+lenlenle
+rangeran
+reverser
+iiiiiiii 
+========
+ffffffff
+<<<<<<<<
+gggggggg 
+=*=*=*=*
+gggggggg
+>>>>>>>>
+--------
+[[[[[[[[
+iiiiiiii
+reverse
+inputsin
+7I`w
+********
+7I@x
+]]]]]]]]
+7I y
+[[[[[[[[
+tttttttt
+]]]]]]]]
+''''''''
+ffffffff 
+========
+tttttttt
+syssyssy
+typedtyp 
+........
+outputso 
+........
+********
+tttttttt 
+========
+orqImm32Reg
+eacheach
+ffffffff
+orqImm8Reg
+????????
+********
+orbImmReg
+currycur(
+bit64assert
+||||||||
+currycur
+||||||||
+oooooooo 
+========
+unknown type in **unknow 
+diediedi
+unknownu 
+==:==:==
+invalid type in **invali 
+diediedi
+invalidi 
+==:==:==
+oooooooo
+regno`
+syssyssy
+typedtyp 
+........
+typetype 
+........
+s==*
+jngLbl8
+[[[[[[[[
+oooooooo
+oooooooo
+oooooooo
+unknownu
+jngRel8
+invalidi
+oooooooo
+********
+********
+math
+invalidi
+oooooooo
+********
+********
+invalidi
+oooooooo
+#*#*#*#* 
+.?.?.?.?
+oooooooo
+modrm11
+********
+********
+oooooooo
+????????
+********
+invalidi
+unknownu
+unknownu
+unknownu
+unknownu
+unknownu
+r15d
+]]]]]]]]
+********
+********
+********(
+0123456789012345
+base10digitsbase
+0123456789ABCDEF
+base16digitsbase
+i=F?
+FLOATFLO
+rmN_
+________
+ltltltlt
+negnegne
+--------
+????????
+********
+01010101 
+--------
+[[[[[[[[
+01010101 
+--------
+rmN_
+________
+umodumod
+base16digitsbase
+********
+01010101 
+--------
+udivudiv
+rawCodeAddress
+reprepre
+--------
+]]]]]]]]
+reverser
+strstrst
+fromArrayfromArr
+........
+catcatca
+base16encode64ba
+unknown type in dumpunkn 
+diediedi
+unknownu(
+invalid type in dumpinva 
+diediedi
+invalidi(
+entry`
+oooooooo
+base16encode64ba
+syssyssy
+errerrer 
+........
+writeall 
+........
+""""""""@
+""""""""
+none
+errerrer 
+writeall@
+rawCodeAddress
+oooooooo
+ffffffff 
+========
+strparse 
+eeeeeeee 
+========
+++++++++ 
+ssssssss 
+========
+iiiiiiii 
+========
+ffffffff
+encode
+i=F?
+FLOATFLO
+ltltltlt
+i=F?
+FLOATFLO
+ffffffff
+subsubsu
+qReg
+ffffffff 
+========
+-------- 
+ssssssss 
+========
+reprepre
+ffffffff
+i=F?
+FLOATFLO
+ltltltlt
+iiiiiiii
+ltltltlt
+XT*3
+andandan
+ffffffff
+ffffffff 
+i=F?
+FLOATFLO
+mulmulmu
+ffffffff 
+========
+eeeeeeee
+subsubsu
+eeeeeeee 
+========
+iiiiiiii
+addaddad
+XT*3
+iiiiiiii 
+========
+looploop
+ffffffff
+base
+i=F?
+FLOATFLO
+gegegege
+iiiiiiii
+ltltltlt
+andandan
+ffffffff
+i=F?
+FLOATFLO
+xmmTable 
+divdivdi
+ffffffff 
+ffffffff 
+========
+eeeeeeee
+offset
+addaddad
+eeeeeeee 
+========
+iiiiiiii
+addaddad
+iiiiiiii 
+========
+looploop
+XT*3
+iiiiiiii
+eqeqeqeq
+ssssssss
+ffffffff
+i=F?
+FLOATFLO
+ltltltlt
+0.0e00.0 
+infinfin 
+????????
+catcatca
+syssyssy
+errerrer 
+........
+writeall 
+........
+dddddddd 
+========
+rangeran
+iiiiiiii 
+========
+defOp`
+ffffffff
+none
+iiiiiiii
+i=F?
+FLOATFLO
+gtgtgtgt
+iiiiiiii
+dddddddd 
+========
+reprepre
+cmovzqRegReg
+01010101 
+eacheach
+ffffffff
+dddddddd
+subsubsu
+ffffffff 
+========
+ffffffff
+none
+i=F?
+FLOATFLO
+mulmulmu
+ffffffff 
+========
+dddddddd
+base10digitsbase
+********
+extractDigitextr
+////////
+deffstde
+[[[[[[[[
+ssssssss
+********
+extractDigitextr
+........ 
+********
+extractDigitextr
+||||||||
+reprepre
+eeeeeeee 
+********
+imm8
+eeeeeeee
+ltltltlt
+eeeeeeee
+subsubsu
+eeeeeeee 
+========
+-------- 
+********
+reprepre
+eeeeeeee
+eqeqeqeq
+00000000 
+********
+reprepre
+[[[[[[[[
+capturedScope
+eeeeeeee
+eeeeeeee
+modmodmo
+base10digitsbase
+********
+eeeeeeee
+divdivdi
+eeeeeeee 
+========
+looploop
+]]]]]]]]
+reverser
+rmN_
+________
+lenlenle
+dearrayd
+]]]]]]]]
+strstrst
+none
+fromArrayfromArr
+........
+syssyssy
+errerrer 
+........
+writeall 
+........
+????????
+********
+********
+<function: <func
+oooooooo
+syssyssy
+asmasmas 
+........
+rawAddressrawAdd
+........
+base16encode64ba
+catcatca
+>>>>>>>> 
+catcatca
+syssyssy
+errerrer 
+........
+writeall 
+........
+<function code: 
+oooooooo
+syssyssy
+asmasmas 
+........
+rawAddressrawAdd
+........
+base16encode64ba
+catcatca
+>>>>>>>> 
+catcatca
+syssyssy
+errerrer 
+........
+writeall 
+........
+syssyssy
+errerrer 
+........
+XT*3
+writeall 
+........
+oooooooo
+indentin
+XT*3
+addaddad
+dumpIndenteddump
+eacheach
+indentin
+         
+catcatca
+reprepre
+]]]]]]]] 
+catcatca
+syssyssy
+errerrer 
+........
+modrm11
+writeall 
+........
+<scope:  
+oooooooo
+syssyssy
+asmasmas 
+........
+rawAddressrawAdd
+........
+base16encode64ba
+catcatca
+>>>>>>>> 
+catcatca
+syssyssy
+errerrer 
+........
+writeall 
+........
+<coroutine: <cor
+oooooooo
+syssyssy
+v_%&
+deff
+asmasmas 
+........
+rawAddressrawAdd
+........
+action
+base16encode64ba
+catcatca
+>>>>>>>> 
+catcatca
+syssyssy
+errerrer 
+........
+writeall 
+........
+dumpActionsdumpA
+indentin@
+ooooooooP
+_ len dearray j eq { } { 1 sys .exit } ? * ] =secret `
+secret
+unboxedInt
+         
+catcatca
+errerrer 
+writeall(
+typetype
+opcode
+errerrer
+writeall@
+dumpIndenteddump
+dumpdump
+currentScopecurr
+;O~G
+inputinp
+00000000
+zerozero
+resultre 
+base10decodebase
+H`Wn
+intToFloatintToF
+i=F?
+FLOATFLO
+valueval 
+aJyG
+executeIdentifierScopede 
+currentScopecurr
+TOKIDTOK
+valueval8
+TOKINTTO
+valueval 
+........
+7Ip*
+modrm00 not possible on rsp / rbp / r12 / r13 and their partial registersK
+strmatchedstrmat
+strmatchedstrmat
+strmatchedstrmat
+entry
+H)P/$
+H) 9&
+H)@w
+H)@. 
+LOGICFUNCTION
+bit32assert
+` h/
+opcode only exists on AMD cpus (and has 'interesting' semantics even there)
+regno
+;-gl
+modrm01
+E*3^
+last
+MemIndexScaleDisp32
+ ==f `
+`0>G
+``t?
+seven`
+peek
+xpn4
+labelRel32
+0123456789ABCDEF@
+G.$^}
+xmm12
+?s.H
+?s.H
+?s.H
+xmm8
+each
+`@#<
+``B?
+defAsmAddl
+bit8assert
+16 bit relative label out of range: 
+regno
+bit64table
+relevantScope
+` };
+TOKFLOAT
+tokentok
+02020202 
+--------
+nonInlineCase`
+notnotno
+Not in fact a floatNot i 
+diediedi
+reprepre
+m1m1m1m1 
+========
+--------
+m2m2m2m2 
+========
+--------
+eSeSeSeS 
+========
+eeeeeeee 
+========
+i=F?
+FLOATFLO
+m1fm1fm1 
+========
+m1m1m1m1
+zerozero
+subsubsu
+7I`-
+m1fm1fm1
+7I@.
+i=F?
+FLOATFLO
+7I /
+mulmulmu
+addaddad
+m1fm1fm1 
+========
+eacheach
+none
+i=F?
+FLOATFLO
+XT*3
+m2fm2fm2 
+========
+[[[[[[[[
+labels
+m2m2m2m2
+eacheach
+]]]]]]]]
+reverser
+zerozero
+subsubsu
+logic
+m2fm2fm2
+addaddad
+i=F?
+FLOATFLO
+zero
+divdivdi
+m2fm2fm2 
+========
+eacheach
+m1fm1fm1
+m2fm2fm2
+addaddad
+regno`
+resultre 
+========
+eieieiei 
+========
+eeeeeeee
+ADD: unhandled right type
+zerozero
+subsubsu
+eieieiei
+mulmulmu
+addaddad
+eieieiei 
+========
+rexreqbyteTable
+eacheach
+eSeSeSeS
+opcode2
+eqeqeqeq
+eieieiei
+resultre
+i=F?
+FLOATFLO
+mulmulmu
+resultre 
+========
+reg2
+reprepre
+H)0]
+eieieiei
+resultre
+i=F?
+FLOATFLO
+divdivdi
+resultre 
+========
+XT*3
+reprepre
+????????
+encode
+********
+resultre
+TOKFLOAT@
+valueval 
+TOKSTRTO 
+stringLoop
+elymasel
+mnemonic 
+tokenize
+handleha0
+7Iuj
+eachLine
+XPvY
+XPvY
+includeFileinclu
+2-Y]z
+filefileP
+openopen 
+parse`
+MgzJ
+closeclo
+12012012 
+includei
+ffffffff
+rererere
+loop
+ssssssss 
+registerDeallocations
+?qTm
+rxparser
+strparse 
+TOKIDTOK 
+TOKSTRTO 
+TOKINTTO
+TOKFLOAT
+        
+{ } ? * @
+handleha
+======== 
+action
+strstrst 
+valueval
+X`;"
+X`;"
+X`;"
+X`;"
+X`;"
+catcatca@
+X`;"
+X`;"
+tokentok
+01010101 
+strstrst 
+116 15 2
+0 24 134
+ 66 211 
+matchedm@
+ffffffff@
+parsepar
+X ] 
+registerDeallocations
+entry
+`0t/
+bit64assert
+sib cannot encode rsp as index
+Imm8 too large
+bit64assert
+bit64assert
+lealMemIndexScaleDisp8Reg
+labelStack
+!~^%E
+shlqClReg1
+H0e 
+parse
+bit64assert
+X@%"
+X@%"
+scopingHeaderPattern
+invalid @
+cmovbqRegReg
+offsetInScope
+inputs
+targetAddress
+vZuo
+r12d
+69"#
+resolveInfo
+H + 
+H0E 
+H + 
+xmm15`
+each
+` " 
+X / 
+defJmpRel8
+xmm15`
+X07 
+X07 
+X07 
+X0I 
+bit8assert
+movzxwqRegReg
+X`= 
+xp3 
+INLINEQUESTIONSTARUNSCOPEDCONST
+X0I 
+X0I 
+rawCodeAddress
+```,
+H0e 
+X@a!
+bit16assert
+`@]/
+bit8assert
+bswapqReg
+strstrst
+PPr 
+catcatca
+PPs 
+strstrst 
+========
+PPt 
+`Pu 
+strparse
+X@a!
+X@a!
+X@y 
+X@y 
+X@y 
+X@y 
+X@y 
+X@y 
+X@y 
+X@y 
+X@y 
+r14b
+encode
+rewriteTrivialRep
+xmm3
+unbase
+xmm3
+base
+rmN_
+setLabelHoles
+defJmpRel16
+x@, 
+X@%"
+X@%"
+H0E 
+X@a!
+98 62 
+ ==f @
+Imm8 too large
+H@v=
+variant
+r11b
+H@v=
+3MQJ
+FUNCTIONCREATE
+r11w
+r11w
+secondLast
+memoryAddressingVariants 
+X`&!
+bit64assert
+H [=
+X@%"
+X@%"
+UNTYPEDUNSCOPEDSTAR
+H0SN
+xmm9
+offset
+opcode only exists on AMD cpus (and has 'interesting' semantics even there)
+H0SN
+`@i>
+H _N
+regno
+modrm11
+X`	!
+`@YC
+objects of type 3 should not appear
+X@a!
+16 bit relative label out of range: 
+X@a!
+X`	!
+rorbClReg
+X`	!
+xmm1
+defOp`
+H _N
+regno`
+X@%"
+X@%"
+strstrst
+P0 !
+catcatca
+P0!!
+strstrst 
+========
+P0"!
+`0#!
+strparse
+`p;&
+X '!
+X '!
+X '!
+X '!
+X '!
+X '!
+X '!
+variant
+Hp(!
+X '!
+X '!
+X@k!
+H0B!
+69"#
+resolveInfo
+traceCode
+`0<!
+rawObject
+H0B!
+internalAllocateInteger
+H`U!
+loop
+opcode
+type
+;-gl
+modrm01
+l cat di@
+H`U!
+X \!
+X`S=
+XPZN
+H@aN
+X@a!
+X@a!
+`Pe!
+repLoop
+`PP!
+X@p!
+none
+X@a!
+408518628738
+peek
+} { 1 sys .exit } ? * ] =secret 
+rexreqbyte
+regno
+rawObject
+band
+X@%"
+X@%"
+INITIALSCOPESIZE
+;-gl
+modrm01
+XpCN
+XpCN
+r13d
+none
+Password line by line\n" sys .out .writeall 
+parse
+=i  
+regno
+typed
+rewriteConstantQuestionStar
+xpq!
+strstrst
+"""""""" 
+catcatca
+strstrst 
+========
+strparse
+bit32table
+none
+X@o!
+XT*3
+X@!"
+X@%"
+X@%"
+XT*3
+r14w
+bit64assert
+reg2
+dump
+regno
+staticLoadFromExtensionPattern
+scale
+priorWrite/
+H $"
+X@%"
+X@%"
+X -"
+entry`
+parentCount
+OVD&
+rawAddress
+regno
+X`#"
+} { } ? * 
+base
+XT*3
+regno
+H`1d
+fromArray
+variant
+r11d
+bit64assert
+entry`
+`pl"
+` D"
+four
+X S"
+x@M(
+r12b
+XT*3
+r12w
+X S"
+bit64assert
+none
+X@%"
+16 6 43 @
+XT*3
+btqRegMemIndexScaleDisp32b
+base
+Hpn"
+defOp
+btqRegMemIndexScaleDisp8@
+jnzLbl32@
+xmm4
+23We
+btqRegMemIndexScale
+Rel32 offset below -2147483648
+jnzRel32 
+X0l"
+Hpn"
+btqRegMemIndex
+X f"
+H i"
+H@s"
+btqRegMemDisp32
+X@q"
+setLabelHoles`
+btqRegMemDisp8
+X0l"
+X@q"
+XT*3
+(<R[	
+btqRegMemu"
+btqRegReg
+X@q"
+x@6"
+strstrst
+strstrst
+strparse
+strmatchedstrmat
+Tokenization of string-like failedTokeni 
+diediedi
+strstrst
+xpj"
+H@s"
+tokentok
+x@d"
+H0ty
+``^"
+regno
+xmm10
+regno
+rawObject
+base
+parse
+xmm7
+none
+X`2Y
+bit64assert
+Disp8 too largex
+opcode
+scale`
+X`2Y
+scale
+Xp;$
+Xp;$
+rawObject>
+labelRel32
+hexDigitsReverse
+unbase
+X09#
+INLINEQUESTIONSTARUNSCOPEDCONST
+0123456789
+testbImmMemIndexScaleDisp32
+xmm5
+none
+X`!#
+defOp`
+r12b
+4&;t
+imm32
+8 bit relative label out of range: 
+Rel8 offset below -128
+Hpco
+disp
+testbImmMemIndexScaleDisp8
+testbImmMemIndexScale
+regno`
+Xp)Y
+H0 #
+testbImmMemIndex
+Xp)Y
+Xp)Y
+H0 #
+testbImmMemDisp32
+testbImmMemDisp8
+HpG#
+r14d
+Xp;$
+Xp;$
+testbImmMem
+Hp6#
+xmmAssert
+forwardJumpPad
+modrm11
+X`L#
+X`L#
+X`L#
+cmovgeqRegReg`
+HpE#
+allocatedScopeMightEscape$
+X0G#
+HpG#
+regno
+X0G#
+Xp@#
+labelHoles
+imm8
+X W#
+8 bit relative label out of range: 
+HpE#
+X W#
+I!G I!G(I!G0I!G8A
+XP\#
+math
+bit64assert
+XP\#
+X`U#
+Xp;$
+Xp;$
+Xp^#
+X`j#
+X`j#
+XT*3
+X`j#
+4&;t
+imm32`
+r14d
+X0z#
+opcode
+`@6!
+three`
+argv
+addbImmReg
+addqImm8Reg
+addqImm32Reg
+addbImmMem
+addwImmMem
+addqImm8Mem
+addqImm32Mem
+addbImmMemDisp8
+addwImmMemDisp8
+Xp;$
+Xp;$
+addqImm8MemDisp8
+addqImm32MemDisp8
+1wr^j\,
+addbImmMemDisp32
+addwImmMemDisp32
+addqImm8MemDisp32
+addqImm32MemDisp32
+addbImmMemIndex
+addwImmMemIndex
+addqImm8MemIndex
+addqImm32MemIndex
+addbImmMemIndexScale
+addwImmMemIndexScale
+btmm8Mem
+addqImm8MemIndexScale
+addqImm32MemIndexScale
+addbImmMemIndexScaleDisp8
+addwImmMemIndexScaleDisp8
+addqImm8MemIndexScaleDisp8#
++w.~
+STATIC
+rmN_
+none
+movqMemXmm
+movqMemDisp8Xmm
+movqMemDisp32Xmm V
+movqMemIndexXmm
+movqMemIndexScaleXmm
+reg2
+movqMemIndexScaleDisp8Xmm
+xmmAssert
+movqMemIndexScaleDisp32Xmm
+encode
+Xp;$
+Xp;$
+jlRel8
+jlLbl8
+labelRel8
+width16
+r13b
+done
+r13w
+deallocRight
+parse`
+XT*3
+produce
+modrm11
+rawObject
+add =i  @
+jlRel32
+jlLbl32
+nameTableAddress	
+xmmAssert
+regno
+Xp;$
+Xp;$
+XT*3
+XT*3
+X00$
+modrm11
+none
+tokentok
+        
+encode
+none
+XP4$
+rmN_
+imm8
+XT*3
+bit64assert
+STRINGSTAR
+X Q$
+bit16table
+H #$
+H #$
+regno
+bit8table
+HPLm
+Disp8 out of range
+XT*3
+CALL
+rawObject4$
+regno`
+X @$
+X @$
+deallocLeft
+dump
+zero
+Xp;$
+Xp;$
+Xp;$
+X@L$
+H`M$
+X @$
+band
+base
+exit
+`@9$
+none
+qReg
+regno`
+xmm5
+regno`
+encode
+five
+x0Gm
+X@L$
+X@L$
+xmm11`
+XT*3
+math
+121 98 62 
+ ==f 
+inExtensionArea
+X0R$
+imm8
+setleReg 
+four
+XT*3
+mnemonic
+X`n$
+X`n$
+XT*3
+X`n$
+regno
+X@}$
+X@}$
+HPu$
+regno
+H0v$
+unboxedInt
+NOREGISTER
+bit64assert
+H0v$
+modrmOpcode
+r12w
+HPu$
+cmpsb
+r10b
+x@t$
+xpG$
+X@}$
+x0o$
+qImm8
+range
+none
+r15d
+H`M$
+incqReg
+bit64assert
+`PD#
+consume
+opcode
+rmN_
+``s"
+`@Z#
+base
+disp
+zero
+``x 
+XT*3
+outer
+mnemonic@
+encode
+1 add =i  
+none
+bit16assert
+modrm11
+umod
+xmm0
+variant
+XT*3
+X0?"
+regno`
+parse
+disp
+Lbl32
+Disp8 ou(
+range
+MemIndexScaleDisp8%
+HP(%
+bit64assert
+xmm11
+HP(%
+rawCodeAddress
+XT*3
+HP8%
+mode
+XH A%
+len dearray j eq { } { 1 sys .exit } ? * ] =secret 
+rmN_
+H`P%
+none
+HP8%
+bit64assert
+tokentok
+function(
+X@8&
+Xp:%
+XHPJ%
+Tokenization failed: Tok 
+01010101 
+--------
+catcatca
+diediedi
+constant 
+capturedScope`
+tokenize@
+elymasel(
+unboxedInt
+defAsmBtq>
+H`P%
+rawObject
+interpreterinter
+OVD&
+rawAddress
+rexreqbyte
+x`&#
+x`I%
+movqImmOOBReg
+andif
+setgReg
+Xpi4
+`Pn-
+action
+`@A&
+%eb+
+customFunctionObjectCreationHeaderPatternPatched
+H@?&
+none
+X o4
+math
+X`k&
+bit32assert
+X o4
+X o4
+X I&
+X I&
+X I&
+regno
+XT*3
+X`^&
+X`^&
+X`^&
+H T&
+none
+bit64assert
+fstp64MemDisp32
+fstp64MemDisp8
+X0V&
+parse
+fstp64Mem
+labelHoles
+Xpc&
+H d&
+dearray
+~H4U
+fstp64MemIndex
+fstp64MemIndexScale
+r14w
+fstp64MemIndexScaleDisp8 
+parse`
+fstp64MemIndexScaleDisp32?%
+Xpc&
+Xpc&
+modrm11
+r14b
+H@U&
+X`n&
+variant
+X`n&
+HpMM
+H d&
+bit64assert
+setcbReg
+X`FX
+H@U&
+STATIC
+X@m#
+modrm10
+bit8assert
+XT*3
+seven`
+regno
+H@?&
+r10b
+NOREGISTER
+opcode1
+math
+reg1
+H@r)
+.exit 
+H T&
+unbase
+base
+zero
+none
+andbMemIndexScaleDisp32Reg%
+rawCodeAddress
+bit64assert
+XT*3
+modrmOpcode
+band
+modrm11
+base
+defAsmAddq
+regno
+;-gl
+modrm01
+prefetchMemDisp8
+32 bit relative label out of range: 
+andbRegMemIndexScaleDisp8
+andbMemIndexScaleDisp8Reg
+andbRegMemIndexScaleDisp32
+prefetchMem
+bit64assert
+encode
+andbRegMemIndexScale
+andbMemIndexScaleReg
+andbRegMemDisp32
+andbMemDisp32Reg1
+andbRegMemIndex
+generalMatch
+andbMemIndexReg
+qRegReg
+base
+eq { } { 1 sys .exit } ? * ] =secret 
+qImm32
+G.$^}
+xmm12
+needsAScope
+zero
+mode
+regno
+xmm2
+andbRegMem
+andbMemReg
+andbRegMemDisp8
+andbMemDisp8Reg
+disp
+five
+modrm10
+X05$
+r12d
+name
+fromArray
+search
+`0;/
+AX*@
+left
+NOREGISTER
+X@%'
+r11b
+H)@#
+H) P
+H)p_"
+base
+modrm11
+` ''
+xmm6
+unbase
+X@J'
+entry
+base
+andbRegReg
+X`9'
+X`9'
+` x$
+none
+bRegReg
+XPV'
+XPV'
+imm8
+H@U'
+XPV'
+32 bit relative label out of range'
+regno`
+xmm14
+none
+bit32assert
+STRINGSTAR
+imm16
+r12b
+X@0'
+btsqImm8Reg
+btsqImm8Mem
+btsqImm8MemDisp80
+btsqImm8MemDisp32
+btsqImm8MemIndex1
+EpC-
+btsqImm8MemIndexScale
+btsqImm8MemIndexScaleDisp8
+btsqImm8MemIndexScaleDisp32
+scasb`
+` t'
+Disp8 out of range
+bit16table
+opcode
++w.~
+prefetchMemDisp32
+-CfG
+prefetchMemIndex0
+qRegReg
+prefetchMemIndexScale
+prefetchMemIndexScaleDisp8
+prefetchMemIndexScaleDisp32
+bit64assert
+scale`
+x@z'
+labelRel8
+variant
+modrm11
+H@U'
+xmm0
+XT*3
+r13b
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+X@n(
+i 1 add =i  
+X j(
+XT*3
+I!G I!G(I!G0I!G8A
+5 251 19 
+regno`
+rexreqbyte
+opcode2
+Xp)(
+X0)(
+rawCodeAddress
+r15w
+r15b
+notbReg
+none
+`pG%
+XT*3
+none
+AX*@
+left
+X`j(
+r10w
+8000000000000000
+X`e)
+X`e)
+bit64assert
+bit64assert
+`p>(
+HPd(
+H 9(
+labelStack
+X`e)
+X`e)
+X`e)
+X`e)
+X`e)
+X`e)
+sys .exit 
+parse
+none
+HPd(
+rexreqbyte
+XpZ(
+XpZ(
+XpZ(
+`0~(
+XT*3
+encode
+regno
+addqImm32MemIndexScaleDisp32
+`PZ!
+H 9(
+offset
+X k(
+Imm16 too large
+bReg
+  i 1 add =i  
+X@n(
+`0H%
+XPq(
+regnoTable
+offsetInScope`
+variant
+combineInstruction
+udiv
+regno
+andqImm32MemIndexScaleDisp32
+encode
+setLabelHoles
+stosb
+X`m&
+x0R(
+r12b
+`Pz&
+jmpqReg
+defOp
+modrm11
+`pk;
+none
+XT*3
+r12w
+MemIndexScale
+loop
+xPQ(
+ARRAYMARKER
+opcode
+f&9@,1
+jnlRel8
+modrm11
+XT*3
+defOp
+addqImm8MemIndexScaleDisp32
+imm8
+pattern
+4&;t
+imm32
+modrm11
+defOp`
+regno
+jnlLbl8
+`0./
+xmm8
+entry
+XT*3
+bit8assert
+addwImmMemIndexScaleDisp32(
+`03/
+none
+base
+X`e)
+X`e)
+none
+jnlRel32 
+jnlLbl32
+XP?)
+XP3)
+rewriteConstantDot,
+headerBody
+`@^E
+math
+rexreqbyte
+E*3^
+last
+r13w
+logic
+setngReg
+defOp
+X@s*
+INPUT`
+` ='
+` J)
+addbImmMemIndexScaleDisp32)
+parse`
+base
+XT*3
+defOp`
+X c)
+X`e)
+X`e)
+imm8
+X`c)
+Imm32 too large
+H``)
+regno
+bit32assert
+x@!3
+``5)
+Rel8 offset above 127`
+labelRel16
+cmovnaqRegReg`
+internalAllocateInteger
+`@P)
+addqImm32MemIndexScaleDisp8
+invalid scale chosen for sib
+modrm11
+X W)
+H``)
+XT*3
+=9]"
+andqImm8MemIndexScaleDisp32
+X W)
+X@f)
+none
+offset
+X@m)
+zero
+X`e)
+X`e)
+X`e)
+XT*3
+X@m)
+H0k)
+r10d
+X@m)
+H0k)
+produce
+none
+imm64
+bit64assert
+HPR1
+HPR1
+PXYPQH
+0 sys .exit 
+XT*3
+regno
+Xpe,
+movbImmMemDisp8
+three`
+entry
+XT*3
+#q p
+eachString
+bit64assert
+reg1
+none
+jcRel8
+jcLbl8
+STATICTYPED
+none
+callqReg8
+modrm11
+label
+canProduceLargeInts
+bit64assert
+ 0 sys .exit `
+`pA)
+unboxedInt
+v_%&
+deff
+Disp8 out of range
+bit64assert
+labelResolve
+MemDisp8
+POSITIONMARKER
+jcRel32
+!~o%
+jcLbl32
+r13b
+XT*3
+regno
+AX*@
+left
+r13b
+` Z'
+encode
+XT*3
+imm16
+r12d
+8000000000000000
+rexreqbyte
+rmN_
+NONE
+OVD&
+rawAddress
+opcode2
+freeRegister
+none
+XPq*
+jnge
+width16
+encode
+CONDITIONALTAIL
+labelRecord
+``,*
+none
+bit64assert
+base
+H@?*
+bit64assert
+X`7*
+`@i)
+4&;t
+imm32
+OVD&
+rawAddress
+base
+rmN_
+bit64assert
+none
+Rel32
+``L*
+H@?*
+labelRel16
+encode
+none
+r13d
+;-gl
+modrm01
+XT*3
+regno`
+4&;t
+imm32`
+modrmOpcode
+Imm8 too large
+functionBody
+HPx*
+4&;t
+imm32
+`0^*
+HPx*
+bit64assert
+none
+defOp
+modrm11
+`0./
+done
+parentCount
+SCOPETIGHTFUNCTIONS
+XT*3
+secret
+functionBody
+defOp`
+callCreatedFunction
+andwImmMemIndexScaleDisp32*
+cmovcqRegReg
+regno`
+regno
+modrm00
+encode
+H @p
+a9Tt%
+jzRel8
+XYZPRPQH
+none
+imm8
+disp
+inExtensionArea
+bit8assert*
+r13w
+``s)
+x1	0
+andbImmMemIndexScaleDisp32
+regno`
+XT*3
+r14b
+Xp&+
+outer
+offset
+XpE+
+XpE+
+XpE+
+LabelHol
+XPg.
+rexreqbyte
+failed to optimize 'execution' of float typed object
+H@-+
+jmpLbl16
+HPgL
+bit64assert
+`p8+
+imm8
+regno
+bit64assert
+none
+parse`
+X`^+
+X`^+
+X`^+
+XPN+
+bit64assert
+none
+`PW*
+X X+
+H0u+
+`@S+
+x  Z
+X {+
+H@]+
+XT*3
+entry`
+XT*3
+X X+
+H0u+
+regno
+X {+
+X {+
+none
+modrm11
+XT*3
+regno
+H@y+
+X X+
+H@y+
+p1cZ
+eachArray
+defOp
+Disp8 out of range
+bit64assert
+bit64assert
+rawCodeAddress
+action
+XT*3
+HPgL
+xchgqRegReg
+%QAW
+pushqReg@
+` 5)
+disp
+bit64assert
+entry
+capturedScope`
+modrm00
+write`
+opcode1
+none
+`0./
+bit64assert
+parentCount
+btqImm8MemIndexScaleDisp32
+X M-
+X M-
+none
+xmm10
+writeall@
+bImmReg
+encode
+cmpqImm32MemIndexScaleDisp32
+cmpqImm8MemIndexScaleDisp32
+cmpwImmMemIndexScaleDisp32+
+4&;t
+imm32
+cmpbImmMemIndexScaleDisp32
+cmpqImm32MemIndexScaleDisp8
+cmpqImm8MemIndexScaleDisp8
+imm16
+cmpwImmMemIndexScaleDisp8>
+cmpbImmMemIndexScaleDisp8
+btqImm8MemIndexScale	
+btqImm8MemIndexScaleDisp8
+cmpqImm8MemIndexScale
+cmpqImm32MemIndexScale
+XT*3
+`@'*
+cmpwImmMemIndexScale
+staticLoadFromScopePattern
+PYZH
+242 121 98 62 
+ ==f 
+H@]+
+scale`
+H@3L
+STATICTYPED
+parse
+H@-+
+r13d
+\q3*}a
+cmpbImmMemIndexScale
+cmpqImm32MemIndex
+`0~*
+cmpwImmMemIndex
+iA@E
+cmpqImm8MemIndex/none re 
+cmpbImmMemIndex
+none
+btqImm8MemDisp8
+btqImm8MemDisp32 defAsmA@
+btqImm8MemIndex
+btqImm8Mem
+XP1,
+X M-
+X M-
+callqRel32
+reg2
+cmpqImm8MemDisp32
+cmpqImm32MemDisp32
+cmpwImmMemDisp32
+cmpbImmMemDisp32 
+cmpqImm32MemDisp8
+Disp8 too large
+cmpqImm8MemDisp8
+XHp%,
+regno
+cmpwImmMemDisp8
+cmpbImmMemDisp8
+cmpqImm32Mem
+btqImm8Reg
+r15b
+H Ap
+bit64assert
+regno
+X M-
+X M-
+X :,
+base
+dearray j eq { } { 1 sys .exit } ? * ] =secret 
+cmpqImm8Mem
+Xp<,
+cmpbImmMem
+cmpwImmMem
+mnemonic 
+repFinished
+modrm11
+x@V,
+X`J,
+cmpqImm32Reg
+bit64assert
+bit8assert
+cmpbImmReg
+cmpqImm8Reg
+XPR,
+X`J,
+XPR,
+X`J,
+Xpe,
+x@N,
+sysasmops
+XT*3
+none
+modrm11
+`P[,
+xmmAssert
+Hpb,
+`@e,
+X`x,
+Hpb,
+X`x,
+bit64assert
+x ^,
+X`x,
+CONDITIONALTAIL
+X0wV
+X0wV
+zero
+needsAScope
+ADD: unhandled left type@
+bit64assert
+X M-
+X M-
+imm8
+raxshqRe@
+defJmpRel32
+=secret @
+xmm13
+`@d>
+modrm11
+4&;t
+imm32
+modrm00
+width16
+X`'1
+bit64assert
+j eq { } { 1 sys .exit } ? * ] =secret 
+parse`
+dearray
+none
+imm8
+none
+loopRel8 
+loopLbl8 
+faddp
+Imm8 too large
+XT*3
+Lbl8
+XP3/
+XP3/
+parse`
+`p/+
+E*3^
+last
+labelStack
+bit64assert
+X M-
+X M-
+andqImm32MemIndexScaleDisp8
+XPK-
+none
+Imm32 too largeX 
+defAsmBtqImm
+none
+movbImmReg
+XT*3
+jsRel8
+jsLbl8
+`0r?
+imm8
+``6@
+XT*3
+r12b
+regno
+regno`
+protectReference0
+dump
+wImm
+dearray
+entry
+jsRel32
+jsLbl32
+regno
+XP3/
+XP3/
+Hp6-
+`0 -
+X06-
+Hp6-
+failed to optimize 'execution' of function type descriptore } 
+addrOrInt
+Hp--
+labelStack-
+action
+opcodes
+Xpb-
+XT*3
+math
+X06-
+f&9@,1
+jnlRel8
+X06-
+XT*3
+zero
+rewriteConstantAssignment
+variant
+X`H-
+X M-
+X M-
+X M-
+H`d-
+.writeall 
+7IPm(
+X 3V
+7IPk*
+XPT-
+XPT-
+7I@I-
+setnlReg
+mnemonic
+X``-
+;-gl
+modrm01
+H`d-
+Xpb-
+decqMem
+defOp
+opcode
+reprcx
+Xpb-
+parse
+Xpu-
+Xpu-
+Xpu-
+action
+regno
+X`3V
+labelHoles
+XT*3
+nameTableLength
+source
+qImm32Reg,
+none
+xchgqRegMem
+xchgqRegMemDisp32
+xg^e_
+xchgqRegMemIndex
+fstp
+xchgqRegMemDisp8
+encode
+xchgqRegMemIndexScale
+xchgqRegMemIndexScaleDisp8
+xchgqRegMemIndexScaleDisp32
+andqImm8MemIndexScaleDisp8-
+none
+`p3'
+movbRegReg
+movbMemIndexScaleDisp32Reg
+XT*3
+movbMemIndexScaleDisp8Reg
+movbRegMemIndexScaleDisp32
+XP3/
+movbRegMemIndexScaleDisp8
+XP3/
+&k-+V
+movbRegMemIndexScale
+movbMemIndexScaleReg
+variant
+3MkFc
+movbMemIndexReg
+movbMemDisp32Reg0
+movbRegMemIndex
+labels
+movbRegMemDisp321
+rmN_
+Disp8 out of range
+movbRegMemDisp8
+;bYe
+movbMemDisp8Reg
+movbRegMem
+movbMemReg
+204314
+XT*3
+base
+logic`
+XYPQM
+H I.
+scale
+regno`
+cmovnzqRegReg`
+`@"'
+jleLbl8
+jleRel8
+``k)
+andwImmMemIndexScaleDisp8
+variant
+rmN_
+andbImmMemIndexScaleDisp8
+``?&
+r15b
+lReg
+andqRegReg
+base
+`@_+
+andqRegMem
+andqMemReg-
+zP;7
+andqImm32MemIndexScale
+andqRegMemDisp8
+andqMemDisp8Reg
+andqRegMemDisp32
+andqImm8MemIndexScale
+>7tu
+andqMemDisp32Reg0
+andqRegMemIndexX
+andqMemIndexReg
+andqRegMemIndexScale
+andwImmMemIndexScale
+andqMemIndexScaleReg
+andqRegMemIndexScaleDisp8b
+}4dx_
+andbImmMemIndexScale
+rexreqbyte.
+andqMemIndexScaleDisp8Reg
+andqRegMemIndexScaleDisp32
+,+J|`
+andqMemIndexScaleDisp32Reg
+``E,
+opcode1
+defAsmAddb-
+bit8assert
+entry
+H0 .
+XpC.
+OVD&
+rawAddress
+target
+bit64assert
+incbReg
+X08.
+unbase
+`p%.
+X08.
+:qt	
+MemDisp32
+bit64assert
+42 242 121 98 62 
+ ==f 
+X@*0
+andqImm32MemIndexo
+qImm8
+jleRel32 
+jleLbl32
+X08.
+bit32assert
+r12w
+four
+XPP.
+XPP.
+H I.
+XpC.
+defAsmAddImm
+andqImm8MemIndex
+XPP.
+lRegReg
+andwImmMemIndex
+none
+XP3/
+``T.
+none
+Imm32 too largeH
+bsfqRegReg
+imm8
+XpZ.
+bsfqRegMem
+XP[.
+bsfqRegMemDisp8
+X@\.
+X@z.
+XP3/
+bsfqRegMemDisp32
+`PZ.
+bsfqRegMemIndex
+bsfqRegMemIndexScale
+bsfqRegMemIndexScaleDisp8
+X@b.
+m;gh
+bsfqRegMemIndexScaleDisp32
+H`m.
+H`m.
+tpf.
+unbase
+none
+none
+XPw.
+zero
+XPw.
+none
+XP3/
+X`~.
+`0M;
+`p?+
+I!G I!G(I!G0I!G8A
+andbImmMemIndex
+XP3/
+inputsChecked
+bit64assert
+name
+bit64assert
+INLINEBLOCKNEQ
+imm8
+band
+none
+INLINEBLOCKNOT
+XT*3
+none
+rawCodeAddress
+qReg
+{3R*c
+negqReg
+bit64assert
+continueParsing
+`P)$
+``o'
+defOp
+imm16
+bit64assert
+STATICWRITE
+defv
+none
+` E)
+`pm,
+regno`
+XP3/
+XP3/
+rawCodeAddress
+XT*3
+base
+modrm00
+v_%&
+deff
+modrm11
+disp
+bit64assert
+defOp`
+modrm00
+modrm00
+ .writeall 161 220 116 1(
+. .writeall 182 81 254 8 
+X`c0
+parse`
+base
+`@0+
+opcode2
+andqImm32MemDisp32/
+regno
+.writeall 0
+X`c0
+none
+none
+XP3/
+XP3/
+rawCodeAddress
+modrm11
+XP3/
+r15w
+] =secret 
+regno
+logic`
+none
+encode
+variant
+XT*3
+bit64assert
+rolqImm8Reg
+`0M/
+ARRAYCLEAR
+PYZH
+;-gl
+modrm01
+``h,
+Rel32 offset above 2147483647
+regno`
+` 1+
+bit64assert
+exampleObjectOffset
+vZuo
+r12d
+XT*3
+base
+X`c0
+X`c0
+andqImm8MemDisp32
+offsetInScope
+XT*3
+target
+traceStart
+`PL.
+offset
+andwImmMemDisp32
+modrm11
+dump
+defOp
+`P*L
+andbImmMemDisp32memoryAd@
+`@-.
+bit64assert
+X`c0
+X`c0
+bImm
+none
+regno
+Xp00
+X`c0
+X`c0
+XP-_
+XP-_
+XT*3
+X`>$
+bit64assert
+X`	0
+X`	0
+Mode: 
+X`	0
+modrm00
+P0jF
+E*3^
+last
+jngRel8
+constantPassivePattern
+variant
+`0s0
+XP!0
+jmpqMem
+jmpqMemDisp8
+jmpqMemDisp32
+jmpqMemIndex
+X@$0
+jmpqMemIndexScale
+jmpqMemIndexScaleDisp8
+jmpqMemIndexScaleDisp32
+modrm11
+` (0
+`p5!
+zero
+reg1
+LOGICFUNCTION`
+X`c0
+X`c0
+X`G0
+scale
+X`G0
+X`G0
+none
+I!G I!G(I!G0I!G8A
+xP{l
+X0J0
+X0J0
+inputs
+X@K0
+X@K0
+X@K0
+action
+XT*3
+H`rU
+none
+X`c0
+X`c0
+X Q0
+XT*3
+reg1
+XPH0
+none
+none
+H@XU
+X@^0
+encode
+` _0
+x`)/
+XT*3
+H0ul
+XT*3
+X`c0
+X`c0
+offsetInScope
+.out .writeall 
+X`c0
+bit64assert
+H ]U
+disp
+five
+H@\U
+movwImmMemDisp8
+four
+XT*3
+loop
+rawObject
+cvtsd2ssXmmXmm
+H0!0
+setgeReg(
+H@XU
+STATICWRITE
+H`rU
+cmplRegMem
+167 42 242 121 98 62 
+ ==f 
+X`!l
+none
+none
+XT*3
+`p8/
+zero
+E*3^
+last
+XT*3
+INLINEBLOCKLT`
+logic
+XT*3
+movsq
+`ps/
+reg2
+movzxMem8IndexScaleDisp8Reg64
+ARRAYCLEAR
+X =1
+rawCodeAddress
+modrm11
+math
+XT*3
+X`=1
+base
+Pp:Q
+imm8
+andqImm32MemDisp8
+peeku64
+Xp+1
+Xp+1
+modrm11
+Xp&U
+Xp&U
+Xp&U
+HP&1
+none
+modrm11
+HP&1
+Xp+1
+XT*3
+defOp
+s unexpe@
+scopeReadsChecked
+rcxax :m0
+dump
+X@A1
+jmpRel8
+X@A1
+jmpLbl8
+XPG1
+jngeRel8 
+XPG1
++;pa
+jngeLbl8
+H@s)
+H@s)
+entry`
+rawCodeAddress
+inExtensionArea
+HP0U
+none
+bit64assert
+reg2
+regno`
+right
+1 197 64
+X0`1
+X0`1
+x0X1
+X0`1
+``T1
+jngeRel32
+cmovnaeqRegReg
+jngeLbl32
+rawCodeAddress
+objects of type 11 should not appear
+containsScopeModifications
+x`c1
+`@=0
+zero
+regno`
+needsAScope
+modrm11
+imm8
+Xpe,
+entry
+modrm00
+xpX.
+` R0
+andqImm8MemDisp8p
+defOp
+`03/
+right
+parse`
+` ',
+xpW1
+base
+XT*3
+none
+parse
+andbImmReg
+* ] =secret 
+none
+X0A2
+Xp?2
+modrm00
+bit64assert
+Constant: 
+modrm00
+PUSH
+`p61
+none
+jbeRel8
+jbeLbl8
+constantNormalFunctionScopedUntypedPattern
+movlRegReg
+movlRegMem
+movlMemReg
+movlRegMemDisp8
+movlMemDisp8RegX 
+movlRegMemDisp32
+movlMemDisp32Reg
+XT*3
+<"FyDpj
+movlRegMemIndex
+movlMemIndexReg
+movlRegMemIndexScale
+movlMemIndexScaleReg
+jbeRel32 
+jbeLbl32 
+movlRegMemIndexScaleDisp8
+movlMemIndexScaleDisp8Reg
+movlRegMemIndexScaleDisp32
+s3su9
+movlMemIndexScaleDisp32Reg
+jnle
+comparisonOperator
+inExtensionArea
+XpA2
+Xp(2
+Xp(2
+cmpsq
+Hp02
+Xp(2
+none
+Xp;2
+replace
+H`90
+variant
+mode
+Xp;2
+dump
+`p<-
+Xp;2
+X0>2
+`@62
+XPC2
+logic
+base
+X S2
+X S2
+negatedOpcodeName
+H0P2
+failed to optimize 'execution' of extension area0
+H l2
+X S2
+encode
+H0NJ
+xp/2
+X i2
+X i2
+X i2
+H0NJ
+bit64assert
+`p`2
+XpG2
+XpG2
+H l2
+adcqRegReg
+andwImmMemDisp8
+adcqRegMem
+adcqMemReg
+XPm2
+adcqRegMemDisp8
+andbImmMemDisp8
+a('='
+adcqMemDisp8Reg
+adcqRegMemDisp32
+adcqMemDisp32Reg
+X0r2
+adcqRegMemIndex
+X0r2
+adcqMemIndexReg
+adcqRegMemIndexScale
+adcqMemIndexScaleReg
+Xpu2
+adcqRegMemIndexScaleDisp8
+Xpu2
+andqImm32MemleDisp8
+adcqMemIndexScaleDisp8Reg
+X0w2
+adcqRegMemIndexScaleDisp32
+X0w2
+adcqMemIndexScaleDisp32Reg
+XpG2
+`p%1
+cmovngqRegReg
+failed to optimize 'execution' of float typed object
+XpOJ
+XpOJ
+XpOJ
+regno`
+bit8assert
+STATICDOT
+Shift immediate too large
+deallocLeft
+reg2
+andqImm8Mem
+xorbRegReg
+xorbRegMem
+none
+xorbMemReg
+xorbRegMemDisp8
+parse
+xorbMemDisp8Regx
+xorbRegMemDisp32
+xorbMemDisp32Reg
+xorbRegMemIndex
+xorbMemIndexRegx
+xorbRegMemIndexScale
+xorbMemIndexScaleReg
+4&;t
+imm32`
+xorbRegMemIndexScaleDisp8
+xorbMemIndexScaleDisp8Reg
+xorbRegMemIndexScaleDisp322
+encode
+xorbMemIndexScaleDisp32Reg
+variant
+lowByte
+none
+arrayStart
+bit64assert
+HP q
+logic
+modrm00
+modrm11
+cmovncqMemReg
+pushConstantPattern
+imm8
+modrm11
+movbImmMem
+labelRel32
+parse
+sys .out .writeall 
+addlMemReg
+opcode1
+INLINEBLOCKGT`
+andbImmMemmAddImm 
+andwImmMem
+loadStart>
+bit64assert
+scale`
+rawCodeAddress
+ARITHFUNCTION
+` ~2
+deff 
+XT*3
+RAWCONSTREP
+Xp!3
+loadedObject
+Xp33
+objects of type 14 should not appear
+X`63
+labelRel32
+XP53
+XT*3
+X`p3
+X0=3
+dump
+bit64assert
+X F3
+X F3
+X F3
+X P3
+X P3
+X P3
+HpX3
+parse
+`PO3
+bsrqRegReg
+X }3
+XPZ3
+bsrqRegMem
+X0[3
+bsrqRegMemDisp8
+X \3
+bsrqRegMemDisp32
+bsrqRegMemIndex
+X`63
+_$|e
+bsrqRegMemIndexScale
+math
+modrm11
+bsrqRegMemIndexScaleDisp328
+XPo3
+XPo3
+X }3
+bsrqRegMemIndexScaleDisp8
+qRegReg
+Hpk3
+X u3
+X u3
+H0n3
+XPo3
+Hpk3
+zero
+X u3
+x0@3
+dump
+X }3
+XYZQPRH
+rawObject
+54 167 42 242 121 98 62 
+ ==f 
+Disp8 out of range
+X`63
+xPz3
+H0n3
+repnz
+bit64assert
+setlReg
+opcode2
+base
+rawObject
+regno`
+fcomip
+none
+modrm11
+none
+four
+XT*3
+XT*3
+`PeG
+bit64assert
+Imm8 too large
+`@63
+E*3^
+last
+target
+typed
+X@/4
+four
+rawObject
+regno
+reg1
+Hp#4
+bit64assert
+movlImmMemDisp8
+]0A]
+defAsmBsfq
+functionName
+rewriteArithmeticsOptimistic
+Hp#4
+XT*3
+XT*3
+7pqU
+movsxwqRegReg`
+jngeRel8
+joRel8
+joLbl8
+rexreqbyte
+STATICDOT
+jmpLbl32@
+source
+x@14
+imm16
+joRel32
+joLbl32
+Xpi4
+usedRegisters
+none
+constant@
+Hp^4
+Hp^4
+` a4
+failed to optimize 'execution' of raw function opcodes object`
+Xpi4
+X0p4
+X0p4
+X0p4
+callqLbl32
+bit32assert
+testqRegMemIndexScale
+`@q4
+AX*@
+left
+shlqImm8Reg
+shrqClReg
+fsubp
+traceCode
+bit64assert
+H0!q
+bit64assert
+X x4
+XT*3
+TN"z
+executingScope
+defOp
+bit64assert
+action
+none
+RAWCONSTREP
+modrm11
+base
+zero
+xmmAssert
+bit64assert
+addrOrInt
+imm8
+? * ] =secret 
+addr
+AX*@
+left
+parse`
+ sys .out .writeall 
+. sys .out .writeall 
+Shift immediate too large
+none
+sys .out .writeall 
+fromArray
+bit8assert
+},umR8
+jnbRel8
+jnbLbl8
+peek
+none
+jnbRel32 
+jnbLbl32
+XT*3
+encode
+X0&5
+X0&5
+X0&5
+priorWrite
+logic
+X J5
+X J5
+X J5
+rolbClReg%5
+rawCodeAddress
+XpJ5
+cmpbRegReg
+HpP5
+cmpbRegMem5
+cmpqMemIndexScaleDisp32Reg
+bMemReg
+cmpbMemReg
+cmpbRegMemDisp8
+cmpbMemDisp8RegxP<
+X O5
+cmpbRegMemDisp321
+X O5
+cmpbMemDisp32Reg0
+V:I^
+cmpbRegMemIndex
+cmpqRegMemIndexScaleDisp32
+cmpbMemIndexRegx
+X`R5
+regno
+cmpbRegMemIndexScale
+X`R5
+cmpbMemIndexScaleReg
+HpP5
+cmpbRegMemIndexScaleDisp8
+cmpbMemIndexScaleDisp8RegT5
+cmpbRegMemIndexScaleDisp32
+dump
+cmpbMemIndexScaleDisp32Reg
+modrm11
+H`e5
+parse
+XPl5
+H`t5
+H`t5
+adcbImmReg
+adcqImm8Reg
+adcqImm32Reg
+cmpqMemIndexScaleDisp8Reg
+X`z5
+adcbImmMem
+X`z5
+adcwImmMem
+X`z5
+adcqImm8Mem
+X`z5
+jE	 
+adcqImm32Mem
+adcbImmMemDisp8
+adcbImmMemIndex
+adcwImmMemIndex
+adcqImm8MemIndex
+/ig[
+adcqImm32MemIndex
+base
+adcwImmMemDisp8
+adcqImm8MemDisp8
+adcqImm32MemDisp8
+adcbImmMemDisp32
+adcwImmMemDisp32
+adcqImm8MemDisp32
+modrm00
+adcqImm32MemDisp32
+opcode2
+adcbImmMemIndexScale
+adcwImmMemIndexScale
+Xp]5
+adcqImm8MemIndexScale
+adcqImm32MemIndexScale
+Xp]5
+LDC6
+adcbImmMemIndexScaleDisp8
+adcwImmMemIndexScaleDisp8
+Xp]5
+adcqImm8MemIndexScaleDisp8
+adcqImm32MemIndexScaleDisp8
+|Rc o
+adcbImmMemIndexScaleDisp32
+adcwImmMemIndexScaleDisp32
+dump
+callqMem@
+callqMemDisp8`
+callqMemDisp32
+callqMemIndex`
+callqMemIndexScale
+callqMemIndexScaleDisp8
+callqMemIndexScaleDisp32p
+type
+XT*3
+XT*3
+movqRegReg
+movqRegMem
+{ } { 1 sys .exit } ? * ] =secret 5
+movqMemReg
+none
+movqRegMemDisp8
+movqMemDisp8Reg
+movqRegMemDisp32P
+encode
+movqMemDisp32Reg
+movqRegMemIndex
+movqMemIndexReg
+movqRegMemIndexScale
+movqMemIndexScaleReg
+movqRegMemIndexScaleDisp8-
+movqMemIndexScaleDisp8Reg
+X@	5
+movqRegMemIndexScaleDisp32
+movqMemIndexScaleDisp32Reg
+traceCode
+` 63
+`pq4
+movwImmMem
+action
+bit64assert
+none
+opcode1
+scale
+adcqImm8MemIndexScaleDisp32
+andqImm32Reg
+Xp]5
+read
+E*3^
+last
+I!G I!G(I!G0I!G8A
+XYPQH
+` 24
+reg1
+0 54 167 42 242 121 98 62 
+ ==f 
+XT*3
+bit64assert
+XP!6
+`p#6
+modrm11
+X@06
+H`/6
+parse
+X@06
+shuffle
+movzxbqRegReg
+andqImm8RegdexScaleDisp3
+adcqImm32MemIndexScaleDisp32
+`005
+rexreqbyte
+setngeReg
+logic
+rexreqbyte
+none
+H`/6
+Invalid entry while compiling trace code
+x0lc
+XT*3
+`p-7
+I!G I!G(I!G0I!G8A
+modrm11
+H d6
+none
+H d6
+modrm11
+`@r6
+STATICTYPEDDOT
+X@n6
+XT*3
+regno`
+none
+scasq`
+X`r6
+7I :
+`0D5
+customFunctionObjectCreationHeaderPattern
+right
+five
+opcode2
+bit64assert
+rawCodeAddress
+cmpqRegMemIndexScaleDisp8
+cmovaqRegReg
+opcode1
+bit64assert
+xmmAssert
+X`~I
+OVD&
+rawAddress
+XT*3
+stosq`
+qImm8Reg
+typed`
+modrmOpcode
+H`e5
+X`>$
+bit64assert
+;-gl
+modrm01
+rawCodeAddress
+.fromArray sys .out .writeall 
+XT*3
+XT*3
+RAWCONSTREPTHISSCOPE
+XT*3
+P`RK
+regno
+OVD&
+rawAddress
+41 11 13(
+37 88 6 
+ 82 36 8
+ 30 156 
+none
+disp
+bit64assert
+4&;t
+imm32
+TN"z
+executingScope
+none
+disp
+internalAllocateInteger
+} ? * ] =secret 0
+`p!7
+xorqRegReg
+xorqRegMem
+xorqMemReg
+Xp17
+Kr_,_,
+xorqRegMemDisp8
+Xp17
+Av)"
+xorqMemDisp8RegX
+xorqRegMemDisp32
+xorqMemDisp32Reg0
+xorqRegMemIndex
+Xp67
+xorqMemIndexRegHPJ7
+XT*3
+bit64assert
+xorqRegMemIndexScale
+xorqMemIndexScaleReg
+X :7
+X :7
+xorqRegMemIndexScaleDisp8$
+write`
+xorqMemIndexScaleDisp8Reg
+XP=7
+xorqRegMemIndexScaleDisp32
+XP=7
+xorqMemIndexScaleDisp32Reg
+`0Z1
+XT*3
+`@Y5
+regno`
+bit64assert
+none
+`pX7
+0`]?
+cmovbeqRegReg
+parse`
+traceConditionsx	
+testbRegMemIndexScale
+XT*3
+failed to optimize 'execution' of integer typed object
+X0r7
+tXPH
+Hp|7
+modrmOpcode
+XT*3
+H ~7
+Hp|7
+H ~7
+logic`
+regno`
+` /5
+bit64assert
+Xp67
+X {8
+reg2
+``i2
+X`h9
+X`h9
+``x6
+Xp67
+HPak
+registerDeallocationsjmp 
+disp
+105 0 54 167 42 242 121 98 62 
+ ==f 
+jnleRel8 
+jnleLbl8
+base
+mnemonic0
+modrm11
+rorqClReg
+none
+disp
+I!G I!G(I!G0I!G8A
+XT*3
+Offset 
+jnleRel32
+jnleLbl32
+X`>$
+`PS$
+keys
+zero
+none
+variant
+``96
+LOGICFUNCTION
+X`h9
+X`h9
+rawCodeAddress
+XT*3
+H`58
+ Password line by line\n" sys .out .writeall `
+X`>$
+none
+H0]k
+Hpnk
+unbase
+PP.6
+XpW8
+X0W8
+xmmAssert
+` {7
+P@>8
+shlq1Reg
+none
+X`M8
+X`M8
+X`M8
+XP,8
+type
+H`58
+STATICTYPEDDOT
+modrm00
+X0R8
+XPD8
+`@?8
+H0O8
+X`N8
+X`N8
+X`N8
+imm8
+movlImmMem
+jeRel8
+jeLbl8
+X`h9
+X`h9
+encode
+base
+XPB8
+XPc8
+none
+H0y8
+regno`
+bit32assert
+X@x8
+action
+jeRel32
+jeLbl32
+XT*3
+X@x8
+X@x8
+H0O8
+Xpu:
+Xpu:
+scopeWrites contains unexpected element type
+XT*3
+type
+P`74
+P@y6
+rawCodeAddress
+logic
+dump
+bit64assert
+none
+regno`
+(g6_C1
+RAWCONSTREPTHISSCOPE
+range`
+objects of type 11 should not appear
+X`h9
+XT*3
+repz
+X`h9
+cmpqMemIndexScaleReg
+H0y8
+XT*3
+none
+cmpqRegMemIndexScale
+Xpu:
+Xpu:
+H h$
+cmpqRegReg
+pushqMem@
+cmpqRegMem
+0{jg0	^
+cmpqMemIndexReg
+cmpqMemReg
+popqMem
+cmpqRegMemDisp8
+cmpqMemDisp8Reg
+XT*3
+popqMemDisp8
+pushqMemDisp8
+popqMemDisp32`
+Fv'f
+pushqMemDisp32
+bit64assert
+popqMemIndex
+pushqMemIndex
+popqMemIndexScale
+pushqMemIndexScale
+popqMemIndexScaleDisp8
+pushqMemIndexScaleDisp8
+popqMemIndexScaleDisp32
+pushqMemIndexScaleDisp32 
+`0}6
+entry
+none
+Imm8 too large
+X`+9
+X`h9
+X`h9
+modrm11
+Xpu:
+Xpu:
+X`f9
+X`h9
+X`h9
+customFunctionHeaderPattern
+bit64assert
+bit8assert
+XP49
+XP49
+HP*9
+X`+9
+bit32assert
+`p.9
+XP49
+XT*3
+X`+9
+nonereg @
+none
+X`C9
+` ;9
+none
+` 9<
+bit64assert
+XT*3
+X@ic
+X@ic
+cmovngeqRegReg
+X`g9
+X`g9
+X`g9
+I!G I!G(I!G0I!G8A
+31((R&t
+largestNumber`
+mode
+seven
+X0c9
+X`Z9
+AX*@
+left
+XT*3
+OVD&
+rawAddress
+modrm11
+loop
+X`h9
+X`h9
+X`h9
+X@i9
+Xpu:
+Xpu:
+X`n9
+action
+regno`
+bxor
+X`9:
+str .fromArray sys .out .writeall 9
+HP*9
+bit8assert9
+popqReg
+none
+btrqRegReg
+btrqRegMem
+lE5"
+btrqRegMemDisp8
+btrqRegMemDisp32
+btrqRegMemIndex
+btrqRegMemIndexScale
+btrqRegMemIndexScaleDisp8
+btrqRegMemIndexScaleDisp32
+functionName
+regno
+XT*3
+fdivp
+regno
+disp
+215 41 1
+ 116 15 (
+ 254 82 
+6 43 30 
+none
+disp
+4&;t
+imm32
+value
+constant0
+bit64assert
+none
+modrm11
+NATIVE
+abortTracing
+none
+`P79
+XT*3
+lreg
+deallocRight
+Xp.:
+Xpu:
+Xpu:
+movzxMem8Reg64
+done
+cmpqRegMemIndex
+` q7
+bit64assert
+parse
+modrm11
+combineInstruction
+xPq9
+X`":
+X`":
+X`":
+base
+X0+:
+Xpu:
+Xpu:
+E*3^
+last
+STATICDOT
+x0s9
+zero
+X@d:
+XpV:
+X 9:
+``57
+`0e8
+` D:
+X@P:
+X@P:
+P0w:
+X@P:
+Imm8 too large
+none
+: unhandled right type
+H O:
+bit64assert
+x J:
+modrm00
+X0V:
+peek
+XT*3
+bit64assert
+Xpg:
+Xpg:
+bit64assert
+Xpu:
+X@}:
+X@}:
+Xpg:
+XPo:
+rawCodeAddress
+XHPs:
+ } ? * ] =secret 
+. } ? * ] =secret 
+a9Tt%
+jzRel8
+jzLbl8
+XPz:
+;-gl
+modrm01
+`0Q9
+`@{:
+XT*3
+Xpu:
+testqRegReg
+bit64assert
+x \:
+X@}:
+none
+Xpu:
+fd`3
+staticLoadPattern
+dump
+} ? * ] =secret 
+exit
+NONE
+jzRel32
+jzLbl32
+none
+RAWCONSTEACHTHISSCOPE
+bit64assert
+OVD&
+rawAddress
+bit64assert
+none
+Xpx;
+bit64assert
+CALL
+H O:
+notqReg
+I!G I!G(I!G0I!G8A
+PYZH
+XT*3
+X0G#
+regno
+H)Ph|
+movqXmmMem
+movqXmmMemDisp8
+movqXmmMemDisp32
+movqXmmMemIndex
+movqXmmMemIndexScale
+movqXmmMemIndexScaleDisp8
+movqXmmMemIndexScaleDisp32
+XT*3
+I!G I!G(I!G0I!G8A
+x@/:
+Invalid entry type in scopeWrites
+base
+entry
+XT*3
+none
+encode
+each
+modrm11
+xorbImmReg
+xorqImm8Reg
+TRq)
+xorqImm32Reg
+movqImm32MemDisp8
+none
+` ';
+xorbImmMem
+xorwImmMem
+xorqImm8Mem
+Xpx;
+xorqImm32Mem
+X00;
+jncRel8
+jncLbl8
+X00;
+Xpx;
+xorbImmMemDisp8
+X00;
+xorwImmMemDisp8
+X00;
+xorqImm8MemDisp8
+movqXmmReg;
+`p%;
+xorqImm32MemDisp8
+xorbImmMemDisp32
+xorwImmMemDisp320
+xorqImm8MemDisp32
+xorqImm32MemDisp32
+X`D;
+xorbImmMemIndex
+H ;;
+xorwImmMemIndex
+XpO;
+xorqImm8MemIndex1
+XpO;
+H ;;
+xorqImm32MemIndexo
+xorbImmMemIndexScale
+xorwImmMemIndexScale
+xorqImm8MemIndexScale
+xorqImm32MemIndexScale
+xorbImmMemIndexScaleDisp8
+cmpqMemDisp32Reg0
+disp
+xorwImmMemIndexScaleDisp8
+xorqImm8MemIndexScaleDisp8;
+xorqImm32MemIndexScaleDisp8
+XpA;
+xorbImmMemIndexScaleDisp32
+XpA;
+xorwImmMemIndexScaleDisp32;
+XpA;
+xorqImm8MemIndexScaleDisp32
+XpA;
+xorqImm32MemIndexScaleDisp32
+X`D;
+X`D;
+none
+XPI;
+X0J;
+jncRel32 
+X0J;
+jncLbl32@
+X K;
+X K;
+X K;
+HPL;
+offsetInScope`
+H +S
+HPL;
+LOGICFUNCTION
+X`P;
+H +S
+rexreqbyte;
+H0U;
+modrm11
+X0\;
+X0\;
+XpO;
+rexreqbyte;
+NATIVE
+xp ;
+PYZH
+x08;
+disp
+Pp13
+tmpreg
+Xpy;
+LOGICFUNCTION
+setneReg
+rawCodeAddress
+X@w;
+XT*3
+X0\;
+registerDeallocations
+`p]:
+jnleRel8
+regno
+freeRegister
+none
+bxor str .fromArray sys .out .writeall 
+regno
+Imm32 too small
+XT*3
+bit64assert
+none
+none
+n!!v
+jaRel8
+jaLbl8
+canRewrite
+none
+sublMemReg
+imm8
+XT*3
+XT*3
+jaRel32
+jaLbl32
+starUsed
+Mode: 
+none
+xmmAssert
+modrm00
+ 151 66 
+XT*3
+parentCount
+bit64assert
+regno`
+Xp9<
+RAWCONSTEACHTHISSCOPE
+XT*3
+modrm11
+Xp9<
+`P9<
+X@?<
+bit32assert
+X D<
+zero
+H`C<
+sbbqRegReg
+`PB<
+sbbqRegMem
+sbbqMemReg
+XT*3
+sbbqRegMemDisp8
+X`T<
+X0P<
+disp
+~%,$
+cmovaeqRegReg
+X M<
+sbbqMemDisp8Reg
+X M<
+sbbqRegMemDisp32@M<
+X0P<
+sbbqMemDisp32Reg
+sbbqRegMemIndex
+bit64assert
+sbbqMemIndexReg
+` E<
+cmpqRegMemDisp32
+X@?<
+sbbqRegMemIndexScale
+X`T<
+kKz*
+sbbqMemIndexScaleReg
+sbbqRegMemIndexScaleDisp8^<
+X@ic
+sbbqMemIndexScaleDisp8RegQ<
+`@>4
+X@ic
+X`_<
+sbbqRegMemIndexScaleDisp32
+X@ic
+sbbqMemIndexScaleDisp32Reg
+X@ic
+entryAddrM
+` S7
+H`C<
+`P6:
+X@ic
+X0}<
+X@ic
+Hpp<
+X@ic
+X@ic
+X@ic
+X@ic
+X0}<
+X@ic
+action
+X@ic
+decqReg
+knownStack
+X@ic
+X@ic
+invalid intermediate code during optimize
+X@ic
+X0}<
+bit64assert
+X@ic
+X@ic
+value
+Imm16 too large
+unparsed call target opcodes in sys .opt .hook (optimizing version)
+X@ic
+xUpS
+staticLoadActivePattern
+rexreqbyte
+X@ic
+deallocLeft
+offsetInScope`
+none
+Hpp<
+PYZH
+rawCodeAddress
+priorRead
+XT*3
+none
+`0h(
+`p?"
+``K<
+X`_=
+rreg
+XpS!
+``[:
+` 	:
+``z;
+regno`
+registerDeallocations
+X`8=
+cmovncqMemDisp8Reg
+X`	=
+X04=
+bit64assert
+rawCodeAddress
+bit64assert
+X`S=
+H [!
+disp
+`p:2
+X`S=
+H [!
+btrqImm8Reg
+XP!=
+btrqImm8Mem
+X0"=
+btrqImm8MemDisp8
+X #=
+btrqImm8MemDisp32
+btrqImm8MemIndex
+btrqImm8MemIndexScale
+btrqImm8MemIndexScaleDisp8
+btrqImm8MemIndexScaleDisp32
+right
+registerDeallocations`
+t 3=
+inExtensionArea
+entry`
+X0H=
+incqMem
+7pqU
+0F} /mov
+X0]=
+X0]=
+none
+XPU=
+rawObject
+H [=
+H0>H
+X0]=
+XT*3
+X`_=
+X@g=
+X@g=
+five
+peek
+dump
+X@g=
+~N?-
+cmovgqRegReg
+x`Q=
+fildqMem
+X@m=
+fildqMemDisp8
+fildqMemDisp32
+fildqMemIndex
+X p=
+fildqMemIndexScale
+X@a!
+fildqMemIndexScaleDisp8
+XPr=
+fildqMemIndexScaleDisp32@
+entry`
+P@%(
+offsetInScope`
+rawCodeAddress
+none
+7@%`
+XT*3
+bit64assert
+dump
+regno
+bit64assert
+jnsRel8
++["1
+jnsLbl8
+variant
+X p 
+X@a!
+XP >
+match
+XP >
+XPb 
+jnsRel32 
+jnsLbl32
+f bxor str .fromArray sys .out .writeall D
+rawObject
+buffer
+encode
+base
+bit64assert
+XT*3
+registerDeallocations
+XT*3
+encode
+XT*3
+regno
+PUSH
+none
+disp
+regno`
+XP >
+X`0>
+retn
+XYQQPH
+XYPQI
+X`0>
+RAWCONSTLOOPTHISSCOPE`
+XT*3
+X`0>
+rawObject
+XT*3
+X0=>
+Xp:>
+customFunctionConstantPassivePattern
+XT*3
+mode
+158 27 2
+161 220 
+ 6 119 9(
+22 116 6
+comparisonOperator
+done
+H0_>
+X@Y>
+X`Q>
+jgRel8
+jgLbl8
+entry`
+four	
+H0_>
+regno
+XT*3
+regno
+modrm11
+jgRel32
+jgLbl32
+`Pj>
+4&;t
+imm32
+bit64assert
+rexreqbyte
+Xpm>
+PPZ1
+bit16assert
+regno
+XT*3
+7Ph|
+none
+bit8assert>
+PXYZQRPQH
+three
+x@<0
+bit64assert
+X@a!
+X@a!
+movsb`
+X0[?
+`@<9
+`{^ 
+ARRAYSTAR
+.exit } ? * ] =secret 
+rawCodeAddress
+target
+: unhandled right type
+X0[?
+XT*3
+none
+X .?
+INPUT
+inExtensionArea
+rreg
+secondLast
+X`.?
+E*3^
+last
+X@a!
+X@a!
+relevantScope
+failed to optimize 'execution' of raw function opcodes object
+PYZH
+bit64assert
+none
+dump
+none
+XT*3
+XT*3
+none
+H`X?
+bit64assert
+Xp9?
+Xp=?
+NATIVENOSCOPE
+X@<?
+regno
+X@D?
+vH},
+constantNormalFunctionUnscopedUntypedPattern
+X0G?
+thirdLast>
+staticLoadPassivePattern8
+{ 1 sys .exit } ? * ] =secret 
+X ]?
+X ]?
+X ]?
+`0R?
+NATIVENOSCOPE
+H`X?
+P@=<
+X0[?
+none
+I!G I!G(I!G0I!G8A
+rawCodeAddress
+constantActiveGeneralPattern
+X@l?
+regno
+write
+PUSH
+addrOrInt
+NATIVENOSCOPE
+;-gl
+modrm01
+XT*3
+callConstantPattern
+none
+inExtensionArea
+x`s?
+XT*3
+modrm11
+repLoop
+logic
+PPO@
+isIntValue
+XT*3
+compileExpression
+RAWCONSTLOOPTHISSCOPE
+boxedInteger
+pushqImm32
+regno
+seven
+rawCodeAddress
+I!G I!G(I!G0I!G8A
+buffer f bxor str .fromArray sys .out .writeall P<
+X JB
+bit64assert
+rexreqbyte
+XP{B
+rawCodeAddress
+zero
+width16
+keyAddr
+XT*3
+LOGICFUNCTION`
+X`9@
+X@<@
+orbRegReg
+AX*@
+left
+orbRegMem
+orbMemReg
+X0A@
+orbRegMemDisp8
+X0A@
+orbMemDisp8Reg
+H`C@
+orbRegMemDisp32
+orbMemDisp32Reg
+XpD@
+disp
+orbRegMemIndex
+XpD@
+orbMemIndexReg
+X0F@
+orbRegMemIndexScale
+X0F@
+orbMemIndexScaleReg
+orbRegMemIndexScaleDisp8 
+orbMemIndexScaleDisp8Reg@
+orbRegMemIndexScaleDisp32O@
+orbMemIndexScaleDisp32Reg
+XpM@
+regno
+XPQ@
+bit64assert
+sbbbImmReg
+XPQ@
+sbbqImm8Reg
+XPQ@
+sbbqImm32Reg
+none
+sbbbImmMem
+sbbwImmMem
+sbbqImm8Mem
+XPK@
+sbbqImm32Mem
+sbbbImmMemDisp8
+sbbwImmMemDisp8
+@d|xfA
+sbbqImm8MemDisp8
+sbbqImm32MemDisp8
+X@Y@
+sbbbImmMemDisp32
+X@Y@
+sbbwImmMemDisp32
+X@Y@
+sbbqImm8MemDisp32
+X@Y@
+n0[4
+sbbqImm32MemDisp32
+l&~C
+sbbbImmMemIndex
+sC\nq
+sbbwImmMemIndexx
+sbbqImm8MemIndex
+sbbqImm32MemIndex
+X ^@
+X ^@
+sbbbImmMemIndexScale
+sbbwImmMemIndexScale
+X ^@
+sbbqImm8MemIndexScale
+X ^@
+sbbqImm32MemIndexScale
+sbbbImmMemIndexScaleDisp8
+sbbwImmMemIndexScaleDisp8
+7+)u6p
+sbbqImm8MemIndexScaleDisp8@
+math
+sbbqImm32MemIndexScaleDisp8
+X@d@
+sbbbImmMemIndexScaleDisp32@
+X@d@
+sbbwImmMemIndexScaleDisp32
+X@d@
+sbbqImm8MemIndexScaleDisp32
+X@d@
+B>wC
+sbbqImm32MemIndexScaleDisp32
+rawCodeAddress
+none
+zero
+Xpo@
+disp
+Xpq@
+none
+generalHeaderPattern
+modrm11
+entry
+rexreqbyte
+fistp64Mem
+fistp64MemDisp8
+fistp64MemDisp32
+fistp64MemIndex
+fistp64MemIndexScale
+fistp64MemIndexScaleDisp8
+fistp64MemIndexScaleDisp32
+none
+none
+variant
+XT*3
+XT*3
+00000000FFFFFFFF
+OVD&
+rawAddress
+base
+`pe?
+7pqU
+variant
+XT*3
+none
+read
+X`#B
+X )B
+X`'B
+X`JB
+`0]>
+disp
+X@3B
+Imm32 too large
+X _R
+H cR
+X0NB
+  buffer f bxor str .fromArray sys .out .writeall f
+imm8
+negatedOpcodeName
+`Po@
+X ]B
+X ]B
+XT*3
+`@PB
+XPWB
+scale
+PYZH
+priorWrite
+registerDeallocations`
+`pdB
+math
+x00>
+entry
+Disp8 out of range
+X tB
+bit64assert
+jneRel8
+LM	v{!
+jneLbl8
+objects of type 15 should not appear
+zero
+CALL
+H0RB
+I!G I!G(I!G0I!G8A
+parse
+internalAllocateInteger
+jneRel32 
+jneLbl32
+modrm11
+x`9B
+math	
+action
+imm8
+encode
+XT*3
+regno
+I!G I!G(I!G0I!G8A
+subqRegReg
+subqRegMemB
+subqMemReg
+subqRegMemDisp8X
+none
+subqMemDisp8Reg
+subqRegMemDisp32
+subqMemDisp32Reg0
+subqRegMemIndex
+subqMemIndexReg
+subqRegMemIndexScale
+X0W@
+&NEkC
+subqMemIndexScaleReg
+subqRegMemIndexScaleDisp8
+subqMemIndexScaleDisp8Reg>
+subqRegMemIndexScaleDisp32
+subqMemIndexScaleDisp32Reg
+PYZH
+action
+HpPR
+modrm11
+X`@C
+X`gD
+X`gD
+` IB
+width16
+modrm11
+OVD&
+rawAddress
+unbase
+Star used in stack shuffle
+mulqReg
+XT*3
+Imm8 too large
+Star on non-constant object
+none
+regno
+Unhandled logic entry type
+xpn@
+RAWCONSTCONDSTHISSCOPE
+X hC
+xp+Q
+hasScope
+regno
+XT*3
+X0'C
+dump
+five
+jaeRel8
+47	W
+jaeLbl8
+X@=C
+X ]B
+H`C@
+X@=C
+unbase
+`@ B
+X@=C
+X`gD
+X`gD
+none
+X`CC
+X0DC
+jaeRel32 
+X0DC
+jaeLbl32 
+rawCodeAddress
+X CC
+bit64assert
+XPRC
+zero
+X `C
+rexreqbyte
+XP[C
+rreg
+dump
+X@fC
+ARRAYSTAR
+X`kC
+zero
+X@fC
+encode
+X`kC
+X`kC
+`p^B
+X@iC
+xpOC
+unbase
+H@zC
+logic`
+none
+OVD&
+rawAddress
+none
+bit64assert
+X`gD
+X`gD
+modrm11
+none
+modrm11
+modrm11
+XpqC
+failure while matching generalHeaderPattern
+XT*3
+deallocLeft
+Shift immediate too large
+typed
+X`gD
+X`gD
+right`
+CALL
+XT*3
+movzxMem8Disp8Reg64
+shrqImm8Reg
+none
+imm8
+X`gD
+X`gD
+cvtss2sdXmmXmm
+;-gl
+modrm01
+idivqReg
+X`gD
+X`gD
+OVD&
+rawAddress
+X`-D
+X00D
+X@2D
+tp7D
+X`4D
+X`4D
+H`8D
+none
+`PF4
+XP>D
+done
+} rep 
+XT*3
+loop
+` 3D
+action
+` LD
+`0x6
+`PX7
+Out of registersP]D
+sys .exit } ? * ] =secret G
+` `D
+bit8assert
+`0[D
+X`gD
+X`gD
+X`gD
+failed to optimize 'execution' of float typed object
+X lD
+parse
+X`rD
+X`rD
+X`rD
+bit64assert
+cvtsi2sdqRegXmm
+none
+OVD&
+rawAddress
+none
+fld64Mem@
+fld64MemDisp8
+fld64MemDisp32
+fld64MemIndex`
+fld64MemIndexScale
+fld64MemIndexScaleDisp8
+fld64MemIndexScaleDisp32
+xP#^
+7I>g
+getRegister, but it has none
+7I@) 
+XT*3
+RAWCONSTCONDSTHISSCOPE
+modrm11
+XT*3
+variant
+none
+orqRegReg
+orqRegMem
+orqMemReg
+b"o9
+orqRegMemDisp8
+orqMemDisp8Reg
+orqRegMemDisp32
+orqMemDisp32Regx
+orqRegMemIndex
+orqMemIndexReg
+orqRegMemIndexScale
+none
+orqMemIndexScaleReg
+orqRegMemIndexScaleDisp8 
+orqMemIndexScaleDisp8Reg@
+orqRegMemIndexScaleDisp32
+orqMemIndexScaleDisp32Reg
+five
+scale
+regno
+band
+movsxbqRegReg
+P``C
+jnoRel8
+jnoLbl8
+none
+1 sys .exit } ? * ] =secret 
+deallocRight
+parse
+jnoRel32 
+<$+)
+jnoLbl32 
+seteReg
+PYZH
+parse
+bit64assert
+XT*3
+PYZH
+Hp*E
+XT*3
+regno
+PYZH
+Hp*E
+X`VE
+X`VE
+X`VE
+XppE
+Imm8 too large
+X0BE
+modrm11
+modrm11
+`0GE
+XpYE
+H0[E
+XT*3
+modrm11
+movsw
+calledAddress
+addrOrInt
+X`]E
+X`]E
+XpYE
+H0[E
+XpYE
+ARRAYMARKER
+XpBE
+X aE
+moQ*&#d
+rorqImm8Reg
+X0dE
+X`]E
+needsAScope
+X`kE
+ ] ==secret
+rewriteSlash
+I!G I!G(I!G0I!G8A
+xp:E
+X0tE
+peeku32
+XPwE
+HpyE
+X zE
+X`|E
+ secret len ==l
+ [ ] ==buffer`
+none
+X@KE
+X@KE
+X@KE
+HpyE
+  #str .fromArray secret bxor
+modrm11
+x`~E
+base
+rawCodeAddress
+zero
+holdsInt0
+  txt .consume .u
+none
+none
+  i 1 add =i 
+Scope keys: 
+CALLSCOPED
+Imm16 too large
+jgeRel8
+jgeLbl8
+  i l eq {
+  =j
+ 0 sys .exit
+} sys .in .eachLine
+} { } ? *
+"ey_or" sys .freeze
+none
+XT*3
+regno`
+variant
+jgeRel32 
+jgeLbl32
+rawCodeAddress
+imm8
+XT*3
+abortTracing
+consume
+totalLength
+XT*3
+bit64assert
+`PRE
+four
+capturedScope`
+H vi
+I!G I!G(I!G0I!G8A
+PYZH
+bit64assert
+X@$F
+H`5F
+OVD&
+rawAddress
+H`5F
+imm8
+X 0F
+X 0F
+three
+X`>F
+disp
+none
+HP2F
+X`>F
+XT*3
+X _F
+X`CF
+d"	,
+subbImmReg
+subqImm8Reg
+subqImm32Reg
+subbImmMem
+subwImmMem
+subqImm8Mem
+subqImm32Mem
+subbImmMemDisp8
+subwImmMemDisp8
+&Am5
+subqImm8MemDisp8
+subqImm32MemDisp8
+X`LF
+subbImmMemDisp320
+X`LF
+subwImmMemDisp321
+X`LF
+subqImm8MemDisp32
+X`LF
+subqImm32MemDisp32F
+subbImmMemIndex
+subwImmMemIndex
+subqImm8MemIndex1
+subqImm32MemIndexQF
+XpQF
+subbImmMemIndexScale
+XpQF
+subwImmMemIndexScale
+XpQF
+subqImm8MemIndexScale
+XpQF
+subqImm32MemIndexScale
+X0TF
+fvs7
+subbImmMemIndexScaleDisp8
+X0TF
+subwImmMemIndexScaleDisp8
+X0TF
+subqImm8MemIndexScaleDisp8
+X0TF
+subqImm32MemIndexScaleDisp8
+subbImmMemIndexScaleDisp32
+I'g*
+subwImmMemIndexScaleDisp32F
+subqImm8MemIndexScaleDisp32
+subqImm32MemIndexScaleDisp32
+regno`
+X0aF
+x`^D
+X 0F
+X0aF
+`PcF
+action
+X0aF
+X`>F
+HP2F
+Xp{F
+Xp{F
+H`8D
+rexreqbyte
+Xp{F
+secret
+function0
+eq { 
+`0L<
+`PS?
+INLINEBLOCKEQ`
+shrq1Reg 
+leaqMemReg
+leaqMemDisp8RegX`
+leaqMemDisp32Reg
+leaqMemIndexRegxP<
+leaqMemIndexScaleReg
+leaqMemIndexScaleDisp8Reg
+leaqMemIndexScaleDisp32Reg
+regno
+footerPattern`
+INLINEQUESTIONSTARTHISSCOPE
+X`uF
+bit32assert
+movsxlqRegReg`
+none
+inputs
+staticLoadParentPattern
+rolqClReg
+UNTYPEDSCOPEDSTAR
+internalAllocateInteger
+_unboxed
+traceCode
+H0fG
+PYZH
+parse
+base
+XP)Q
+X@ D
+failed to optimize 'execution' of name table
+knownStack
+static . resolution resulted in execution mode neither 0 nor 1
+none
+rawObject
+sysasmops
+XT*3
+regno`
+CALLSCOPED
+dump
+X !G
+objects of type 13 should not appear
+poke
+t %G
+I!G I!G(I!G0I!G8A
+done
+XT*3
+imm64`
+XT*3
+X@9G
+entry
+X0<G
+X`AG
+I!G I!G(I!G0I!G8A
+XYPQH
+HPKG
+HPKG
+XP>G
+l eq { 
+XT*3
+I!G I!G(I!G0I!G8A
+deallocRight
+boxedInteger
+X ]G
+I!G I!G(I!G0I!G8A
+X0sG
+X`mG
+` Fd
+x@OG
+X`mG
+X`mG
+PYZH
+xPQG
+XT*3
+X@~G
+UNTYPEDSCOPEDSTAR
+setnleReg
+X0|G
+XPiI
+none
+H0fG
+parse
+X0"H
+Hp"H
+?r&PH
+target
+mode
+encode
+testbImmReg
+PYZH
+I!G I!G(I!G0I!G8A
+PYZH
+disp
+POSITIONMARKER
+XT*3
+rawObject
+parse
+modrm11
+XT*3
+xmmAssert
+Shift immediate too large
+bit64assert
+XPg.
+LOGICFUNCTION
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+Imm32 too large
+bit64assert
+`p(H
+width16
+X0"H
+STATICDEFININGFUNCTIONS
+encode
+x0z@
+X `C
+X `C
+X@fC
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+relevantScope
+zero
+ ==f 
+X 8p
+X 8p
+X 8p
+X 8p
+X 8p
+X 8p
+X0"H
+Hp"H
+INLINEBLOCKLE
+PYZH
+PYZH
+Xp9<
+traceCodecopeWr
+X`_=
+H0>H
+X0iH
+unboxedInt
+jngRel8
+constant
+deallocLeft
+PYZH
+80000000000000000
+PYZH
+I!G I!G(I!G0I!G8A
+X@?<
+I!G I!G(I!G0I!G8A
+math
+E*3^
+last
+logic
+comparisonFunction
+keys
+canProduceNonBooleans
+x0|9
+PYZH
+rewriteInlineQuestionStar
+secondLast
+I!G I!G(I!G0I!G8A
+RQ`L:
+E*3^
+last
+` t.
+I!G I!G(I!G0I!G8A
+rmN_
+I!G I!G(I!G0I!G8A
+PYZH
+x0#9
+testAllocatedScopeEscape 
+tes" die
+XYPQQH
+deallocRight
+X@$e
+69"#
+resolveInfo
+dump
+OVD&
+rawAddress
+right
+INLINEBLOCKGE
+X`~I
+X`~I
+H0qI
+H0qI
+``wI
+I!G I!G(I!G0I!G8A
+objects of type 15 should not appear
+callCreatedFunction
+X@06
+unbase
+failed to optimize 'execution' of function type descriptor
+entry
+x *6
+PYZH
+XYPQH
+?s.H
+?s'H
+x@w6
+addrOrInt
+7 4#
+nonInlineCase
+rawCodeAddress
+I!G I!G(I!G0I!G8A
+PYZH
+I!G I!G(I!G0I!G8A
+rawObject
+xpmI
+dump
+right`
+I!G I!G(I!G0I!G8A
+rawCodeAddress
+XT*3
+x@73
+HpX3
+Xpdf
+/ pD^
+X af
+X FJ
+X FJ
+X FJ
+entry
+`@GJ
+H0P2
+unboxedInteger
+HpZJ
+X0>2
+HpZJ
+X@~P
+X@~P
+X@~P
+X0^J
+X0^J
+X0^J
+X dJ
+Enter Password line by line\n" sys .out .writeall T
+x@`J
+`0fJ
+X iJ
+H E2
+XppJ
+X@uP
+UNTYPEDSCOPEDSTAR
+X0>2
+H E2
+HP~J
+HP~J
+rawCodeAddress
+getRegister
+Xp?N
+Xp?N
+Xp?N
+PYZH
+: unhandled left type`
+X@/f
+X@n(
+rawObjectg
+dearray
+resolution failed
+I!G I!G(I!G0I!G8A
+PpRD
+loadedObject
+typed
+X@n(
+containsScopeModifications
+rewriteConstantPipe
+testNametableTemplatability
+POSITIONMARKER
+H`.K
+H`.K
+traceCode
+E*3^
+last
+traceCodeD
+X MK
+X`gK
+X`gK
+E*3^
+last
+xpL/
+TN"z
+executingScope
+X`gK
+x`R0
+H0!0
+?r&PH
+rawCodeAddress
+target
+`0yK
+PYZH
+XpC.
+dump
+value`
+XPw.
+xP].
+BO+|
+templateNametable
+PXYZQPRH
+AX*@
+left
+failed to optimize 'execution' of name table
+seteReg
+Invalid value source in scopeWrites
+E*3^
+last
+read
+exampleObjectOffset
+M z.
+Lme/	
+isScoping
+7pqU
+H0 L
+H0 L
+H0 L
+H0W`
+H0W`
+H0W`
+H0 L
+hasRegister
+nonInlineCase`
+PYZH
+H@3L
+69"#
+resolveInfo
+X BL
+X BL
+scopeReads contains unexpected element type
+X BL
+Xp:L
+00DK
+0`/L
+PYZH
+H`\L
+H`\L
+H`\L
+H) OZ
+AX*@
+left
+rreg
+entry`
+ ==f 
+NATIVENOSCOPE
+target
+logicFunction
+?r&PH
+QRSVWH
+_^[ZYH
+I!G I!G(I!G0I!G8A
+rawObject
+I!G I!G(I!G0I!G8A
+XYPQH
+?V`>
+abortTracing
+Hp-M
+X )d
+`@t.
+00000000FFFFFFFF V
+HP<d
+HP<d
+HP<d
+ey_or
+H i"
+X S"
+X`9'
+xpQ'
+rawCodeAddress
+rawObject
+type
+finalAddress
+rawObject
+7pqU
+xpI"
+X0$M
+X0$M
+Hp-M
+Hp-M
+functionBody
+xPM&
+priorWrite
+Hp-M
+` 3M
+registerDeallocations
+X0$M
+secondLastM
+mode
+X`n&
+HpMM
+I!G I!G(I!G0I!G8A
+XPTM
+XPTM
+XPTM
+P@BM
+x0;d
+logic
+OVD&
+rawAddress
+XT*3
+OVD&
+rawAddress
+X@iM
+H`4d
+: unhandled left type
+`pxM
+PUSH
+nextRegister
+knownPop 
+collectedFunctionsM
+Hp6#
+PXYPQH
+PYZH
+rawCodeAddress
+logic
+constant@
+logic
+PXYPQH
+unboxedInt
+rawObject
+target
+entry
+scopeWrites
+X W#
+PYZH
+X@jc
+xp?#
+XP\#
+peek
+XPnc
+H ic
+H0ac
+action
+XP	N
+XP	N
+XP	N
+Xp)N
+loadedObject
+logic
+constantX
+H $"
+tmpreg
+loadedObject
+templatable
+lreg
+XpCN
+xPrJ
+X@HN
+X0NN
+X0NN
+X0NN
+H@aN
+.freeze @
+I!G I!G(I!G0I!G8A
+PYZH
+XPZN
+XPZN
+xpFc
+XYQQQPH
+?r&PH
+rawObject
+fragileReferences
+availableRegisters
+entry
+`P+F
+`@	I
+i l eq { 
+math
+INLINEBLOCKOR`
+math
+xP/c
+PXYPQH
+PYZH
+write`
+OVD&
+rawAddress
+XP	O
+XP	O
+setInstruction
+XP	O
+done
+freeRegister
+continueParsing
+each
+rawObject&
+`P'O
+H`-O
+recursionDepth
+X0=O
+X0=O
+X0=O
+loop
+PYZH
+rawCodeAddress
+HPCO
+math
+I!G I!G(I!G0I!G8A
+PYZH
+?s#H1
+X`HO
+X`HO
+X`HO
+rawObject
+unbase
+X@^O
+entry
+registerUsed
+XPeO
+7I0XO
+XpfO
+XpfO
+HpgO
+Scope keys: 
+XpfO
+HpgO
+orbRegRegj
+Hp}O
+thirdLast
+7I0vO
+Hp}O
+static . resolution resulted in execution mode neither 0 nor 1
+AX*@
+left
+registerDeallocations
+OVD&
+rawAddress
+x`nO
+" sys .freeze 
+ey_or`
+unbase
+entry
+abortTracing
+XpAb
+XpAb
+XpAb
+rawObject
+HP@b
+GT: unhandled left type
+logic
+I!G I!G(I!G0I!G8A
+PYZH
+H`-O
+mode
+parentCount
+secondLast
+0P6N
+x`9b
+I!G I!G(I!G0I!G8A
+?r&PH
+PYZH
+NOREGISTERP
+PYZH
+xPxN
+H0.P
+X0>P
+rawCodeAddress
+#BvP
+rewriteTrivialStar
+XP;P
+XP;P
+XP;P
+H0.P
+unbase
+Xp?P
+Xp?P
+Xp?P
+r" sys .freeze 
+ey_o
+entry`
+X`jP
+X`jP
+HPSP
+xP]P
+restartTracing
+`PaP
+X`jP
+HPSP
+PYZH
+?r&PH
+x0PP
+XPfP
+XPfP
+XYZRQPRH
+X0nP
+HpnP
+X0nP
+HpnP
+X0nP
+X@uP
+setneReg 
+X@uP
+XPfP
+I!G I!G(I!G0I!G8A
+Non-constant stack shuffle
+repFinished
+`p"a
+XT*3
+scopeWrites contains unexpected element type
+x0M7
+PYZH
+XT*3
+LOGICFUNCTION
+PYZH
+unparsed static load opcodes in sys .opt .hook (optimizing version)
+P`2)
+P0Zg
+P0Zg
+I!G I!G(I!G0I!G8A
+abortTracing
+capturedScope`
+called
+Unhandled called function
+failed to optimize 'execution' of function type descriptor
+I!G I!G(I!G0I!G8A
+P^XH
+rawCodeAddress
+registerDeallocations
+x%4-
+emitOpcodes
+XP(Q
+rawObjectp
+dump
+LOGICFUNCTION
+Xp*Q
+registerDeallocations
+scopeReads
+X 3Q
+X 3Q
+X 3Q
+`@,P
+`0*Q
+entry
+X@DQ
+H@OQ
+shuffleInputs`
+unparsed static load opcodes in sys .opt .hook (optimizing version)
+H@lQ
+H@OQ
+X0{Q
+X0{Q
+X0{Q
+H@lQ
+restartTracing
+or" sys .freeze 
+constant(
+tmpreg
+rawCodeAddress
+read
+PYZH
+OVD&
+rawAddressQ
+pushedConstant
+I!G I!G(I!G0I!G8A
+IPh|
+rawCodeAddress
+ensureBoxed
+X`4D
+rawObject
+deallocLeft
+rawCodeAddress
+rawCodeAddress
+aborted
+right`
+functionScope`
+H`3R
+right
+I!G I!G(I!G0I!G8A
+H`3R
+rewriteSimpleFunctions
+X0UR
+X0UR
+XPOR
+XPOR
+X0UR
+HpPR
+XPOR
+PYZH
+X _R
+math
+X _R
+H cR
+math
+?r&PH
+LOGICFUNCTION`
+item
+rawObject
+NATIVENOSCOPE
+PYZH
+PYZH
+lowByte
+XYPQ
+HplR
+PYZH
+PYZH
+read
+ARRAYCLEAR
+_or" sys .freeze 
+LOGICFUNCTION`
+`pFO
+X 	S
+X 	S
+unbase
+6 6 43 3
+xP<~
+lowByte
+X0@S
+H@|a
+newLogic@
+x`va
+dump
+?VXH
+?r&PH
+dump
+xp2~
+done
+XpAS
+XpAS
+XpAS
+PYZH
+?s#H1
+X0|S
+X@OS
+failed to optimize 'execution' of extension area0
+H SS
+unbase
+H SS
+XP\S
+XP\S
+XP\S
+unboxedInteger
+xpES
+?s#H1
+stackReads
+objects of type 14 should not appear
+andbRegReg
+PYZH
+PYZH
+exampleObject`
+I!G I!G(I!G0I!G8A
+traceCode
+E*3^
+last
+Invalid entry while assembling trace codeuS
+rewriteIntegerTrace
+AX*@
+left
+math
+AX*@
+left
+31((R&t
+largestNumber`
+rewriteTrivialEach
+rawCodeAddress
+X`9T
+X0v^
+logic`
+combineInstructionT
+I!G I!G(I!G0I!G8A
+Hp5T
+setleReg@
+objects of type 11 should not appear
+X {^
+X {^
+X {^
+XPBT
+XPBT
+XPBT
+registerDeallocations
+H`DT
+H`DT
+#q p
+eachString
+rawObject1
+I!G I!G(I!G0I!G8A
+XP6T
+XP6T
+XP6T
+Xpmc
+INPUT
+PYZH
+I!G I!G(I!G0I!G8A
+tXPH
+PYZH
+I!G I!G(I!G0I!G8A
+XpwT
+XpwT
+XpwT
+unparsed opcodes in sys .opt .hook (optimizing version)
+Xp~T
+Xp~T
+Xp~T
+type
+xpYT
+H@|T
+Hp7^
+POSITIONMARKER
+rawCodeAddress
+write
+I!G I!G(I!G0I!G8A
+7@($
+registerDeallocations
+dump
+unbase
+getIntValue
+calledConstant
+Hp02
+xP ^
+Xp U
+H@|T
+OVD&
+rawAddress
+I!G I!G(I!G0I!G8A
+HP0U
+I!G I!G(I!G0I!G8A
+PYZH
+consumeAndDrop
+H@GU
+X nU
+X nU
+x@LU
+X`PU
+X`PU
+X`PU
+math
+I!G I!G(I!G0I!G8A
+PYZH
+XpeU
+XpeU
+H@\U
+logic
+X gU
+X gU
+H ]U
+XpeU
+dump
+X gU
+functionBody
+I!G I!G(I!G0I!G8A
+eachLine@
+I!G I!G(I!G0I!G8A
+NATIVENOSCOPE
+traceCode
+rawObject
+X )]
+X )]
+right
+PYZH
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+right
+x`2/
+I!G I!G(I!G0I!G8A
+tXPH
+PYZH
+xPN}
+rewriteConstantStar
+OVD&
+rawAddress
+executedObject
+X )]
+X )]
+failed to optimize 'execution' of extension area
+registerDeallocations`
+H)P`R
+X )]
+X )]
+rawObject
+`@>U
+OVD&
+rawAddress
+dump
+I!G I!G(I!G0I!G8A
+scopeWrites
+X@XV
+X@XV
+H0)V
+PYZH
+``/V
+H`<V
+someCodeAddress
+objects of type 3 should not appear
+X /V
+H0>V
+lreg
+X /V
+H0>V
+X /V
+x@8V
+unboxedInteger
+x`%]
+unbase
+X KV
+H0)V
+XP\V
+X@XV
+PYZH
+H0uV
+starUsed@
+I!G I!G(I!G0I!G8A
+X M-
+X0yV
+X0wV
+X M-
+x }V
+registerDeallocations
+objects of type 14 should not appear
+unboxedInt
+pushedConstant
+X@Rt
+entry
+ .eachLine 
+. .eachLine 
+rawObject
+.eachLine V
+X0|\
+I!G I!G(I!G0I!G8A
+PYZH
+rax{ 
+Xp|\
+`PlR
+xPZ+
+internalAllocateInteger
+E`_f
+PXYPQH
+executedObject
+canProduceNonBooleans
+x`u*
+x@t*
+Xp\W
+Xp\W
+H`"W
+H@(W
+value`
+H`"W
+Xp6W
+7Ph|
+X`9W
+X`9W
+X`9W
+traceCode
+Xp\W
+y)p3}
+rewriteTrivialConds
+H0AW
+X`BW
+H@(W
+XPg.
+`@ZW
+`@E)
+x0;W
+X W)
+sys .in .eachLine 
+tXPH
+logic`
+PYZH
+6 6 43 3
+abortTracing
+rawCodeAddress
+PYZH
+LOGICFUNCTION
+POSITIONMARKER
+deallocRight
+?r&PH
+actualImprovementm
+ARITHFUNCTION
+XYPQXH
+?r&PH
+QRSVWH
+_^[ZYH
+logic
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+tXPH
+P@SV
+XYPQ
+codeLength
+H 5X
+H 5X
+loop
+I!G I!G(I!G0I!G8A
+xP'X
+Xp:X
+ ==f 
+XpDX
+XpDX
+XpDX
+XPEX
+typed
+X`FX
+X`FX
+collectedFunctions
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+XPMX
+XPMX
+H JX
+PYZH
+X iX
+H JX
+registerDeallocations
+XPMX
+X iX
+P@LX
+] ==secret
+] ==f
+ secret len ==l
+ [ ] ==buffer
+ 0 ==i
+ 0 ==j
+ "Enter Password line by line\n" sys .out .writeall
+  #str .fromArray secret bxor
+  txt .consume .u
+  =j
+[ buffer _ len dearray j ] =buffer
+[ secret _ len dearray j eq { } { 1 sys .exit } ? * ] =secret
+  i 1 add =i 
+  i l eq {
+  buffer f bxor str .fromArray sys .out .writeall
+ 0 sys .exit
+} { } ? *
+} sys .in .eachLine
+"ey_or" sys .freeze
+xp&X
+X iX
+X`m[
+X0uX
+X0uX
+I!G I!G(I!G0I!G8A
+PYZH
+X0yX
+X0yX
+X0yX
+rawObject
+xpR[
+poke
+HPF[
+PYZH
+} sys .in .eachLine 
+I!G I!G(I!G0I!G8A
+arrayStart
+P ZW
+typed
+math
+objects of type 3 should not appear
+?r&PH
+typed
+emitReference`
+PYZH
+X`2Y
+done
+PYZH
+PYZH
+XPvY
+xP\|
+type
+tXPH
+logic
+x`CY
+PYZH
+tXPH
+unbase
+tXPH
+tXPH
+?r&PH
+XYPQM
+Hp#Z
+rawCodeAddress
+PYZH
+H`@[
+type
+?r&PH
+?r&PH
+Hp#Z
+POSITIONMARKER
+X`,Z
+?VXH
+?r&PH
+X`;Z
+X`;Z
+tXPH
+X`;Z
+peek
+rawObject
+tXPH
+?VXH
+?r&PH
+X@KZ
+H kZ
+H kZ
+x@LZ
+inputs
+X0`Z
+X0`Z
+X0`Z
+X0_Z
+logic
+rawCodeAddress
+rawCodeAddress
+PYZH
+I!G I!G(I!G0I!G8A
+XYPQ
+H )[
+done
+x &[
+executedObject
+H )[
+entry
+XP?[
+XP?[
+XP?[
+H`@[
+rawCodeAddress
+type
+HpL[
+HPF[
+entry
+HpL[
+X0uX
+PYZH
+xpy[
+math
+H@c[
+internalAllocateInteger
+xP`[
+24 134 1 
+type
+x k[
+NATIVENOSCOPE`
+X`m[
+X`m[
+X@l[
+X`kX
+X kX
+rewriteTrivialLoop
+H0AW
+XP%W
+HP'W
+I!G I!G(I!G0I!G8A
+XYPQH
+failed to optimize 'execution' of raw function opcodes object
+?r&PH
+HP'W
+8 192 95 
+objects of type 15 should not appear
+repLoop
+PYZH
+loop
+H`<V
+rewriteArrayClear
+.in .eachLine 
+Xp	\
+HP;\
+unboxedInt
+unbase
+I!G I!G(I!G0I!G8A
+PYZH
+X0*\
+X0*\
+X0*\
+H`C\
+PYZH
+HP;\
+Xp<\
+rawObject
+Xp<\
+Xp<\
+H`C\
+H`G\
+type
+x@I\
+PYZH
+H`G\
+I!G I!G(I!G0I!G8A
+tXPH
+`p_\
+x d\
+X0e\
+x`c\
+Hpo\
+Hpo\
+inputs
+X0E\
+PXYPQH
+90 24 13 
+XpE\
+function
+NATIVENOSCOPE
+source
+X`~\
+PpZ[
+XPg.
+arrayclose
+H0uV
+X )B
+x`PV
+X )B
+I!G I!G(I!G0I!G8A
+H@j{
+boxedInteger
+newOpcodes]
+x`1V
+X`KV
+.eachLine 
+X )]
+X )]
+XYPQI
+?s.H
+?s'H
+X ,V
+H V]
+H 2]
+X 8]
+X 8]
+H 2]
+x /]
+X 8]
+POSITIONMARKER
+x`P]
+P`>]
+?s.H
+?s'H
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+callTargetMatch
+X )]
+H V]
+XPY]
+H`b]
+XPY]
+XPY]
+H`b]
+H0j]
+H0j]
+X )]
+X )]
+X z]
+X z]
+X z]
+entry`
+X )]
+X )]
+PYZH
+x0zU
+x0{U
+9 151 66
+rawObject
+X )]
+X )]
+X nU
+X nU
+unboxedInteger
+X nU
+I!G I!G(I!G0I!G8A
+X nU
+X nU
+X@oU
+Xpmc
+H `{
+H0RU
+emitLogic
+entry
+PYZH
+dump
+0`sm
+X nU
+X nU
+H0RU
+XpEU
+H@GU
+X nU
+X nU
+rawObject
+I!G I!G(I!G0I!G8A
+X 5U
+X 5U
+X 5U
+X@4U
+X nU
+X nU
+X0 U
+X nU
+X nU
+XPa^
+I!G I!G(I!G0I!G8A
+PXYZQRPRH
+tXPH
+PYZH
+?r&PH
+Hp7^
+I!G I!G(I!G0I!G8A
+Hp5T
+XPa^
+x`M^
+?r&PH
+X`G^
+X`[^
+x0lv
+tXPH
+?r&PH
+X`[^
+X`[^
+XPa^
+?r&PH
+PYZH
+X`>T
+X0w^
+X0w^
+I!G I!G(I!G0I!G8A
+P^XH
+X0w^
+QRSVWH
+_^[ZYH
+X`.{
+X -{
+X -{
+arrayStart
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+rawObject
+dump
+        
+xp'{
+X`2a
+H@3a
+logic
+hasScope
+logic`
+HP)a
+?r&PH
+ey_or" sys .freeze 
+exampleObject`
+y_or" sys .freeze 
+X ;_
+dump
+repFinished
+XP-_
+\ke}
+X`H_
+X`H_
+X`H_
+H0J_
+X0U_
+X0U_
+X0U_
+E*3^
+last
+action
+X ^_
+X ^_
+X ^_
+x0]z
+HPh_
+X0i_
+X0r_
+X`o_
+rawCodeAddress
+Xps_
+Xps_
+Xps_
+type
+H`|_
+H }_
+H }_
+rawCodeAddress
+failed to optimize 'execution' of name table
+H HY
+x0Gz
+failed to optimize 'execution' of integer typed object
+I!G I!G(I!G0I!G8A
+objects of type 13 should not appear
+x`0z
+,0TZ
+`{^`I
+?s#H1
+failed to optimize 'execution' of integer typed object
+`p`[
+rawCodeAddress
+xp<d
+Xp	`
+"ey_or" sys .freeze 
+tXPH
+?VXH
+?r&PH
+H0W`
+I!G I!G(I!G0I!G8A
+Hpt`
+I!G I!G(I!G0I!G8A
+Hpt`
+I!G I!G(I!G0I!G8A
+PYZH
+PYZH
+Xpr_
+88 6 119
+rawCodeAddress
+?s.H
+?s'H
+?s.H
+?s'H
+?r&PH
+Hp3a
+XPW_
+tXPH
+invalid entry while assembling RAWCONSTCONDSTHISSCOPE`
+H0!a
+H0!a
+HP)a
+Xp*a
+Xp*a
+Xp*a
+X`2a
+X`2a
+H@3a
+tXPH
+range`
+xpfa
+Hpea
+X Ya
+X Ya
+X Ya
+Hpea
+X@OS
+X@OS
+H@|a
+56 30 36 
+XPSR
+X ;R
+X ;R
+X ;R
+XYZPRQH
+tXPH
+?s#H1
+?s.H
+?s'H
+I!G I!G(I!G0I!G8A
+1 11 139
+XIpEY
+X`5Q
+X`5Q
+X`5Q
+X@JQ
+peek
+parentCount
+?s.H
+?s'H
+?VYH
+?s#H1
+tXPH
+I!G I!G(I!G0I!G8A
+H`\L
+246 247  
+HP@b
+7 99 248 
+Hpdi
+PYZH
+PYZH
+?r&PH
+XPQb
+XPQb
+X mb
+X mb
+HpTb
+XPQb
+internalAllocateScope
+X mb
+HpTb
+H0rb
+XYPQQH
+each
+6 211 22 
+I!G I!G(I!G0I!G8A
+              8 /rax /rax :movqMemDisp8Reg
+              63 /rax :btrqImm8Reg
+              /rax :popqReg
+              i functions * call
+              i txt .produce .u ==lbl
+            { i functions len lt }' {
+            0 ==i
+Xp~b
+              lbl "_no" cat :jzLbl8
+              /rax /rax :testqRegReg
+              lbl "_unboxed" cat @
+              lbl "_unboxed" cat :jcLbl8
+              i 2 add =i8
+              lbl "_no" cat @`
+              /end :jmpLbl32
+              i 1 add functions * call
+    --
+    *
+    "i"
+  function dumpHP
+# vim: syn=elymas
+} each
+  } rep
+repLoop
+PYZH
+loop
+X ob
+104 52 5
+139 254 
+ 127 199
+48 93 24
+sys .freeze 
+          |entry dump
+        { 1 }' {
+        }
+] emitOpcodes8
+            8 /r15 :addqImm8RegX
+            @end
+            } loopb
+        _ =newReferences0
+    [ ] _ =newOpcodes`
+  } /optimize deffd
+          =newLogic
+ sys .freeze 
+    recursionDepth 3 lt { optimize } { } ? *
+    recursionDepth 1 add =recursionDepth
+    } each
+      ] conds`
+        }
+          "invalid intermediate code during optimize" die)
+    recursionDepth 1 sub =recursionDepth0
+  0 ==recursionDepth
+      addr 7 add _ sys .asm .peek %02 bor -01 sys .asm .poke # set scope-cannot-escape bit
+    newOpcodes newReferences o ::replace
+    newFooter emitOpcodesD
+poke
+      targetAddress 16 sub 7 add _ sys .asm .peek %02 bor -01 sys .asm .poke # set scope-cannot-escape bit on jump target
+      [ addr 18 add _ 8 add range peek each ] 256 math .unbase ==targetAddress
+7pqU
+# ensure that the optimizer is run often enough to finish optimize itself
+[ /eq /neq /le /lt /ge /gt /and /or /add ] { ==function
+> --
+    1
+  10 {
+  } /hook sys .opt .deff 
+            /callCreatedFunction :jmpLbl8
+            /rdx :callqReg
+            @callCreatedFunction
+            /rcx /rdx :cmovnzqRegReg
+            /rax /rax :testqRegReg
+            2 entry forwardJumpPad /rdx :movqImmReg
+            1 entry forwardJumpPad /rcx :movqImmReg
+            @unboxedInt
+    "i" sys .executeIdentifier
+    "==" sys .executeIdentifier
+    "{" sys .executeIdentifier
+              { 0 function FUNCTIONCREATE eq }' {
+          1 entry ==functions
+        { action RAWCONSTCONDSTHISSCOPE eq }' {x
+        }
+          2 entry 16 sub emitReference
+          1 entry 16 sub emitReference
+] emitOpcodes
+    "}" sys .executeIdentifier
+    function sys .executeIdentifier
+    1`
+    1 executingScope # return something different from o to signal successful optimization
+    } rep
+    allocatedScopeMightEscape not {
+            /r14 /r15 :movqRegMem
+            8 /r15 :subqImm8Regx
+          [[
+          } /call deffst0
+ conds
+              { 1 }' { |function dump "invalid entry while assembling RAWCONSTCONDSTHISSCOPE" die }'
+              }'
+                2 function emitReference@
+                /r15 /r14 :movqMemReg
+                /rax :callqReg
+                2 function 16 add forwardJumpPad /rax :movqImmReg
+            [
+          { =*function
+X@ZO
+XP<O
+?r&PH
+Xp5c
+Xp5c
+x`dN
+Xp;c
+Xp;c
+Xp;c
+Xp5c
+95 246 2
+21 45 18
+X@ic
+X@ic
+X`_c
+X`_c
+X`_c
+H0ac
+X@ic
+XPnc
+X@jc
+X@jc
+QRSVWH
+_^[ZYH
+X@ic
+XPnc
+H ic
+H`Ed
+math
+freeze
+dump
+H)`{b
+ "Enter Password line by line\n" sys .out .writeall
+ 0 ==j
+ 0 ==i
+x`[n
+newFooter
+PYZH
+callCreatedFunction
+  buffer f bxor str .fromArray sys .out .writeall
+[ secret _ len dearray j eq { } { 1 sys .exit } ? * ] =secret`
+[ buffer _ len dearray j ] =bufferc
+] ==f
+Xp|M
+?r&PH
+7 88 6 1
+I!G I!G(I!G0I!G8A
+PYZH
+?r&PH
+math
+unbase
+XprM
+ 211 22 0
+x%4-
+emitOpcodes
+Hp$d
+Hp$d
+X )d
+HP<d
+stringLoop
+?s#H1
+X@iM
+H`4d
+X@iM
+XYPQI
+X0vK
+Xp?d
+x Bw
+X`Vd
+X`Vd
+tXPH
+tXPH
+ ==f 
+I!G I!G(I!G0I!G8A
+X 6f
+PYZH
+152 127 
+ ==f 
+xPQw
+X0Pw
+I!G I!G(I!G0I!G8A
+unbase
+PYZH
+X@<H
+?VYH
+?s#H1
+I!G I!G(I!G0I!G8A
+127 
+ ==f 
+unboxedInt
+xp<d
+PYZH
+?r&PH
+7pqU
+H`,e
+tXPH
+offsetInScope
+H`,e
+XP&Y
+X0(Y
+X0(Y
+H .e
+X@KZ
+done
+boxedInteger
+?s.H
+?s'H
+?s.H
+?s'H
+?s.H
+?s'H
+dump
+X0^e
+H)`pd
+H)`Me
+?r&PH
+math
+I!G I!G(I!G0I!G8A
+H0he
+HPie
+H`Ub
+I!G I!G(I!G0I!G8A
+PYZH
+X [d
+PYZH
+finalAddress
+tXPH
+XPt^
+X0v^
+X0v^
+H ^^
+PYZH
+_unboxed
+X`[d
+X0/]
+X0/]
+X0/]
+XP.]
+call
+XP:\
+X0<\
+X0<\
+X0<\
+X (\
+X (\
+?r&PH
+I!G I!G(I!G0I!G8A
+PYZH
+unbase
+XPa[
+X0c[
+X0c[
+H0^[
+XP@[
+X@EH
+PYZH
+?s#H1
+XpzZ
+XpzZ
+entry
+X0>f
+rawCodeAddress
+X0.H
+?r&PH
+XpsV
+XpQV
+XpQV
+X0MV
+X0MV
+X`af
+Xpff
+I!G I!G(I!G0I!G8A
+P^XH
+unboxedInt
+functions
+XpkQ
+XpJQ
+loop
+H hP
+H ]P
+H`YP
+dump
+X@ZO
+X ^O
+X ^O
+X ^O
+X ^O
+I!G I!G(I!G0I!G8A
+X ^O
+X ^O
+XPgN
+XPgN
+PYZH
+QRSVWH
+_^[ZYH
+x XJ
+X0{M
+X0	K
+XP"I
+XPbH
+X`?I
+X`?I
+X`;H
+X`?I
+X`?I
+X0yG
+X0yG
+XpaG
+XPcG
+XPcG
+XPcG
+PYZH
+pushedConstant
+repFinished
+tXPH
+HP2G
+X@8G
+X 2g
+X 2g
+X 2g
+X@6g
+X@6g
+X@6g
+X@ic
+callCreatedFunction
+XPsF
+x`ng
+X `g
+X `g
+X `g
+X 9F
+X rg
+H@yg
+I!G I!G(I!G0I!G8A
+PYZH
+Hp!F
+I!G I!G(I!G0I!G8A
+X0!F
+X@pg
+I!G I!G(I!G0I!G8A
+XYPQH
+newReferences`
+?s#H1
+HP1l
+?r&PH
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+] ==f 
+optimize
+?s#H1
+QRSVWH
+_^[ZYH
+0@pV
+`@E)
+H`TE
+X@nE
+I!G I!G(I!G0I!G8A
+tXPH
+H iE
+?r&PH
+QRSVWH
+_^[ZYH
+Hpxw
+H iE
+H0RE
+X`@E
+QRSVWH
+_^[ZYH
+H0r^
+Hpkv
+?r&PH
+Xp_i
+Xp_i
+x0ni
+I!G I!G(I!G0I!G8A
+XPbi
+Xp_i
+H g]
+PYZH
+PYZH
+?s.H
+?s'H
+?r&PH
+?r&PH
+?r&PH
+HP!x
+PYZH
+PYZH
+?s.H
+?s'H
+PYZH
+?s.H
+?s'H
+I!G I!G(I!G0I!G8A
+tXPH
+tXPH
+XYQPQPYZH
+XYZPRQYZXH
+PYZH
+?r&PH
+X@ic
+H !j
+P^XH
+H `Z
+?VYH
+?s#H1
+X@#;
+X@#;
+I!G I!G(I!G0I!G8A
+XYPQH
+PYZH
+?s#H1
+?s#H1
+XYZQPRH
+PYZH
+?s#H1
+?s#H1
+QRSVWH
+_^[ZYH
+?s.H
+?s'H
+X@#;
+X@#;
+X0b9
+X0b9
+X0b9
+HP(k
+XP09
+H 19
+X`A9
+H0]k
+tXPH
+HPak
+Xpuk
+Xpuk
+?r&PH
+XPpk
+XPpk
+XPpk
+Xpuk
+PYZH
+H 5q
+7pqU
+XPl5
+XPl5
+?s.H
+?s'H
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+QRSVWH
+_^[ZYH
+I!G I!G(I!G0I!G8A
+?r&PH
+?r&PH
+?r&PH
+?r&PH
+PYZH
+X`[5
+X@s3
+Hp-l
+xP4l
+?VYH
+?s#H1
+X (l
+X (l
+X (l
+X >n
+?s#H1
+?s#H1
+Hp-l
+X02l
+X02l
+X02l
+P^XH
+?SYH
+P^XH
+H`zj
+Xp1l
+?r&PH
+I!G I!G(I!G0I!G8A
+tXPH
+54 140 166 43 104 
+ ==f 
+?VYH
+?s#H1
+?s.H
+?s'H
+H0ul
+X0J0
+H`90
+I!G I!G(I!G0I!G8A
+X '.
+X`'.
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+?s#H1
+?VYH
+?s#H1
+RQH B?
+XPT-
+PYZH
+PYZH
+tXPH
+tXPH
+tXPH
+tXPH
+P^XH
+tXPH
+I!G I!G(I!G0I!G8A
+xP@m
+PYZH
+?s#H1
+HPLm
+I!G I!G(I!G0I!G8A
+.null
+.strtab
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+tXPH
+PYZH
+tXPH
+PYZH
+I!G I!G(I!G0I!G8A
+H kl
+QRSVWH
+_^[ZYH
+PYZH
+H kl
+?VXH
+?r&PH
+XPLn
+XPLn
+QRSVWH
+_^[ZYH
+XPLn
+XP~g
+XP~g
+XP~g
+H`Wn
+X Pn
+PYZH
+I!G I!G(I!G0I!G8A
+PYZH
+?s.H
+?s'H
+?s.H
+?s'H
+I!G I!G(I!G0I!G8A
+?VYH
+?s#H1
+?s.H
+?s'H
+PYZH
+I!G I!G(I!G0I!G8A
+X`DY
+X`DY
+X`DY
+H0Zo
+?r&PH
+?s#H1
+?r&PH
+H0Oo
+X0Go
+X0Go
+X0Go
+XpNo
+XpNo
+XpNo
+H0Oo
+X`Yo
+X`Yo
+X`Yo
+H0Zo
+X0Go
+X0Go
+X Ia
+X Ia
+X Ia
+Hpco
+X0\o
+PYZH
+?r&PH
+QRSVWH
+_^[ZYH
+X0Go
+X0Go
+PYZH
+PYZH
+tXPH
+tXPH
+tXPH
+?s#H1
+?r&PH
+PYZH
+?r&PH
+tXPH
+?VXH
+?r&PH
+H`O4
+X 8p
+X 8p
+X 8p
+X`?p
+X`?p
+X`?p
+H @p
+H Ap
+X`9p
+X 8p
+X 8p
+X Hp
+X Hp
+X Hp
+X 8p
+X 8p
+X0Op
+X0Op
+X0Op
+X ap
+PYZH
+XP*c
+X 8p
+X 8p
+X`[I
+X`[I
+X`[I
+ pYB
+HP q
+H0!q
+X0*q
+X0*q
+X0*q
+Xp#q
+X 3q
+X 3q
+X 3q
+H 5q
+X`-q
+H0Hs
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+H Jr
+X ap
+X ap
+X -q
+XPSO
+X0UO
+X0UO
+I!G I!G(I!G0I!G8A
+PYZH
+X Br
+X Br
+X Br
+H0Dr
+X`<r
+X <r
+H Jr
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+H`Wr
+XPPr
+XPPr
+XPPr
+H`Wr
+XPGr
+I!G I!G(I!G0I!G8A
+X@Yr
+?s.H
+?s'H
+I!G I!G(I!G0I!G8A
+H 4s
+X`3s
+X`3s
+X`3s
+H 4s
+X`-s
+X }R
+X }R
+X@=s
+X@=s
+X@=s
+X@7s
+X }R
+X }R
+X 	S
+XpGs
+XpGs
+XpGs
+H0Hs
+?r&PH
+I!G I!G(I!G0I!G8A
+PYZH
+X }R
+X }R
+X }R
+X }R
+X }R
+X }R
+X }R
+X }R
+PYZH
+X 'V
+X@nV
+tXPH
+X`'V
+H`Xt
+XPVW
+XPVW
+XPVW
+H`at
+X`Zt
+X kt
+X kt
+X kt
+?r&PH
+?r&P
+X@YW
+XpDX
+XpDX
+XpDX
+XpDX
+X@SY
+XpDX
+XpDX
+XpDX
+XpDX
+XpDX
+XpDX
+XpDX
+XpDX
+X@oY
+X@oY
+X@oY
+H@%u
+X &u
+X &u
+X &u
+H`ku
+I!G I!G(I!G0I!G8A
+tXPH
+PYZH
+H`ku
+H `Z
+X`lu
+X`lu
+X`lu
+H mu
+X@eu
+H@tu
+H`zu
+XpF\
+X0F\
+P^XH
+?SYH
+P^XH
+PYZH
+?r&PH
+X 	v
+X d]
+X d]
+X d]
+XP$v
+XP$v
+XP$v
+I!G I!G(I!G0I!G8A
+PYZH
+HP'v
+I!G I!G(I!G0I!G8A
+XP\v
+Hpjv
+Hpkv
+H0r^
+X0W^
+XPmv
+X nv
+PYZH
+I!G I!G(I!G0I!G8A
+PYZH
+I!G I!G(I!G0I!G8A
+PYZH
+XPLb
+XPLb
+X`Vd
+H0Xd
+I!G I!G(I!G0I!G8A
+?s ?
+I!G I!G(I!G0I!G8A
+?r&PH
+X0Pw
+X0Pw
+XPHw
+H`Xw
+H aw
+XYPQH
+PYZH
+XYPQH
+PYZH
+XYPQH
+PYZH
+XYPQH
+PYZH
+QRSVWH
+_^[ZYH
+PYZH
+QRSVWH
+_^[ZYH
+PYZH
+?r&PH
+I!G I!G(I!G0I!G8A
+PYZH
+Hp&7
+X0<d
+I!G I!G(I!G0I!G8A
+PYZH
+HP.x
+XP/d
+HP8x
+XP"d
+Xp@x
+Xp@x
+Xp@x
+Xp:x
+X mx
+X mx
+X mx
+?r&PH
+X0vx
+X0vx
+X0vx
+X )B
+H`xx
+X`yx
+X yx
+7pqU
+X`Ic
+X`Ic
+X`Ic
+X0$b
+Xp_a
+Xp_a
+Xp_a
+ ==f @
+X`(y
+X`(y
+X`(y
+HP1y
+X`(y
+X`(y
+HP9y
+I!G I!G(I!G0I!G8A
+Hp<y
+X`(y
+X`(y
+H`Cy
+X`Dy
+X`Dy
+X`Dy
+PYZH
+tXPH
+ ==f 
+X`(y
+HPmy
+X`(y
+X`(y
+X`(y
+X`(y
+X`(y
+X`(y
+X`(y
+HPmy
+XPey
+x@W`
+H@sy
+XYPQM
+Xppy
+X@|y
+QRSVWH
+_^[ZYH
+ ==f 
+X ap
+PYZH
+I!G I!G(I!G0I!G8A
+ ==f 
+PYZH
+I!G I!G(I!G0I!G8A
+ ==f 
+?r&PH
+Xp7z
+H@?z
+HpFz
+XPy_
+H`|_
+X0i_
+X0i_
+ ==f 
+PYZH
+XPdz
+XPdz
+XPdz
+X0ez
+PYZH
+H0iz
+X0qz
+X0qz
+X0qz
+H0iz
+XPdz
+XPdz
+X@wz
+X@wz
+X`|z
+X`|z
+X`|z
+HPyz
+HPyz
+Xpzz
+Xpzz
+Xpzz
+X@wz
+XPuz
+XPdz
+XPdz
+H0J_
+7Ph|
+ ==f 
+XPdz
+XPdz
+XPdz
+XPdz
+XPdz
+XPdz
+XPdz
+XPdz
+Xp>_
+Xp>_
+Xp>_
+X`6_
+X 6_
+X`*_
+X`*_
+X`*_
+ ==f 
+PYZH
+45 18 ] ==f 
+18 ] ==f 
+X -{
+X -{
+X -{
+X`4{
+X`4{
+X`4{
+Xp<{
+Xp<{
+Xp<{
+H@={
+Xp6{
+X -{
+X -{
+XPF{
+XPF{
+XPF{
+] ==f 
+XP@{
+X -{
+X -{
+X -{
+X -{
+X -{
+X -{
+X -{
+X -{
+X@X{
+X@X{
+X@X{
+X@R{
+H `{
+Xpb{
+Xpb{
+Xpb{
+H@c{
+H@i{
+H@j{
+X@q{
+X@q{
+X@q{
+HPr{
+X@k{
+XPt{
+x`}{
+==f 
+X0p[
+X0p[
+X0p[
+XP1Z
+ secret len ==l 
+XP<|
+XPD|
+XPD|
+XPD|
+H@F|
+XP>|
+X`{Y
+X`{Y
+X`{Y
+H@X|
+X`R|
+X R|
+xPf|
+X@^|
+Xpg|
+QRSVWH
+_^[ZYH
+XIpVY
+XPp|
+XPp|
+XPp|
+X0z|
+X0z|
+X0z|
+X`}|
+?r&PH
+len ==l @
+secret
+tXPH
+tXPH
+tXPH
+tXPH
+X@pW
+X@pW
+X@pW
+XprW
+Xp6W
+Xp6W
+PYZH
+==l 
+xp#}
+HP"}
+Hp,}
+X0%}
+XPXV
+XPXV
+Xp/}
+X`8}
+X I}
+X I}
+X I}
+X@J}
+X@J}
+X`C}
+X C}
+X@Z}
+X@Z}
+X@Z}
+X S}
+HPc}
+Hpf}
+X0h}
+PYZH
+HPpU
+Hpq}
+Xpi}
+Xpw}
+Xpw}
+H x}
+HPy}
+XP+U
+ [ ] ==buffer 
+[ ] ==buffer `
+PYZH
+X@TT
+?r&PH
+] ==buffer 
+X )B
+XYPQH
+H0)~
+XpOS
+XpOS
+Xp*~
+Xp*~
+Xp*~
+H0+~
+XP#~
+X ;S
+H08~
+I!G I!G(I!G0I!G8A
+HPE~
+H`O~
+X@P~
+X@P~
+X@P~
+X I~
+==buffer 
+X`Z~
+H@b~
+X`i~
+X`i~
+X`i~
+H0j~
+Hpk~
+X`r~
+X`r~
+X`r~
+H s~
+X`u~
+Hp|~
+x0.R
+?r&PH
+buffer
+X@DQ
+X@DQ
+X`qQ
+X qQ
+I!G I!G(I!G0I!G8A
+0 ==i 
+PYZH
+?s#H1
+PYZH
+H@|P
+==i 
+X@7P
+HP:P
+XP5P
+XP5P
+XP5P
+Xp4P
+X04P
+7pqU
+X ap
+X ap
+HPCO
+X@#O
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+X &O
+X &O
+X &O
+XpYN
+XpYN
+X0XN
+X00N
+Xp0N
+QRSVWH
+_^[ZYH
+ 0 ==j 
+0 ==j 
+==j 
+Xp7M
+Xp7M
+Xp7M
+X )B
+PYZH
+?s.H
+?s'H
+?VYH
+?s#H1
+?s.H
+?s'H
+X`lK
+X`lK
+X`lK
+X )B
+?s#H1
+?VYH
+?s#H1
+?r&PH
+?s#H1
+?s#H1
+?s.H
+?s'H
+X ap
+X )B
+?s.H
+?s'H
+?s.H
+?s'H
+?s.H
+?s'H
+X "J
+X "J
+X "J
+H`%J
+X )B
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+X MI
+X MI
+X MI
+X0!I
+X0!I
+X0!I
+X )B
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+XPjH
+XPjH
+XPjH
+XpiH
+XpBH
+XpTG
+XpTG
+XpTG
+X`nF
+X`nF
+X`nF
+X )B
+Ente
+X`2C
+X`2C
+X`2C
+XPa;
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+XYPQH
+Enter
+?r&PH
+Xp30
+Xp30
+Xp30
+X e3
+XPE-
+XPE-
+XPE-
+Enter 
+X )B
+PYZH
+?s#H1
+assword line by line\n" sys .out .writeall 
+Enter P
+X )B
+XYPQH
+PYZH
+X )B
+ssword line by line\n" sys .out .writeall 
+Enter Pa@
+I!G I!G(I!G0I!G8A
+X )B
+sword line by line\n" sys .out .writeall 
+Enter Pas
+PYZH
+PYZH
+X )B
+word line by line\n" sys .out .writeall @
+Enter Pass
+XYPQH
+?r&PH
+PYZH
+X ap
+PYZH
+XYPQPH
+PYZH
+?s#H1
+ord line by line\n" sys .out .writeall 
+Enter Passw
+?s#H1
+I!G I!G(I!G0I!G8A
+X )B
+rd line by line\n" sys .out .writeall 
+Enter Passwo
+X ap
+?r&PH
+d line by line\n" sys .out .writeall 
+Enter Passwor`
+?r&PH
+X )B
+X )B
+X )B
+X )B
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+ line by line\n" sys .out .writeall 
+Enter Password
+line by line\n" sys .out .writeall 
+Enter Password 
+X ap
+ine by line\n" sys .out .writeall 
+Enter Password lM
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+PYZH
+ne by line\n" sys .out .writeall 
+Enter Password li
+X ap
+X )B
+e by line\n" sys .out .writeall 
+Enter Password lin
+PYZH
+QRSVWH
+_^[ZYH
+X )B
+X ap
+X )B
+?r&PH
+PYZH
+QRSVWH
+_^[ZYH
+X ap
+ by line\n" sys .out .writeall 
+Enter Password line
+I!G I!G(I!G0I!G8A
+X ap
+I!G I!G(I!G0I!G8A
+by line\n" sys .out .writeall 
+Enter Password line 
+?s.H
+?s'H
+X )B
+X ap
+X ap
+X ap
+XYZRPQI
+PXYZ[QRPSH
+y line\n" sys .out .writeall `
+Enter Password line b
+ line\n" sys .out .writeall 
+Enter Password line by
+line\n" sys .out .writeall 
+Enter Password line by 
+ine\n" sys .out .writeall 
+Enter Password line by l@
+tXPH
+X ap
+X )B
+X ap
+X ap
+X )B
+ne\n" sys .out .writeall 
+Enter Password line by li
+e\n" sys .out .writeall @
+Enter Password line by lin
+I!G I!G(I!G0I!G8A
+X ap
+X ap
+X ap
+\n" sys .out .writeall 
+Enter Password line by line
+I!G I!G(I!G0I!G8A
+QRSVWH
+_^[ZYH
+" sys .out .writeall 
+Enter Password line by line
+I!G I!G(I!G0I!G8A
+?s#H1
+?s#H1
+?r&PH
+?r&PH
+tXPH
+?s#H1
+X ap
+X ap
+I!G I!G(I!G0I!G8A
+HPoe
+XPot
+XPot
+XPot
+XPot
+XPot
+XPot
+x pt
+I!G I!G(I!G0I!G8A
+P^XH
+?SYH
+?VXYPQH
+P^XH
+?SYH
+?VYZH
+?s.H
+?s'H
+xPaT
+xp9O
+Hp9O
+argv
+I!G I!G(I!G0I!G8A
+X ap
+X ap
+x@V,
+x@V,
+x@V,
+x@V,
+/dev/stdin
+exit
+I!G I!G(I!G0I!G8A
+optimized
+tXPH
+?r&PH
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+X`>$
+ey_or.ey
+HpdF
+?r&PH
+X`>$
+XYPQI
+X`>$
+X`>$
+XYPQQH
+H0k_
+X`>$
+I!G I!G(I!G0I!G8A
+X`>$
+X`>$
+I!G I!G(I!G0I!G8A
+?s`l
+X`>$
+X`>$
+X`>$
+XYPQH
+XYPQH
+X`>$
+X`>$
+PYZH
+PYZH
+?s#H1
+PYZH
+?s#H1
+PYZH
+QRSVWH
+_^[ZYH
+I!G I!G(I!G0I!G8A
+PYZH
+PYZH
+PYZH
+YZXH
+PXYPQH
+tXPH
+I!G I!G(I!G0I!G8A
+tXPH
+?r&PH
+I!G I!G(I!G0I!G8A
+XYPQH
+I!G I!G(I!G0I!G8A
+tXPH
+tXPH
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+PYZH
+x $*
+7pqU
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+HpYJ
+I!G I!G(I!G0I!G8A
+PYZH
+I!G I!G(I!G0I!G8A
+?SYZH
+PYZH
+QRSVWH
+_^[ZYH
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+ sys .out .writeall 
+sys .out .writeall 
+4_unboxe
+.out .writeall 
+I!G I!G(I!G0I!G8A
+.writeall 
+ .writeall 
+. .writeall 
+I!G I!G(I!G0I!G8A
+.writeall 
+?r&PH
+XY`;
+tXPH
+tXPH
+tXPH
+tXPH
+7pqU
+writeall@
+  #str .fromArray secret bxor 
+#str .fromArray secret bxor 
+  txt .consume .u 
+txt .consume .u 
+PYZH
+.consume .u 
+consume
+ .u 
+. .u 
+7pqU
+I!G I!G(I!G0I!G8A
+I!G I!G(I!G0I!G8A
+PYZH
+  =j 
+[ buffer _ len dearray j ] =buffer 
+buffer _ len dearray j ] =buffer 
+x $*
+_ len dearray j ] =buffer 
+buffer
+len dearray j ] =buffer @
+rmN_
+XYPQH
+PXYPQH
+XYZQRPH
+I!G I!G(I!G0I!G8A
+XYPQH
+dearray j ] =buffer 
+j ] =buffer 
+dearray
+I!G I!G(I!G0I!G8A
+] =buffer 
+UEUU
+XTUUUUUUUUU
+T%UUUUUUUUUUUUUUUU
+Q@DQ
+UUUUUUUUUUU
+ZEbT
+DEUQQR
+T)UIR
+@JJU
+@U)b
+UUUU
+HE*R
+QET@
+H@-J
+* * 
+DRE 
+"@@E@T@
+  * *
+PT@T@E
+%  R@#@@
+""Q*
+PUDEDET)
+ Z$F@
+Q@TDTD
+@@% 
+% *iA&
+2@@$
+)R@E$T
+%"	H
+*"	I$
+J@T@T@T
+P*E@
+h@@@
+H@@"
+@IT@	
+QQD$
+P&B	R
+Q@)" 
+hD	(I
+* "!
+*b@T
+( ""
+""-E
+@TER
+E(E"
+P" R
+(*E"
+  R+ 
+HD"RDlE@U
+HZ@Q@
+"EJ"E#%
+H"""+P
+("@D
+"RTTR
+TUJ*J*
+"URU
+P@ET
+ZTDdD
+HQTU"
+ 4@J
+D@J)%*R@J
+PQ@T
+P@ET
+PQ+*
+PV@	
+I"%%
+@TU@J*
+P@(I
+U@EE)
+@UE@
+H@E@U
+( *R$
+ UTT%
+@TUUU
+TUMUU5Q
+JUU*"
+T@TEU
+ "JD
+D@T%
+bITTU
+UdEE
+PTTETQD
+DR("
+DU@T
+%)`"E
+ "QU
+(JIM@ET
+$")%`@
+X@)U*
+$R*J$i
+PET@
+	" %A@
+(UTI
+**QE
+"RQE
+@@	 
+(" *
+Z@QE
+@ULJ
+$RUM
+E@QD
+  ZQ
+T)ED
+	 E"
+  	 
+HII"55
+(EQDJ
+DJ"%
+)"RDUD
++  , 
+H@@!
+H@$*"
+H@I#
+@,**
+"FJ)Q
+JRRR
+PEEQ
+H(%E
+TT"Q
+I*I%E
+@	hU
+@I	 
+$R@E
+HIQ"%*Jd)
+*	 U
+P(RU
+E@T@$
+D@$`
+@D@@
+UD@$KT
+*U*)
+*Q*UR
+DJ"%
+REQ@
+j	 :J
+JUJQU
+XUD@
+ * 	
+(*QI
+UEU(
+H"IJJJ"%5%5
+)QD@
+@JTQ
+@U*&
+T)UE
+) R%U@
+@*U"
+	XE@d
+ @@U
+DJ"%
+X@RU
+*HEDR
+@T@T
+(U@E@U
+""MK
+D$UD
+@	  Z
+J	  R
+"VTT
+HIQ"%
+))))
+PUUU
+TU	 *
+QUUU)
+IQ,MJ
+P*@@
+("5J"
+UD@T
+@@$H@
+"*J%
+H	  U
+@D E
+))J"%U
+	PE@
+(* i
+D@$R
+P% ""Z
+UEEAU
+M	 @
+HIIII
+$RRRR
+H5%-)
+""*Q
+DJ"%
+ZDjT
+HSUE
+T@T@QE
+U@*Z
+RD*U*
+JUJ@@
+BR	 
+ " U
+""""
+""""
+ """""
+@DDDDDD
+ """"
+ """"
+@DDDDD
+"""""
+DDDDD
+""""
+""""B
+P% """R@
+@DDDD$ 
+"""""R
+  UD
+EDDDD
+"""""
+@DDD$
+h@DDD
+"""""
+$ """"
+DDDD
+EDDDDD
+"""""""*
+("""
+@DDDD
+)""""
+@DDDDD
+EDDDDDD
+"""""
+"""""""
+""""
+  """
+ """!
+@%"""
+PEDU@@
+""U1
+D@UD@4
+"Q@E@DU
+  Z"
+" " 
+@5 i
+" ZDD
+@UUU
+PED'
+QUUUE
+P** A
+	R	 
+UD@@	 
+P""""
+ `@@
+"AZ@$
+$)"Q
+ "QD
+(" R
+ED1@
+(Ed""
+U$j""
+PEB@UD4
+P@$$
+U@TQ
+H,! " 
+DD@D
+P@U4
+  R"J
+@@B@U
+EUD1
+j"RE@$
+ ""R@US
+DDEEE
+( R	
+d"* 
+UE* RU
+T@D@$@
+DTEQ
+@@@Q
+$H@5
+@DDD
+PD@$
+DDDDD
+  R5
+"*  
+P@D@$
+" ""
+$H@1
+*" Z
+D@$H%
+D$*"
+E$ JD@$
+H@UD
+P@$H%
+@DDD
+DUUU
+@$ RU
+-" "
+1"@D@$@
+"""@
+E@4T
+  " 
+E@#" 
+TUUU
+   ""
+@UE@
+(*" 
+@UUU	
+T@4 
+@@UU
+* " 
+P@$H@
+@UUU%
+UUUUUU
+H@UL@R
+-`@E
+D@$@
+TUUU
+ "" 
+JDD@$
+("Z@$
+@D@$d
+DB@U
+ZUUUUU
+HH@UD
+TE!""R
+PE"" !
+P@UD
+""UTTL
+I%E$"
+DUUU
+h@QT
+ PUUUUU
+$H@D@$H
+D$	HD
+PUUUUUUUUUUUUUUUUUUU
+D@$@
+UUEDTQE
+"`QU
+*J4 & U
+*"QU
+#Px@
+TUUUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUUUUU
+@AUP@
+ bPD
+,`@[
+UUUU
+HE*R
+2@@&
+@Q$l
+& 1a"`
+D$FP
+HLi"1
+EPDb,(
+Db"1
+DJ)A$
+H$H,1
+HL@"5
+Dj"1
+`"Lcbb"111!
+@"A"
+Db"1
+HLP"1
+	k"5
+HMMMM
+&RSSS
+Dj"5
+RDjT
+* P	
+D$	HD
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+TTTTD
+RUUe
+T)"*"RQQQ
+TE$UE
+HUETU
+TTTTD
+*"RUQU
+PUTUU
+""UEE
+TUTT
+""UU
+VUUUeU
+HEEEET
+("" R
+UUUQE
+    5
+*ETUE
+UUU*U
+RDUUD
+IUQE
+"UUUUUUU
+TTTTD
+TETU
+QTUTU
+HEEEET
+REUQE
+DQUEDR]
+DQUD$UQU
+EUUU
+HUUE@
+DUEE
+EUEDRUUU
+TTTTD
+DUEDR
+VY+U
+RDTD
+TUUUU
+*EDED****
+IUUU
+TTTTD
+ UUE
+*EDED****
+TTTTD
+EUUD$UQU
+@UEDR
+TE*R
+*EDED****
+(" H@
+TTTTD
+IUDR
+TTTTD
+E$UQUUU
+HUUUD
+QTEDR
+HEEEET
+HUED
+TUQT
+IUUT
+TTTE
+LD@$H@
+@E$U
+HEE5
+F@U**
+TUUTT
+TE*R
+HUDRE
+*RUUUUUUU
+*E$*"RQQQ
+TE$U
+TTTTD
+TUUUUU
+IUTUU
+HUUU
+PETE
+DUQUQE
+HUETU
+IUDR
+MD@$
+TUUUUUUUUUUUUUUUUUUU
+DUDETE
+UETU
+*"UU
+("" 
+HUTETDUD
+"5@U
+IUTQE
+DUDETE
+IUDU
+HUED
+("QUD
+""UU
+UETDU
+TUUU
+H@D@
+hUEQ
+""QE
+IUTUQU
+"UD$U
+(*"R
+("UUD$U
+HUED
+T\2*
+EED****
+TUDUU
+""QUTU
+RUUQ
+UQDQTD
+"RUQU
+TEDRUUED
+@$UTUQUUUUUUUUUUUUD
+*"RUU
+"RUDETE
+DQUD$
+*"UUT
+QTUD
+UEUE
+("UED
+DTUD$UQEUUUUU
+QD@$@
+*"QUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU5
+"RUD
+UQUQUE@$
+@QUUTU
+("QUTUE
+JUQE
+JUQE
+("UEUUQU
+QTUETUE
+IUDR
+*"UUQE
+RE$U)
+RDTD
+*"RUTQE
+*"RUU
+*"RUU
+@UED
+HUUU
+*"UUU
+DTUD
+RDTD
+UUDUU
+DQUETUE
+UUDUUD
+TEUUD
+DTUDUUD
+P@U+* 
+TE@$
+U:@$
+@UQUE
+TE@$
+P@UT
+HH@U
+T)"DE$"
+TE@$
+P@UT
+P@UD
+TE* RJU
+@D@$
+P@UD@$
+P@UT
+P@UT
+TE@$
+P@UT
+TE* RJU
+P@UT
+P@UD@$
+H( U
+TEE@$
+TP@T
+("" 
+""*"
+D@UT
+P@UD@$
+@@B@U
+P@UT
+P@UD@$
+TE@$$
+RU*U
+HDD@$
+P@UT
+P@UD
+DB@UT
+DB@U
+P@UT
+P@UD@$
+TE@$
+TE@$$
+TE@$
+TE4@@B@UD@$
+HH@U
+DB@UT
+P@UD@$
+TE@$
+TE* RJU
+HDD+
+*Z- 
+P@UD@$
+TE@S
+HH@U
+RDDE$"
+TE@$
+P@UT
+"QD4
+P@UT
+P@UD@$
+TE* RJU
+""*"
+UD@$
+* "U$
+P@UD@$
+("" 
+P@UD@$
+TE@$
+TE* RJU
+TE@$
+DE$Z
+TE@$
+P@UT
+HH@U
+U@T1*
+TE@$
+TE@$$
+RDDEDD
+P@UT
+P@UD@$
+TE@$
+TE@$$
+T)"Q
+P@UD@$
+TE@$
+E@$$
+TE@$
+P@UT
+QUUUUUUU
+@DDTQE
+QUU5
+@@@@@@@@@$
+UTQ4
+@UUUUUQEQEEUU
+"jTQEQ"*
+EQDQ
+EQDEQ
+EQDDQ
+EQDQ
+ETTUDD
+QGDD
+QDQD
+(BDD
+UDTU
+""""
+""""
+("""
+EDDDD
+EDDDD
+QDDDD
+EDDDD
+""""
+(""""
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+hDDDDD
+EDDDD
+QDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDDPq
+QDDDD
+EDDDD
+QDDDD
+EDD4"""""
+(""""
+""""
+""""
+(""""
+""""
+(""""
+UUUUDUQ
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+QDDDDtt""""""""
+(""""
+ZDDDDDDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+"Q@U
+U@TUUU
+"Q@UD@$
+"Q@U
+"Q@U
+U@TUUU
+UUUUDUD
+"Q@UT
+QUUUETED
+JDTU$
+(""""
+""""
+(""""
+""""
+(""""
+U@TUUU
+"Q@UT
+QUUUETEDDD
+UUETED
+"Q@UT
+QUUUk
+TE@$
+"Q@UT
+QUUUETED
+"Q@UT
+QUUUETED
+UUUUDTED
+"Q@UD@$
+"Q@U
+DUUU
+UUUUDUDD
+"Q@UT
+QUUUETED
+"Q@UD@$
+"Q@U
+U@TUUU
+DUDEU
+ EDU
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+EDDDD
+"Q@UT
+DUQEUUU
+UUUUDUD
+"Q@UD@$
+TE@$
+DUUU
+"Q@UT
+QUUUETED
+TE@$
+DUUU
+UUUUDUDD
+"Q@U
+U@TUUU
+UUUUDUDD
+UETUU
+"Q@UD@$
+"Q@UT
+QUUUETE
+"Q@UT
+QUUUETE
+TE@$
+DUUU
+"Q@UD@$
+"Q@UT
+QUUUETE
+TE@$
+"Q@UD@$
+"Q@UD@$
+Ht@UD@$
+X@UUU
+"Q@U
+U@TUuU
+"Q@UT
+QUUUETE
+D@UD@$
+"Q@UT
+QUUUETEDD
+TE@$
+"Q@UT
+QUUUETED
+TE@$
+DUUU
+"Q@UD@$
+UUUUDUD
+"Q@U
+U@TUUU
+UUUUDUDD-
+TE@$
+DUUU
+"Q@UT
+QUUUETED
+@TUU
+EDDDD
+QDDDD
+""""
+("""
+UDDDDDDDDDDD
+EDDDD
+QDDDD
+"Q@UD@$
+"Q@UT
+QUUUETED
+"Q@U
+U@TUUU
+"Q@UT
+QUUUETED
+TE@$
+DUUU
+"Q@UD@$V
+DUUU
+"Q@UT
+QUUUETE
+TE@$
+DUUU
+"Q@UD@$
+UUUUDUDD$
+"Q@UT
+QUUUETED
+TE@$
+DUUU
+"Q@UD@$
+UUUUDUD
+"Q@U
+U@TUUU
+"Q@UT
+QUUUETE
+"Q@U
+U@TUUU
+@DTU
+PEDU
+HDTU
+""""
+(""""
+""""
+(""""
+*" 2
+TE@$
+UUUUDU
+(""""
+"""""
+$"ZU
+EDDDD
+"""""
+PED4
+EDDD
+EDDDD
+"""""
+PREP$
+(""""
+XEDU
+0GDU
+EDDDD
+UEQDDD
+P+" 
+jE@$
+UUUUDUD
+UETE
+VD@$
+"Q@U
+QUUUETE
+DUUU
+Q5""
+DUUU
+P+" 
+jE@$
+UUUUDUD
+P+" 
+jE@$
+UUUUDUD
+VD@$
+U@TUUU
+P+" 
+QUUUETED
+DUUU
+P+" 
+QUUUETED
+VD@$
+U@TUUU
+P+" 
+DUUU
+jE@$
+UUUUDUD
+VD@$
+U@TUUU
+P+" 
+QUUUETE
+QUUUET
+QUUUETMD
+VD@$
+U@TUUU
+P+" 
+jE@$
+UUUUDUD
+QUUUETEDD@$
+UUUUDUD
+VD@$
+U@TUUU
+QUUUETE
+QT+" 
+VD@$
+U@TUUU
+QUUUET
+jE@$
+UUUUDUD
+DUUU
+P+" 
+jE@$
+UUUUDUD
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+VD@$
+U@TUUU
+U#""
+VD@$
+U@TUUU1
+DUUU
+QUUUETED
+VD@$
+U@TUUU
+"""" 
+(F_}
+    
+D@TUU
+D@UD@T
+D" " 
+      
+D@UD@
+         
+@DDQ
+DDDD
+D@TUUM
+D" " 
+DUUU
+        """" 
+"""" 
+W]WU
+UUUUU
+DUUU
+"""QU
+XUUUETED
+U@TUUU
+QUUUETE
+Q@UD@$
+U@TUUU
+jEUUUUU
+VD@$
+U@TUUU
+jE@$
+UUUUDU
+D@UT
+jE@$
+UUUUDUD
+DUUU
+UUUUDUD
+DUUU
+jE@$
+UUUUDU
+QUUUETE
+HT+"
+QTkE
+DUUU
+(""""
+""""
+(""""
+"""""("b
+QUUUETE
+P+" 
+VD@$
+U@TUUU
+jE@$
+UUUUDU
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+P+" 
+*"FQ
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+TE@$
+UUUUDU
+*UUDUDt
+U5GDUE"
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+QUUUETE
+UUUUDUDD
+P+" 
+jEUUUUU
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+P+" 
+QUUUETE
+P+" 
+VD@$
+U@TUUU
+*"""
+jE@$
+UUUUDU
+DUUU
+DUUU
+HT+"Q
+FUUU
+QUUUETE
+DUUU
+jE@$
+UUUUDUD
+HT+"
+DUUU
+jE@$
+UUUUDU
+`FTU
+(""BDD
+QDDDD
+EDDDD
+QDDDD
+EDDDDPD
+DUUU
+DUUU
+DUUU
+QUUUETE
+VD@$
+U@TUUU
+VDTU
+(""BDD
+QDDDD
+EDDDD
+QDDDD
+EDDDDPD
+DUUU
+DUUU
+QUUUETE
+P+" 
+VD@$
+U@TUUU
+DUUU
+UDTU
+sDTU
+""""
+(""""
+""""
+(""""
+jE@$
+UUUUDUD
+P+" 
+DUUU
+	("b
+TUUUDUD
+P+" 
+DUUU
+VD@$
+U@TUUU
+*"DW
+""""
+(""""
+""""
+(""""
+UUUUDUD
+P+" 
+VD@$
+U@TUUU
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+P+" 
+DUUU
+QUUUETE
+ZUUDUD
+XEDU
+0GDU
+(""""
+""""
+(""""
+jE@$
+UUUUDUD
+P+" 
+jE@$
+UUUUDU
+DUUU
+QUUUETE
+P+" 
+DUUU
+""""
+(""""
+""""
+(""""
+jE@$
+UUUUDUD
+P+" 
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+P+" 
+DUUU
+QUUUETE
+BTUUU
+QUUUETE
+`FTU
+QDDt4@DDDDDDDDDD
+EDDDD
+QDDDD
+DUUU
+DUUU
+DUUU
+#Z}@
+" ZD]G
+QUUUETED
+"Q@UD@$
+"Q@U
+U@TUUU
+VDTU
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+jE@$
+UUUUDUD
+P+" 
+QUUUETED
+P+" 
+DUUU
+jE@$
+UUUUDUD
+P+" 
+DUUU
+jE@$
+UUUUDUD
+`FTU
+"""@DD
+QDDDD
+EDDDD
+QDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+P+" 
+VD@$
+U@TUUU
+QUUUETED$
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+P+" 
+DUUU
+QUUUETE
+VD@$
+U@TUUU
+DUUU
+oEDU
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QUUUETE
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+P+" 
+DUUU
+QUUUETE
+P+" 
+VD@$
+U@TUUU
+QUUUETED
+P+" 
+DUUU
+QUUUETE
+VD@$
+U@TUUU
+QUUUETE
+DUUU
+	("b
+QUUUETE
+UUUUDU
+DUUU
+QUUUETE
+"`"Q@U
+QUUUETE
+P+" 
+HDUM
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+HT+"Q
+FUUU
+jE@$
+QUUUETED
+P+" 
+VD@$
+U@TUUU
+jE@$
+UUUUDU
+DUUU
+jE@$
+UUUUDU
+(""""
+""""
+(""""
+""""
+VD@$
+U@TUUU
+QUUUETE 
+`FTU
+VDTU
+(""""
+]EDU
+sDTU
+QDDDD
+U5]E
+EDDDD
+EDDDD
+oEDU
+"""""h
+EDDDD
+(""""
+XEDU
+0GDU
+EDDDD
+oEDU
+"""""h
+`FTU
+EDDDD
+0GDU
+EDDDD
+QDDDD
+QUUUET
+P+" 
+HD**
+E@$H@
+TQQQQQ
+jE@$H@
+P+" 
+HTD$
+P+" 
+VD@$
+VT@T
+jE@$
+jET@DU
+jE@$
+P+" 
+E@$H@
+TE@$
+P+* 
+VD@$@
+jE* R
+jE@$
+TE@$
+jET@DU
+jE@$
+P+" 
+UUUU
+D@UD@$
+DTEQ
+VD@$H@
+VT@D
+E@$H-
+VD@$H@
+jET@DUD
+T)"Q
+P+" 
+VD@$
+H@+" 
+UQTE
+jET@DUD
+("" 
+kE@$
+P+" 
+UQTEUTE
+P+" 
+P+* 
+VD@$@
+jE* R
+jE@$
+QTD$
+jE@$H@
+DUUUUUUU
+jET@DUD
+P+" R
+E@$@
+jE@$@
+P+" 
+VD@$
+E@$H@
+P+" 
+jE* RU
+VD@$
+  Q@U1
+VD@$
+DTEQ
+QDD@$@
+P+" 
+""QE
+jET@DUD
+P+" 
+P+* 
+VD@$@
+jE* R
+jE@$
+T)"Q
+io.net.socket
+j\FX
+path
+X@4&
+X@4&
+rmN_
+getdents64
+j*oa
+bind
+X`K*
+events
+hashBlock
+v_%&
+deff
+parseStatStruct
+accept
+.null
+.strtab
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+[1;31m-
+[33m=
+[32m#
+[34m=
+[35m-
+X`K*
+X`K*
+=P(b
+PTRACEPEEKDATA
+alloc
+rmN_
+xp&M
+#iend
+X@4&
+X@4&
+xPaN
+EPOLLIN
+opts
+addr
+xPHM
+x0IM
+fstat
+x@YM
+band
+defv
+bind
+rmN_
+x kM
+PTRACE
+x0RU
+1010
+io.net.bind
+deffst
+NONE
+labelRecord
+ospeed
+x05U
+right
+      /rdi :popqReg 
+/rdi :popqReg 
+loaded" sys .freeze 
+syscall
+right
+:popqReg 
+ :popqReg 
+/ :popqReg 
+unencodedChars
+bufferedEpollServer
+7I0R
+errno
+listen
+X`K*
+popqReg
+listen
+mkdir
+rmN_
+#itrans
+      /rbp :popqReg 
+X`K*
+X`K*
+/rbp :popqReg 
+xP	U
+EPOLLOUT
+j\FX
+path
+PROTREAD
+NONEADDR
+:popqReg 
+ :popqReg 
+/ :popqReg 
+io.net.listen
+PROTWRITE
+band
+PROTEXECP
+popqReg
+MAPSHARED
+  2 ==:M
+MAPPRIVATE
+rmN_
+/rcx :popqReg 
+labelResolve
+:popqReg 
+listenOptFd
+rawAddress
+Answer class field was not 'INET'
+right
+}' "loaded" sys .freeze @
+peekUser
+NONEADDR
+/r8 0 /rdi :addqRegMemDisp8   # a 
+rmN_
+listenOpt
+EPOLLERR
+x@)N
+ 0 /rdi :addqRegMemDisp8   # a x
+/ 0 /rdi :addqRegMemDisp8   # a 
+x .N
+7I>P
+0 /rdi :addqRegMemDisp8   # a 
+#istep
+/rdi :addqRegMemDisp8   # a 
+isNone
+un32
+band
+bufferedEpollServer
+AX*@
+left
+Xp7N
+value
+x`GN
+rmN_
+:addqReg
+7IpP
+x`|T
+# a 
+IC:&N`C
+addqRegMemDisp8
+ # a 
+: # a 
+SOREUSEADDR
+# a 
+un16
+X@NN
+0*3*41*25*
+j\FX
+path
+listenOptFd
+xPhT
+XP~/
+XP~/
+XP~/
+XP~/
+XP~/
+XP~/
+      /r9 8 /rdi :addqRegMemDisp8   # b  
+/r9 8 /rdi :addqRegMemDisp8   # b 
+x`_T
+HPaT
+8 /rdi :addqRegMemDisp8   # b 
+ 8 /rdi :addqRegMemDisp8   # b x
+/ 8 /rdi :addqRegMemDisp8   # b 
+AX*@
+left
+NONE
+x _T
+H@^T
+8 /rdi :addqRegMemDisp8   # b 
+X@c.
+listenFd
+Disp8   
+Hp_N
+each
+prefixWithDir`
+actions
+:addqRegMemDisp8   # b 
+ :addqRegMemDisp8   # b 8
+/ :addqRegMemDisp8   # b 
+request unconfigured (of httpServer)
+xpTT
+loop
+not an IPv4 address
+rmN_
+xPN>
+x`>>
+XplP
+XplP
+XplP
+XplP
+listen
+# b 
+IC:&N`C
+addqRegMemDisp8
+ # b 
+: # b 
+AX*@
+left
+# b 
+rmN_
+request
+SCHEDULEp
+rmN_
+x q*
+      /r10 16 /rdi :addqRegMemDisp8 # c  
+deffst
+x`+>
+actions
+x q*
+deffst
+settings@
+x0#9
+x q*
+hashFinalBlock
+rmN_
+right`
+accept
+/rdi :addqRegMemDisp8 # c 
+epollServer
+X0=	
+Xp;	
+Xp;	
+Xp;	
+X0=	
+7Ip#
+:addqRegMemDisp8 # c `
+ :addqRegMemDisp8 # c 
+/ :addqRegMemDisp8 # c 
+XP"	
+XP"	
+XP"	
+H &	
+H &	
+X0+	
+x@;	
+X 2	
+X 2	
+X 2	
+X 5	
+X 5	
+X 5	
+xp=	
+X`8	
+X`8	
+X0=	
+io.net.accept`
+x`s4
+Hp[	
+Xp_	
+Xp_	
+Xp_	
+X S	
+XPc	
+X@j	
+X@j	
+H@l	
+X@j	
+H@l	
+Xpm	
+Xpm	
+Hpo	
+Xpm	
+Hpo	
+x0v	
+:addqRegMemDisp8 # c 
+XPw	
+0*3*41*25*
+# c 
+IC:&N`C
+addqRegMemDisp8x
+ # c 
+: # c 
+j\FX
+path
+rmN_
+deffst
+acceptFd(
+right
+glob
+setStartp_
+      /r11 24 /rdi :addqRegMemDisp8 # d  
+scope
+} /outpu@
++???
+keys
+24 /rdi :addqRegMemDisp8 # d 
++w.~
+ 24 /rdi :addqRegMemDisp8 # d 
+/ 24 /rdi :addqRegMemDisp8 # d 
+24 /rdi :addqRegMemDisp8 # d `
+7`S	
+/rdi :addqRegMemDisp8 # d 
+setters
+:addqRegMemDisp8 # d 
+ :addqRegMemDisp8 # d 
+/ :addqRegMemDisp8 # d 
+#out
+deffst
+x@P2
+setEnd
+# d 
+IC:&N`C
+addqRegMemDisp8
+ # d 
+: # d 
+1010
+tree
+acceptFd
+rmN_
+rmN_
+AX*@
+left
+fdToFile
+settings
+conds
+AX*@
+left
+/r12 32 /rdi :addqRegMemDisp8 # e 
+32 /rdi :addqRegMemDisp8 # e 
+ 32 /rdi :addqRegMemDisp8 # e 
+/ 32 /rdi :addqRegMemDisp8 # e 
+7I0v
+X`r1
+installSetters
+32 /rdi :addqRegMemDisp8 # e 
+keys
+accept
+/rdi :addqRegMemDisp8 # e 
+noHandler
+file
+install
+:addqRegMemDisp8 # e 
+ :addqRegMemDisp8 # e 
+/ :addqRegMemDisp8 # e 
+allEventHandlers
+setLen
+loop
+:addqRegMemDisp8 # e 
+X@:,
+handler
+open
+ # e 
+: # e 
+yf'e
+setters
+allEventHandlers
+eachLine@
+j\FX
+path
+close`
+Hp+O
+append1
+protectGC
+Answer data length was not 4
+loaded
+deffst
+write
+rmN_
+xp6-
+X`Le
+resolvConf
+x m.
+X@:,
+finish
+sp8 # f 
+X05O
+fail
+conds
+\ke}
+noHandler
+request
+jR<?
+ensureResolvConf
+allEventHandlers
+40 /rdi :addqRegMemDisp8 # f `
+requestParsed
+inBuffer@
+o.jg
+splayPath
+/rdi :addqRegMemDisp8 # f 
+unprotectGC
+:addqRegMemDisp8 # f `
+ :addqRegMemDisp8 # f 
+/ :addqRegMemDisp8 # f 
+deffst
+close
+each
+install
+rmN_
+step
+listenFd
+# f 
+IC:&N`C
+addqRegMemDisp8
+ # f 
+: # f 
+acceptFd`
+v_%&
+deff
+y_-	
+consume
+x`<S
+io.net.accept
+inplacePrefix
+each
+x@RH
+makeLabel
+inBuffer
+inBufferp)
+x q*
+nh V
+query
+clone
+reverse
+defv
+inputBufferLimit 
+noHandlerO
+x0[S
+inBuffer
+fromArray>
+ } ? * include 
+eventHandler
+query
+x0oS
+X@lS
+      /r14 48 /rdi :addqRegMemDisp8 # g  
+installSetters
+parseIpv4
+epollServer
+EPOLLIN
+nh V
+query
+EPOLLERR0
+?VXH
+?r&PH
+inBuffer
+start
+close
+deffst
+x0]F
+initialFlags
+48 /rdi :addqRegMemDisp8 # g 
+un16
+H ;]
+request unconfigured (of rawHttpServer)
+closed
+:addqRegMemDisp8 # g `
+ :addqRegMemDisp8 # g 
+/ :addqRegMemDisp8 # g 
+un16
+rmN_
+H ;]
+host
+root
+inBuffer`
+rmN_
+:addqRegMemDisp8 # g 
+closed
+isNone
+,i!!>
+buildDnsQueryMessage
+jR<?
+ensureResolvConf
+settings
+# g 
+IC:&N`C
+addqRegMemDisp8
+ # g `
+: # g 
+movqRegReg
+resolvConf
+request
+epoll`
+nameserver
+EPOLLCTLDEL
+rmN_
+dumpIndented
+ ]:J
+#istart
+parseIpv4
+rmN_
+x 	 
+Hp$ 
+Hp$ 
+x@, 
+Hp> 
+xp2 
+XP6 
+XP6 
+XP6 
+XP6 
+XP6 
+XP6 
+x / 
+x / 
+X@: 
+X@: 
+X@: 
+X@: 
+X@: 
+X@: 
+X`< 
+X`< 
+X`< 
+X`< 
+X`< 
+X`< 
+x A 
+x@B 
+x0D 
+XPE 
+XPE 
+XPE 
+XPE 
+XPE 
+XPE 
+Hp> 
+x`K 
+x`K 
+HP^%
+XpS%
+dump
+/r15 56 /rdi :addqRegMemDisp8 # h 
+H0#!
+H0#!
+xPP!
+Xp/!
+Xp/!
+Hp1!
+Xp/!
+Hp1!
+xPQ!
+X )!
+setLen
+HPa!
+HPa!
+H`d!
+H`d!
+X@V!
+X@p!
+X@p!
+X@p!
+HPt!
+HPt!
+Xpg!
+X0g!
+X@w!
+56 /rdi @
+rmN_
+H 	"
+H 	"
+/rdi :addqRegMemDisp8 # h 
+H@>"
+H@>"
+Xp?"
+Xp?"
+Xp?"
+H D"
+H D"
+XP6"
+movqRegReg
+X0P"
+X0P"
+X0P"
+H@T"
+H@T"
+X0G"
+x oV
+x`pV
+H@u"
+H@u"
+x {"
+X i"
+X@|"
+:addqRegMemDisp8 # h 
+ :addqRegMemDisp8 # h 
+/ :addqRegMemDisp8 # h 
+x0m(
+x =#
+X@(#
+X@(#
+H@*#
+X@(#
+H@*#
+:addqRegMemDisp8 # h 
+X@@#
+X@@#
+X@@#
+X A#
+x`P#
+X@@#
+X@@#
+x0`#
+H@Z#
+H@Z#
+Xp[#
+Xp[#
+Xp[#
+X0^#
+X0^#
+X0^#
+X`R#
+X@@#
+X@@#
+Xpb#
+X0b#
+X@@#
+X@@#
+eachNodeP
+X@@#
+X@@#
+# h 
+IC:&N`C
+addqRegMemDisp8
+ # h 
+: # h 
+X@@#
+X@@#
+NONE
+X`&$
+X`&$
+X`&$
+X@*$
+X@*$
+XPd$
+XPd$
+Hp,$
+Xp_$
+Xp_$
+Xp_$
+XPd$
+H0q$
+H0q$
+X`r$
+X`r$
+X`r$
+x@z$
+X@u$
+X@u$
+X@u$
+X }$
+X }$
+X }$
+keys
+xpZ%
+Hp3%
+H Q%
+HP`%
+HP`%
+H0c%
+H0c%
+X`h%
+Hpi%
+Xpq%
+Xpq%
+Xpq%
+X@t%
+X@t%
+X@t%
+XPw%
+XPw%
+XPw%
+X k%
+movqRegReg%
+      /r15 :popqReg 
+/r15 :popqReg 
+:popqReg 
+ :popqReg 
+/ :popqReg 
+#len
+H@\U
+xp8U
+H W&
+X@X&
+x #U
+NONE
+:popqReg 
+root
+rmN_
+x`J4
+popqReg
+H`"'
+H`"'
+H0%'
+H0%'
+H@('
+H@('
+X@4'
+X@4'
+X@4'
+HP8'
+HP8'
+XP+'
+H`C'
+H`C'
+H`F'
+H`F'
+X@;'
+XpL'
+X`S'
+X`S'
+X`S'
+XPl'
+XPl'
+XPl'
+H n'
+X`c'
+X c'
+range
+setEnd
+x`	(
+moQ*&#d
+rorqImm8Reg
+eachNode
+HP&(
+HP&(
+x .(
+x`/(
+X`*(
+X`*(
+X`*(
+xP@(
+H ;(
+H ;(
+X@I(
+X@I(
+X@I(
+HPM(
+HPM(
+H0P(
+H0P(
+H ](
+H ](
+XP^(
+XP^(
+XP^(
+X0a(
+X0a(
+xPB	
+xPr(
+XPl(
+      :retn 
+#dom
+:retn 
+retn
+NONE
+H@")
+H@")
+Xp#)
+Xp#)
+Xp#)
+H ()
+H ()
+HP5)
+HP5)
+X0+)
+X`:)
+x`J)
+H@C)
+H@C)
+XpD)
+XpD)
+H@F)
+XpD)
+H@F)
+XPL)
+X@S)
+X@S)
+X@S)
+X`Z)
+X`Z)
+X`Z)
+H h)
+x`n)
+H h)
+X@i)
+X@i)
+X@i)
+X l)
+X l)
+X l)
+X0`)
+HP|)
+XPz)
+XPz)
+XPz)
+HP|)
+X`p)
+]] [ ] ::createFunction /bin deffd 
+#itrans
+x0 *
+HP)*
+HP)*
+X`-*
+X`-*
+X`-*
+XP!*
+X@1*
+X08*
+X08*
+H0:*
+X08*
+H0:*
+x0C*
+X`;*
+X`;*
+H`=*
+X`;*
+H`=*
+xPE*
+eachNode
+x@J*
+H K*
+[ ] ::createFunction /bin deffd 1
+moQ*&#d
+rorqImm8Reg
+H`{*
+H`{*
+Hp~*
+Hp~*
+Xpp*
+X0p*
++Yo,
+x q*
+x X6
+X`d6
+H`#+
+H`#+
+H &+
+H &+
+Xp(+
+xP8+
+X`/+
+X`/+
+H01+
+X`/+
+H01+
+X`2+
+X`2+
+H04+
+X`2+
+H04+
+Hp7+
+Hp7+
+X@:+
+X0A+
+X0A+
+HpC+
+X0A+
+HpC+
+XPH+
+XPH+
+XPH+
+X`P+
+X`P+
+X`P+
+H`R+
+H0Z+
+HpT+
+::createFunction /bin deffd 
+#out
+rmN_
+createFunction
+ /bin deffd 
+:: /bin deffd 
+Xp(,
+X`/,
+X`/,
+X`/,
+X02,
+X02,
+X02,
+X@5,
+X@5,
+X@5,
+XP9,
+X@@,
+X@@,
+X@@,
+X I,
+x0Z,
+XPV,
+XPV,
+H X,
+XPV,
+H X,
+x0l,
+H d,
+H d,
+XPe,
+XPe,
+XPe,
+xpm,
+H@k,
+H@k,
+XP[,
+X0n,
+X u,
+X u,
+X u,
+H0y,
+H0y,
+xPaN
+xPaN
+HPNT
+xp<T
+x`9&
+moQ*&#d
+rorqImm8Reg
+HpB-
+HpB-
+x`_%
+setLen
+X`z-
+X`z-
+X`z-
+H`|-
+X`tS
+!hL6
+deffd`
+Xp8.
+Xp8.
+Xp8.
+Hp:.
+start
+HPF.
+H`S.
+H`S.
+x0[.
+xp\.
+XpW.
+XpW.
+XpW.
+X d.
+X d.
+X d.
+x`m.
+H0h.
+H0h.
+X@q.
+X@q.
+X@q.
+x@hS
+} ? * include 
+NONE
+x@KS
+#iclone
+keys
+x`'/
+X@ /
+X@ /
+X@ /
+x (/
+X #/
+X #/
+X #/
+H@1/
+H@1/
+root
+x q/
+X`g/
+X`g/
+X`g/
+Hpk/
+Hpk/
+HPn/
+HPn/
+X a/
+H@{/
+H@{/
+setStart
+Xp|/
+Xp|/
+Xp|/
+x0,O
+Xp	0
+X "0
+X "0
+X "0
+x`+0
+H0&0
+H0&0
+xP>0
+X070
+X070
+X070
+X@.0
+xorqRegReg
+X0G0
+X0G0
+X0G0
+xpP0
+H@K0
+H@K0
+H N0
+H N0
+x d0
+X`Z0
+X`Z0
+X`Z0
+Hp^0
+Hp^0
+HPa0
+HPa0
+H@n0
+H@n0
+Xpo0
+Xpo0
+Xpo0
+xPw0
+XPr0
+XPr0
+XPr0
+NONE
+tree
+xP/1
+X0(1
+X0(1
+X0(1
+`Pi1
+  0 sys .exit 
+setEnd
+H .2
+`@41
+`p'2
+x@32
+H .2
+X0<2
+X0<2
+X0<2
+xpE2
+H@@2
+H@@2
+H C2
+H C2
+x`X2
+X@Q2
+X@Q2
+X@Q2
+x Y2
+X T2
+X T2
+X T2
+XPH2
+H@b2
+H@b2
+Xpc2
+Xpc2
+Xpc2
+xPk2
+XPf2
+XPf2
+XPf2
+eachNode
+xP#3
+H0-3
+H0-3
+X`.3
+X`.3
+X`.3
+x@63
+X@13
+X@13
+X@13
+Xp%3
+H`?3
+H`?3
+x0G3
+xpH3
+XpC3
+XpC3
+XpC3
+x@Z3
+H0N3
+H0N3
+H`d3
+H`d3
+x0l3
+xpm3
+Xph3
+Xph3
+Xph3
+xorqRegReg
+X0x3
+X0x3
+X0x3
+H@!4
+H@!4
+Xp"4
+Xp"4
+Xp"4
+xP*4
+XP%4
+XP%4
+XP%4
+X 14
+X 14
+X 14
+X 14
+X 14
+X 14
+X`34
+X`34
+X`34
+X`34
+X`34
+X`34
+XP74
+XP74
+XP74
+XP74
+XP74
+XP74
+Xp94
+Xp94
+Xp94
+Xp94
+Xp94
+Xp94
+x0?4
+X@B4
+X@B4
+X@B4
+X@B4
+X@B4
+X@B4
+xPH4
+xPH4
+X |4
+X |4
+X |4
+X0s4
+#iend
+XP(5
+XP(5
+XP(5
+H`,5
+H`,5
+H@/5
+H@/5
+x@D5
+X =5
+X =5
+X =5
+HpA5
+HpA5
+X045
+HpN5
+HpN5
+x@V5
+X0_5
+X0_5
+X0_5
+xph5
+H@c5
+H@c5
+x`j5
+H f5
+H f5
+xpk1
+xpk1
+xP>]
+H`{5
+H`{5
+H@~5
+H@~5
+HPtW
+x`(6
+X@!6
+X@!6
+X@!6
+x )6
+X $6
+X $6
+X $6
+xP:6
+H 56
+H 56
+H E6
+#dom
+x`M6
+H E6
+X@F6
+X@F6
+X@F6
+x N6
+X I6
+X I6
+X I6
+X0=6
+H@X6
+H@X6
+XpY6
+XpY6
+XpY6
+xPa6
+XP\6
+XP\6
+XP\6
+X@i6
+X@i6
+X@i6
+HPm6
+HPm6
+H0p6
+H0p6
+Xp{6
+Xp{6
+Xp{6
+X u6
+rmN_
+x07W
+movqRegReg7
+H`67
+step
+Hp<7
+x0D7
+xpE7
+Xp@7
+Xp@7
+Xp@7
+X M7
+X M7
+X M7
+x`V7
+H0Q7
+H0Q7
+xPi7
+X0b7
+X0b7
+X0b7
+X@Y7
+H0s7
+H0s7
+X`t7
+X`t7
+X`t7
+x@|7
+X@w7
+X@w7
+X@w7
+Xpk7
+append1
+x0VN
+&\8!
+x@%T
+0 sys .exit 
+H@y8
+H@y8
+X0{8
+X0{8
+X0{8
+X o8
+x`G9
+X@M9
+X@M9
+X@M9
+X@M9
+X@M9
+X@M9
+x0P9
+xpR9
+x0W9
+x0W9
+X0U9
+H`m9
+H`m9
+x0u9
+xpv9
+Xpq9
+Xpq9
+Xpq9
+X ~9
+X ~9
+X ~9
+source
+x`	:
+x .:
+Xp :
+Xp :
+Xp :
+X ):
+X ):
+X ):
+x`/:
+X #:
+X #:
+X #:
+xP@:
+H ;:
+H ;:
+movqRegReg
+xpS:
+H K:
+H K:
+XPL:
+XPL:
+XPL:
+x0T:
+X0O:
+X0O:
+X0O:
+X0C:
+HP]:
+HP]:
+x e:
+x`f:
+X`a:
+X`a:
+X`a:
+xPw:
+H r:
+H r:
+H@~:
+X0z:
+x` ;
+x !;
+x q*
+X09;
+X09;
+X09;
+root
+X O;
+X O;
+X O;
+p1cZ
+#istep
+x "<
+x`#<
+XP+<
+XP+<
+XP+<
+H`/<
+H`/<
+H@2<
+H@2<
+H0?<
+H0?<
+X`@<
+X`@<
+X`@<
+x@H<
+X@C<
+X@C<
+X@C<
+Xp7<
+H R<
+x0z]
+xp{]
+Pp5P
+append
+source
+x0FT
+x0&=
+xp'=
+Xp"=
+Xp"=
+Xp"=
+X 0=
+X 0=
+X 0=
+x`9=
+H04=
+H04=
+xPL=
+X0E=
+X0E=
+X0E=
+X@<=
+H0V=
+H0V=
+X`W=
+X`W=
+X`W=
+x@_=
+X@Z=
+X@Z=
+X@Z=
+XpN=
+X0g=
+keys
+XP|=
+andqRegReg=
+x`Z 
+``Q;
+x 7Q
+x0f[
+xph[
+xpl[
+xPn[
+x@}Z
+w#8t
+HpOT
+H0QT
+`pR<
+`0h=
+`0u>
+x@`M
+x@%>
+eachNode`~=
+XP;?
+XP;?
+XP;?
+H`??
+H`??
+H@B?
+H@B?
+x@W?
+X P?
+X P?
+X P?
+HpT?
+HpT?
+X0G?
+H`a?
+H`a?
+x0i?
+xpj?
+Xpe?
+Xpe?
+Xpe?
+X r?
+X r?
+X r?
+X@*$
+H  A
+H 'A
+H`6A
+H`;A
+H`>A
+H DA
+H`JA
+H@PA
+H@SA
+H@_A
+H`hA
+H`kA
+H qA
+H`yA
+X``}
+X``}
+X``}
+X e}
+X@yz
+X@yz
+XpIz
+XpIz
+XpIz
+Xp3z
+Xp3z
+Xp3z
+H@0B
+H@2B
+H@CB
+H@HB
+X@|v
+X Fv
+H VB
+XpKt
+XpKt
+XpKt
+H`dB
+H`eB
+XPwp
+XPwp
+XPwp
+H hB
+XP9p
+XPUp
+H`nB
+H`uB
+H`zg
+X`/f
+X`/f
+X`/f
+X`/f
+X`/f
+X`/f
+X`/f
+X`/f
+X`/f
+H`[d
+X@q_
+X@q_
+X@q_
+Xp _
+X0 _
+X |^
+X |^
+X |^
+X@}^
+X |^
+X |^
+X |^
+X |^
+X |^
+X |^
+X`y]
+X@{]
+X@{]
+X`r]
+X`r]
+X (\
+X (\
+X (\
+X i[
+X i[
+H@#Z
+XP}Z
+XpyU
+XpyU
+XpEU
+X0GU
+X0GU
+XPGT
+XPGT
+HP/P
+XP[P
+XP[P
+XP[P
+XP[P
+XP[P
+XPTM
+XPTM
+XpCK
+XpCK
+XPTM
+XPTM
+HP2I
+X@CI
+Xp~H
+Xp~H
+Xp~H
+XPxH
+X@<H
+X@<H
+H`]G
+Xp~H
+X`@G
+Xp~H
+Xp~H
+H@(C
+XpSE
+XpSE
+XpSE
+XpSE
+XPRC
+XPRC
+XPRC
+X@HC
+X@HC
+X@HC
+X MC
+Xp&C
+H@'C
+H@2C
+XPRC
+XPRC
+XPRC
+XPRC
+X sB
+X sB
+H@7C
+XPl>
+XPl>
+XPl>
+XPl>
+H PC
+HpSC
+HpSC
+X0	<
+H0+:
+Xpj9
+Xpj9
+Xpj9
+H >9
+HP]C
+HP]C
+Xpj9
+H@`C
+H aC
+X`A5
+HprC
+H sC
+H sC
+XP&1
+H xC
+H xC
+X ).
+X ).
+X ).
+X ).
+H@^-
+HpU-
+X 4-
+X 4-
+Xp*-
+Xp*-
+Xp*-
+X`,-
+X`,-
+X`,-
+X@;-
+Xpd*
+Hpf*
+Xp^)
+H |(
+X`z(
+X`z(
+X`z(
+Xp<(
+Hph&
+HP3%
+XP0%
+X0	"
+X0	"
+X0	"
+Xp6 
+XP8 
+XP8 
+3456789abcdef" * } '*0.0 str .fromArray @
+XP*D
+XP*D
+XP*D
+H`-D
+H`-D
+X0,D
+Hp2D
+XP*D
+XP*D
+XP*D
+XP*D
+X 9D
+X 9D
+X 9D
+H0;D
+H0;D
+H`<D
+H`<D
+X08D
+X0=D
+XP*D
+XP*D
+H@ED
+H@ED
+XpBD
+X0BD
+XP*D
+XP*D
+H`HD
+H`HD
+HpID
+HpID
+456789abcdef" * } '*0.0 str .fromArray 
+0123
+x iD
+HpfD
+HpfD
+X`gD
+X`gD
+HPhD
+X`gD
+HPhD
+XplD
+XplD
+H mD
+XplD
+H mD
+XpoD
+XpoD
+H pD
+XpoD
+H pD
+X@kD
+XprD
+XprD
+H sD
+XprD
+H sD
+XPvD
+XPvD
+XPvD
+H`xD
+H`xD
+XPyD
+XPyD
+XPyD
+XpuD
+X0uD
+X@{D
+X@{D
+X@{D
+H ~D
+56789abcdef" * } '*0.0 str .fromArray 
+01234
+6789abcdef" * } '*0.0 str .fromArray 
+012345
+789abcdef" * } '*0.0 str .fromArray 
+0123456
+H V}
+H` E
+H` E
+X09}
+X09}
+X09}
+Hp%E
+Hp%E
+X &E
+X &E
+X &E
+Hp(E
+Hp(E
+HP+E
+HP+E
+X@,E
+X@,E
+X@,E
+X .E
+X .E
+X .E
+HP4E
+HP4E
+89abcdef" * } '*0.0 str .fromArray 
+X`2E
+01234567@
+X@OE
+X@OE
+H0PE
+X@OE
+H0PE
+XPNE
+X e|
+X`VE
+X`VE
+X`VE
+XpX|
+XpX|
+XpX|
+XP\E
+HPaE
+X@dE
+X0gE
+X0gE
+X0gE
+HpiE
+HpiE
+X jE
+X jE
+X jE
+H0lE
+H0lE
+9abcdef" * } '*0.0 str .fromArray 
+012345678
+abcdef" * } '*0.0 str .fromArray 
+0123456789
+XpXz
+XpXz
+XpXz
+bcdef" * } '*0.0 str .fromArray P
+0123456789a
+XPEy
+XPEy
+XPEy
+X 	y
+X 	y
+X 	y
+H0	F
+H0	F
+cdef" * } '*0.0 str .fromArray 
+0123456789ab
+H (F
+Xp'F
+H0-F
+H0-F
+H`.F
+H`.F
+XP+F
+H02F
+H02F
+X 3F
+X 3F
+X 3F
+X 1F
+XP6F
+XP6F
+XP6F
+X 9F
+H`;F
+H`;F
+HP<F
+HP<F
+X@8w
+H@9w
+X0@F
+X0@F
+X0@F
+H0BF
+H0BF
+XP?F
+XpHF
+XpHF
+H0IF
+XpHF
+H0IF
+HpJF
+HpJF
+def" * } '*0.0 str .fromArray 
+X@GF
+0123456789abc
+x0dF
+XpaF
+XpaF
+H`bF
+XpaF
+H`bF
+XpfF
+XpfF
+H gF
+XpfF
+H gF
+X@iF
+X0lF
+X0lF
+X0lF
+X`	v
+X@qF
+X@qF
+X@qF
+HPsF
+X0tF
+X0tF
+X0tF
+X lu
+H@vF
+X lu
+H@vF
+X0yF
+X0yF
+X0yF
+H@0u
+XPxF
+H@~F
+ef" * } '*0.0 str .fromArray 
+X@}F
+0123456789abcd
+f" * } '*0.0 str .fromArray 
+0123456789abcde
+" * } '*0.0 str .fromArray 
+0123456789abcdef
+ * } '*0.0 str .fromArray 
+* } '*0.0 str .fromArray 
+Xp)G
+H@+G
+H@+G
+X`,G
+X`/G
+X`/G
+H00G
+X`/G
+H00G
+X 1G
+X 1G
+X 1G
+H@4G
+H06G
+H06G
+Xp7G
+Xp7G
+H@8G
+Xp7G
+H@8G
+X0BG
+X0BG
+X0BG
+H0DG
+H0DG
+X@AG
+} '*0.0 str .fromArray 
+H0ZG
+H0ZG
+H@\G
+H@\G
+X YG
+HP_G
+H`cG
+H`cG
+X hG
+X hG
+X hG
+XpjG
+xPpG
+X "p
+X "p
+X "p
+X`rG
+X`rG
+X`rG
+HPvG
+HPvG
+'*0.0 str .fromArray 
+X`tG
+Xp^o
+str .fromArray 
+ str .fromArray 
+'* str .fromArray G
+str .fromArray 
+HPZm
+.fromArray 
+X`{l
+X {l
+Xp#H
+Xp#H
+Xp#H
+fromArray
+X0+H
+X`!H
+Xp1H
+Xp1H
+Xp1H
+Hp3H
+Hp3H
+XP0H
+X`5H
+HP7H
+HP7H
+H`:H
+H`:H
+H0;H
+H0;H
+H0=H
+H0=H
+X`AH
+X`AH
+HPBH
+X`AH
+HPBH
+X@@H
+HpIH
+HpIH
+Xplj
+Xplj
+X`HH
+X HH
+XpHj
+H0NH
+XpHj
+H0NH
+X@YH
+X@YH
+X@YH
+} /hex deffd 
+X0fH
+X ,j
+X ,j
+X ,j
+H0nH
+X kH
+HPqH
+HPqH
+H`uH
+H`uH
+X0xH
+X0xH
+X0xH
+HP}H
+HP}H
+X0|H
+H0ri
+/hex deffd 
+deffd 
+ deffd 
+/ deffd  
+X@'h
+XPpg
+HPrg
+deffd 
+HPWg
+!hL6
+deffd
+> /sha512 defvd 
+H !I
+H !I
+H !f
+X@$I
+X0'I
+X0'I
+X0'I
+H`,I
+H`,I
+X`*I
+Hp1I
+Hp1I
+X`.I
+X .I
+H03I
+H03I
+X08I
+/sha512 defvd 
+X`DI
+XPGI
+XPGI
+XPGI
+X0HI
+H@JI
+H@JI
+X0KI
+X0KI
+X0KI
+XPGI
+XPGI
+H@MI
+X NI
+X NI
+X NI
+XPGI
+XPGI
+X@RI
+X@RI
+X@RI
+H@TI
+H@TI
+XPQI
+XPGI
+XPGI
+X XI
+X XI
+X XI
+XPGI
+XPGI
+X@[I
+X`^I
+X`^I
+HP_I
+X`^I
+HP_I
+X0Pd
+X0Pd
+X0Pd
+H bI
+H bI
+XPaI
+defvd 
+sha512
+X`Sd
+ defvd 
+/ defvd  
+XPGI
+XPGI
+X0tI
+X0tI
+X0tI
+XpuI
+XpuI
+X@sI
+X@{I
+H`~I
+H`~I
+defvd 
+XP8b
+XP8b
+XP8b
+H`!b
+H`!b
+defvd
+> /crypt defvd 
+/crypt defvd `
+defvd 
+crypt
+ defvd 
+/ defvd  
+X0#J
+H`&J
+H`&J
+X@*J
+X@*J
+X@*J
+H@,J
+H@,J
+XP)J
+Hp.J
+Hp.J
+X`/J
+X`/J
+X`/J
+defvd 
+X@9J
+X@9J
+X@9J
+Hp;J
+Hp;J
+X`<J
+X`<J
+X`<J
+X`8J
+X 8J
+X0>J
+X0>J
+X0>J
+XpAJ
+XpAJ
+H@BJ
+XpAJ
+H@BJ
+H`EJ
+HpJJ
+XPKJ
+XPKJ
+H@LJ
+XPKJ
+H@LJ
+X@IJ
+XPNJ
+XPNJ
+XPNJ
+HPUJ
+HPUJ
+X RJ
+defvd`
+X@^J
+XP`J
+XP`J
+XP`J
+# vim: syn=elymas 
+XPgJ
+H@kJ
+H@kJ
+XPiJ
+XpnJ
+xprJ
+xprJ
+X0wJ
+HpyJ
+X`}J
+X`}J
+X`}J
+X@~J
+X`}J
+X`}J
+X`}J
+X`}J
+X`}J
+X`}J
+X`}J
+X`}J
+X`}J
+X`}J
+X "K
+X "K
+X "K
+X@!K
+argv
+H`OK
+H`OK
+x`UK
+X0DX
+X0DX
+X0DX
+X@VK
+X@VK
+X@VK
+H@XK
+H@XK
+XP\K
+XP\K
+XP\K
+X0[K
+X _K
+X`fK
+X`fK
+X`fK
+H`gK
+X@hK
+X@hK
+X@hK
+XpeK
+X0eK
+X@jK
+HPlK
+HPlK
+X`mK
+X`mK
+H nK
+X`mK
+H nK
+X@)V
+X@2T
+XPqS
+X0sS
+X0sS
+X0sS
+HP;L
+HP;L
+H <L
+H <L
+Xp}R
+Xp}R
+Xp9L
+X0@L
+X0@L
+X0@L
+H`BL
+H`BL
+X@?L
+X0DL
+HPFL
+HPFL
+X@HL
+X0NL
+X0NL
+H OL
+X0NL
+H OL
+X@ML
+XpSL
+XpSL
+H0TL
+XpSL
+H0TL
+Xp`Q
+.argv * } { "/dev/stdin" } ? * include 
+X0qL
+X0qL
+X0qL
+HPtL
+X0qL
+X0qL
+X wL
+X wL
+X wL
+X0qL
+X0qL
+X yL
+H0{L
+H0{L
+X |L
+X |L
+X0qL
+X0qL
+X0qL
+X0qL
+X0qL
+X0qL
+* } { "/dev/stdin" } ? * include 
+argv
+ * } { "/dev/stdin" } ? * include m
+. * } { "/dev/stdin" } ? * include 
+X0qL
+X0qL
+H`rL
+X@LL
+* } { "/dev/stdin" } ? * include 
+} { "/dev/stdin" } ? * include 
+H` M
+H` M
+Xp"M
+X0'M
+XP-M
+XP-M
+XP-M
+X03M
+X03M
+X03M
+H`5M
+H`5M
+XP2M
+{ "/dev/stdin" } ? * include 
+X`LM
+HpOM
+HpOM
+x`VM
+HPTM
+HPTM
+H UM
+H UM
+XPRM
+X0\M
+X0\M
+X0\M
+H@^M
+H@^M
+XP[M
+HpdM
+HpdM
+X`aM
+X`hM
+X`hM
+H iM
+X`hM
+H iM
+XpgM
+X0gM
+X@oM
+X@oM
+X@oM
+X`nM
+"/dev/stdin" } ? * include 
+X nM
+/dev/stdin" } ? * include 
+dev/stdin" } ? * include D
+ev/stdin" } ? * include @
+HP!N
+HP!N
+X@"N
+X@"N
+X@"N
+HP'N
+HP'N
+Xp%N
+X ,N
+X ,N
+X ,N
+X0+N
+Hp1N
+Hp1N
+X`.N
+H@3N
+H@3N
+H@6N
+H@6N
+Xp7N
+Xp7N
+Hp9N
+Hp9N
+v/stdin" } ? * include 
+H LN
+H LN
+HpMN
+HpMN
+HpQN
+HpQN
+HpSN
+HpSN
+H`UN
+H`UN
+X@RN
+X`ZN
+X`ZN
+X`ZN
+X XN
+X0]N
+Hp_N
+XP`N
+XP`N
+XP`N
+X@cN
+X@cN
+X@cN
+X@eN
+HPjN
+HPjN
+X@kN
+X@kN
+X@kN
+/stdin" } ? * include 
+/dev
+X@}N
+X@}N
+H0~N
+X@}N
+H0~N
+stdin" } ? * include `
+/dev/`
+tdin" } ? * include 
+/dev/s
+X0F1
+X0F1
+X0F1
+din" } ? * include 
+/dev/st
+X  O
+X  O
+X  O
+X@!O
+X@!O
+X@!O
+H@&O
+H@&O
+H0'O
+H0'O
+X`$O
+Hp+O
+Xp*O
+X0*O
+HP/O
+HP/O
+X`0O
+X`0O
+X`0O
+X .O
+X@2O
+X@2O
+X@2O
+X@3O
+X@3O
+X@3O
+X05O
+X05O
+in" } ? * include 
+/dev/std@
+X`K/
+X`K/
+X`K/
+n" } ? * include ZG
+/dev/stdi
+X0!S
+X0!S
+X0!S
+XP'S
+XP'S
+XP'S
+H`)S
+H`)S
+X`&S
+X &S
+X +S
+HP-S
+HP-S
+HP0S
+HP0S
+X@5S
+HP:S
+HP:S
+H@;S
+H@;S
+XP?S
+XP?S
+XP?S
+H`AS
+H`AS
+XP>S
+HPDS
+HPDS
+" } ? * include 
+/dev/stdin
+xpZS
+Hp]S
+Hp]S
+X ^S
+X ^S
+X ^S
+X`mS
+X`mS
+X`mS
+H0rS
+H0rS
+XpoS
+HPvS
+HPvS
+X wS
+X wS
+X wS
+X0{S
+X0{S
+X0{S
+XPzS
+? * include 
+H`|-
+X@}-
+X@}-
+X@}-
+* include 
+include @
+H n'
+X 	T
+Hp:.
+include
+X )T
+X )T
+X )T
+H@+T
+H@+T
+X@(T
+X0-T
+x`1T
+Hp3T
+Hp3T
+X@];
+sys .exit 
+H@CT
+H@CT
+H`ET
+H`ET
+X0BT
+XPGT
+X`JT
+X`JT
+H0KT
+X`JT
+H0KT
+HPNT
+HpOT
+H0QT
+X0UT
+X`XT
+X`XT
+HPYT
+X`XT
+HPYT
+X@ZT
+X@ZT
+H0[T
+X@ZT
+H0[T
+H@^T
+HPaT
+.exit 
+X`nT
+X`nT
+H oT
+X`nT
+H oT
+XpmT
+X0mT
+xpvT
+H`tT
+H`tT
+H0uT
+H0uT
+X`rT
+X yT
+X yT
+X yT
+X0xT
+X }T
+exit
+x@>T
+"loaded" sys .freeze 
+X0h&
+X0h&
+X0h&
+X j&
+X j&
+X j&
+X`!U
+X`!U
+HP"U
+X`!U
+HP"U
+Xp&U
+Xp&U
+H 'U
+Xp&U
+H 'U
+X@%U
+X@*U
+Hp,U
+Hp,U
+X -U
+X -U
+X -U
+Xp/U
+XP2U
+XP2U
+XP2U
+H W&
+X@X&
+X@X&
+XP;U
+XP;U
+XP;U
+X`:U
+X :U
+XP?U
+H@BU
+H@BU
+oaded" sys .freeze 
+xp[U
+X0VU
+X0VU
+H WU
+X0VU
+H WU
+X@UU
+X@4&
+X@4&
+X@4&
+X 5&
+H@\U
+H ]U
+H ]U
+X`5&
+X@4&
+X@4&
+X`_U
+XPbU
+XPbU
+XPbU
+H0dU
+H0dU
+X@gU
+X@gU
+X@gU
+X@4&
+X@4&
+X0kU
+X0kU
+X0kU
+H@mU
+H@mU
+HpnU
+HpnU
+XPjU
+XPqU
+XPqU
+XPqU
+H Q%
+X@4&
+X@4&
+XPsU
+X0vU
+X0vU
+X0vU
+X@4&
+X@4&
+aded" sys .freeze 
+X`1%
+X`1%
+X`1%
+ded" sys .freeze 
+ed" sys .freeze 
+load
+H0	V
+H0	V
+d" sys .freeze 
+loade
+X +V
+X +V
+X +V
+X`,V
+XP/V
+XP/V
+XP/V
+X +V
+X +V
+X03V
+X03V
+X03V
+H@5V
+H@5V
+X@2V
+X +V
+X +V
+X 7V
+H`9V
+H`9V
+H`:V
+H`:V
+X +V
+X +V
+HP<V
+HP=V
+HP=V
+X +V
+X +V
+Xp?V
+X`BV
+X`BV
+X`BV
+X +V
+X +V
+HPEV
+HPEV
+X@FV
+X@FV
+X@FV
+X +V
+X +V
+H@IV
+H@IV
+" sys .freeze 
+loaded
+X@YV
+X@YV
+H0ZV
+X@YV
+H0ZV
+H`[V
+H`[V
+ sys .freeze `
+XPdV
+XPdV
+XPdV
+X0eV
+X0g"
+X0g"
+HPhV
+X0g"
+HPhV
+XPdV
+XPdV
+XPdV
+XPdV
+H@vV
+H@vV
+HPwV
+HPwV
+X yV
+X yV
+X yV
+Hp{V
+Hp{V
+X`~V
+X`~V
+X`~V
+Xp}V
+.freeze @
+H0_!
+H0_!
+freeze
+loaded
+X0&W
+X`;W
+X0[W
+X wW
+or_ey.ey 
+XP"Y
+XP"Y
+XP"Y
+XP"Y
+XP"Y
+XP"Y
+XP"Y
+XP"Y
+XP"Y
+x`7Y
+xp8Y
+x@}Y
+xP~Y
+Hp8Y
+Hp8Y
+Hp8Y
+Hp8Y
+Hp8Y
+Hp8Y
+X`"Z
+X`"Z
+X`"Z
+xp8Y
+X`<Z
+X`<Z
+Xp=Z
+X >Z
+X @Z
+X0CZ
+X0CZ
+X`HZ
+X`HZ
+X`HZ
+X`HZ
+X`HZ
+H IZ
+X LZ
+X LZ
+X LZ
+X LZ
+XpPZ
+XpPZ
+XpPZ
+XpPZ
+Hp8Y
+Hp8Y
+X YZ
+X YZ
+X YZ
+X YZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+XpdZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+X0iZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+XpwZ
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+X0|Z
+x`dZ
+x@V,
+Xp"[
+Xp"[
+Xp"[
+Xp"[
+Xp"[
+Xp"[
+x0&[
+x0)[
+xP*[
+X +[
+X +[
+X +[
+X +[
+X +[
+X +[
+X`-[
+X`-[
+X`-[
+X`-[
+X`-[
+X`-[
+x@V,
+xp3[
+xp3[
+Hpu[
+Hpu[
+x@}[
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@V,
+x@~Y
+x@~Y
+x@~Y
+x0!\
+x@~Y
+xP"\
+X #\
+X #\
+X #\
+X #\
+X #\
+X #\
+X`%\
+X`%\
+X`%\
+X`%\
+X`%\
+X`%\
+x@V,
+xp+\
+xp+\
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+x@~Y
+Hpm\
+Hpm\
+x@u\
+X0x\
+x@/]
+X (]
+X (]
+X (]
+Hp,]
+Hp,]
+xpA]
+H 9]
+H 9]
+XP:]
+XP:]
+XP:]
+x0B]
+X0=]
+X0=]
+X0=]
+X`1]
+H@T]
+x G]
+x@H]
+x@I]
+xpO]
+X0U]
+X0U]
+X0U]
+X0U]
+X0U]
+X0U]
+x X]
+x`Z]
+xpY]
+xpY]
+H@T]
+xpY]
+x _]
+x _]
+X ]]
+HP%^
+HP%^
+x -^
+x`.^
+X`)^
+X`)^
+X`)^
+xP?^
+H :^
+H :^
+X@H^
+X@H^
+X@H^
+HPL^
+HPL^
+H0O^
+H0O^
+xpd^
+H \^
+H \^
+XP]^
+XP]^
+XP]^
+x0e^
+X0`^
+X0`^
+X0`^
+X`T^
+X m^
+X m^
+X m^
+x`v^
+H0q^
+H0q^
+X@y^
+H`	_
+H`	_
+Hp1_
+xP$_
+xp%_
+xp&_
+X0(_
+X0(_
+X0(_
+X0(_
+X0(_
+X0(_
+X ,_
+X ,_
+X ,_
+X ,_
+X ,_
+X ,_
+X@._
+X@._
+X@._
+X@._
+X@._
+X@._
+X`2_
+X`2_
+X`2_
+X`2_
+X`2_
+X`2_
+xP5_
+Hp1_
+x =_
+x =_
+xP<_
+xP<_
+XP:_
+xpy_
+H q_
+H q_
+XPr_
+XPr_
+XPr_
+x0z_
+X0u_
+X0u_
+X0u_
+Xpi_
+H ?;
+UUUU
+UUUUD
+T]UUUUUUUUUU
+UUUUUUUUUUUUUUUU
+PEET
+RUEUUUU@JUTD@U
+UUUUUUUUUUU
+IEUQQZD
+Z@QTQ
+@@"Z
+DUUU
+*ZTd@
+jQT@T
+J5IJ@
+"& " 
+E@$@
+heUQ@T@
+UUUU
+HE*R
+EEjVDUI
+JUDT5
+QD+$R
+UEQ)
+RUUIT%
+T$***
+UUETUR"
+"@@E@U4	(Uj%"
+DETT@
+BA@U
+*Y**Z@T
+QTUE%I
+TE@d
+*-R$
+*UjETU
+@DQU
+E@EZ)
+@UMQU
+U@Eb
+PTD@
+UDQQ
+"@UDTUUUUT
+TiDV
+*"" 
+ jUT
+@@% 
+@@%B
+Ti	 
+2@@$
+U@T1
+H@D@$
+RUeR
+*+5QI5J
+LHj"
+*U*@@
+jUjU
+J@T@T@T
+H@@@
+m@j"	 
+)U*J
+H@@"
+EKe$
+*-IR
+2RUU
+H@UT
+*U*U
+*RQQ
+H5@@
+@*E)
+TUE%I
+"mD+IR
+VET@
+@RD@
+jR	HI
+*U*1
+Ti@Z
+RSD@,
+*UU*R
+UUUEEE
+*-*M
+JUEE
+  R@
+U*E"
+P" R
+ZjD#J
+R)D"R
+HU@Q
+JU*U
+*UET
+*UjRT
+QD$U
+Zj	(
+@UUY
+RS*U
+2%IR
+** RD
+ 4@j
+D@*-5*R@*
+(5("R@
+@D@$@
+RE	R
+E""%U
+()UR
+T@UD
+j*@T
+PT@	
+""" 
+*UUjQ
+PZ*5
+HII*U
+I"%E
+TiUZ
+*UE@)
+D@$2
+ UT$`
+D	He
+"bUYe
+T- *
+Z*U* V
+j@*5
+ZT*U
+RiMTUR
+*U* R
+@TEDD
+D@D@$j)
+TZTUj
+"U-U
+JE*UD
+*U#%
+Q@IR
+ReR(1
+JAbI
+J%IU"E
+@T*K5 U
+RY@,
+@*UZ
+"%Z4
+D%H@UTM$
+UD@,
+T- " "
+( R@
+iDD*
+%R*J$IQ
+$%UUU%
+*Q-U
+JUQ@
+$"*"RD
+D@D@$
+I@UU
+*U*Q
+J5UU
+T*UZ
+P+Q)U
+*U# 
+UUUEU
+D	  
+ @*@
+@@KTKD
+@RES@D
+QQT+*" 
+*UZ@
+T]@U
+jU@T
+HII"5%
+TC$`
+* RU
+( UU
+(EQDj
+QDK,
+\EiQS
+Dj"5
+J*Uj
+*U*U
+  fQ
++  . 
+j@!U
+*JU$*
+Q@U\"
+@D@$H@U-
+@-U)
+FJ)Q
+JSSS
+("ZU
+	(@@E
+PUEDU
+ """"
+EDDDDDD
+mUT@
+" Z*UJT
+DZ@ED
+HMQ"5
+*UZUET,
+VUHW
+JUD@$@
+@Q-@
+DZDE
+D$""
+Q@" R
+HTTTDS
+HMm*U
+*2U*UZ
+Dj"5
+"bY@
+H@UT@T
+DD+U
+QEl"*UjYD
+ZDDD
+Z*Uj
+*U+ U
+ "*"
+XQE@
+H@lQD
+ H@UT,
+h"Mkjj"5555
+@D+6
+ @DT
+PEUUU
+@*U"
+T-`U
+@@*U
+D@	 2
+Dj"5
+D@$@
+"Z@Ue
+TE@T
+UDQ@$H@
+TU*U
+T-" 
+H@#U
+UQQE
+ "*""
+UEUD
+"Z**J
+*EDTQ
+*USUUm
+@	  Z
+@@TD
+@4 *
+DM@V
+QEDD***
+T%RS
+HMY"5
+D*U+U
+TUE$
+P- U
+TUD@
+jY,M@
+Z,@@
+@D@$
+UQ# A
+TEEET
+*"E- 
+*-*U
+  QU
+P*UZ@
+PD@$H-"
+)j"5
+TETET
+D$""
+PQD@T
+***R@
+(H@-
+"K@UE@$h
+ZL@@
+HMMMM
+&RSSS
+Dj"5
+ZDjD
+ES-U
+UD@,"
+h@*U
+"	h@
+ H@U
+@* R
+D@TDQ
+*U	h
+@@@@U
+JU*U*
+*U)U*Z
+QD@R%
+U*""A
+PE@$
+HDTD
+@@D@$
+   H@D@$H@U
+H@D@$
+H@D@DU
+A@*5
+D@DDD
+DDDD@$
+@@D@DD
+T% @
+""" 
+UDQ@@@@D@$
+$ " 
+T%    
+@*Uj
+""RQ
+Re)`
+@@*U
+@@@D@$
+** Z
+DDDD@
+@TU$
+D%R@
+T@UTM
+@@T@
+TQD#"
+DDDD@$@
+  " 
+"	REE@T@
+A@$I
+H@Ud
+@@@@$@
+"b*U
+*UjR
+A@@@$ 
+  @@@@$H@
+    
+   @
+"5 "@@
+     
+@@@$I
+*UT@T
+TURU
+HDTD
+@@   
+ U* VUMU
+   ""
+   @
+" """ 
+ZUM@@DDD
+$ " R
+UQUU
+A@@$H@D@$H
+QDTUUU	
+H@UD@TU5
+A@@@$@
+  RER
+T@EDl
+ED@$
+@DD"
+""""
+H@$ R
+" ""
+"""" R
+@U*U* 
+*]@@
+H@UD4
+   @@@
+ @@@
+@@UU
+H@$H@
+DTTD
+@DET
+DED*
+*Z@ 
+    
+ @@5
+4 @@Q@
+  H@
+DEEE
+H@U,
+     
+0  "
+@DD**
+@DDDR
+HEEE
+W$H@
+TE,R@
+DDDD@
+Z@$H- 
+*mUTT
+D+ R
+UDG@$H@
+@@@$H@UT
+@@DD$I
+$" *"
+@@DDD@
+  " 
+ @**
+J+@*
+@$HU
+*U@UT
+ZU	 
+TUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUU
+D@$@
+UUUUUUUUUUUUUUUUUU5
+ZUUUUUUU@$
+TUUUUUUUUUU
+TE@@UUU
+@UUUUUU
+UUUUUU
+UUUUUU
+ZUUU
+ZUUUUUU
+PUUUUUU
+PUUU
+*UUU
+PUUUUUUUUU5
+TUUUUUUUUUUUUU
+ZUUUUUUUUUUUUUU
+"Z@$HM@ET
+@UU@$@
+TUUUUUUUUUUU
+UUUUE@T
+jqA@
+ZUUUUUUUUUUU
+HTTT
+RUUU
+UUUUUU@d
+@UUUU
+UUUUUUUU
+UUUUUUUUUUUuUUUUUUUUUUUUUU
+UUUU
+U@ED@@
+jUUUUUU
+$"DD
+H@D@
+*U+U
+6  Z
+PUUU
+UUUU
+" B+
+TUUU
+(RT@
+E* R
+TE@d 
+*UUUUUU
+TUUUUUU
+ZA@TED
+UUD@
+DDD$@
+PUUUUUU
+H@D@
+DDDD@
+!""R
+(*"*
+@UUE
+*""""J
+H"UE
+I%EDDDDDDD
+EDDDT
+d@QTDDDDDDDT
+$"""
+D$	HD
+UUUUUUUUUUUUUUE@$
+D@$ " R5
+""" 	
+"YD@$H@5
+4 & i
+PET@
+ZUUUUUUUUUUUUUUUUU
+jTUTUUUUUUUUU
+TUUUTU
+@UUUUUUUUUUUUUUU
+@UUUUUU
+@UUUUUUUUUUUUUU
+UUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUQUUUUU
+PUUU
+@DD"
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUM
+@UUUUUUUUU
+UUUUUUUU
+jUUUUU
+TUUUU
+UUUUUUUAUUUUUUUUUUUU
+@UUUUUUU
+TUMUUUUU
+TUUUUUUUUUUUUU
+TUUUUUUUU
+H@UD
+REReU
+A@D@$H@
+@DUUUUUUUUU*U
+*ETU
+RDTD+R
+PE* 
+$ " 
+PUUUUUUUU
+EUETU
+PE@d
+JU#@E* 
+UUUU
+*ETUDD
+RDUU "
+*RUU
+IUUUUUUU
+RDTD
+T)"*"RQQQ
+RUUE
+XUUUE
+*UJUiJ
+JUUU
+iEEEET
+PUVQ5
+*U U
+*ETUD
+(" *A
+""UUU
+RDUUD
+E$U-
+DDDD@$@
+QUQD
+$ " 
+"UUUUUU
+*UZU
+E@$H
+TUUU
+UUeU
+RU*U
+*EDED****
+DEET
+QUDUUU@@$ 
+PUAb
+""UEE
+EUET
+RDTD
+PE@$
+TEUE
+*ETUE
+*YUU
+""UU
+*EDED****
+*"RUTT
+,UUUU
+*SeU
+TTTT
+@RUU
+HUUUUUUU
+PUEDR
+@UUE
+*RUU
+TTTTD
+HUQQE
+IU$U
+RDTD
+("UEDR
+(RUUU
+J5 U
+HEEEET
+DQUEDR
+TTTLE4
+RDTD
+UU@UT
+D@$@
+TiTi
+XD@$H@U
+tUUUUUU
+"F@$h
+0DD$"*
+jUUUU
+*ETUE
+PUDU
+HUMUD
+*EDE,RQQQ
+ UED
+HEEE
+VTUQ
+""UUU
+HEEEEQE
+"RU1
+E$UQUQUTD
+UE$U
+TUUU
+TUTU
+PUUUUUU
+HEEE
+IU$UTQE
+HEEEET
+QTUEDRUTU
+TTTTD
+ZQQE
+*RUUUUUUU
+DED****
+HUUT
+RU*U
+T)"Q
+E$UQUE
+*"RUU
+*E$*"RQQQ
+TE$U
+QDD@$@
+EED***j
+H@UD
+*"RUEQ
+""UU
+HUUT
+("" 
+DDDDDDDDDD
+ """""""""""""b
+-"""""""""
+" "REE--
+EDVUUUUUUUUUUUUUUUUUUUTTTD
+*"RUU
+PUUU
+EUUUU
+EUETED
+TUUUQUQ
+"* " 
+HUED
+QDE@$("J
+  " 
+TE@$H@UD@$H@UT
+T@UD@
+H@UD
+DTEQEQ
+H@UD@$
+@@$H@UT
+QUUUUUUUUUUUU5
+******
+T@UD@
+TET@$@I@E*`
+ED@$
+*bED
+HTD$
+bUTQ
+UQDQTD
+TUD@$H@UT
+"Q@U
+E@UT
+H@MT
+D@$HU
+DUUUUUUUUETEEEEEET
+4UD@$@
+"Q@U
+- " 
+(*"R
+("UQE
+UD@$
+QDD@$
+6@@@$
+UUUU
+TE* R
+(*"RQQQ
+E@$@
+E* R
+@@$*
+@UD@$
+H@UD
+DTEQEQ
+TE@$
+TET@DUD
+E@T@D
+UQTQTE
+  RU
+TeU)
+UUUUUUUUUUUSUUUUUUUU
+PUUUUUUUU
+UTTTTTD
+E@$H@U
+PE@d
+"Q@UT
+QUUUUUUUU
+@UUUUUUUUUUUUUUU
+PUUUUUUUUUUUUU
+	ZUUUS
+"QDD@$
+H(`	
+"BTD
+"Q@UD@
+P@UD
+P@UT
+T)"DE
+P@UD@$
+B@E@$
+UUUEZ
+EDBUQ
+DB@T
+P@UD@$
+TE@EB@UD@$
+RU*U
+TE@$
+DdU$
+P@UD@$
+QD@@D@$
+P@UD@$
+QTUE
+DB5@@E
+"BTD
+"Q@UT
+E@$4
+TE@$
+@B@	
+P@UD
+E@$$
+E@,Q@U
+PU-* "U
+P@UT
+( @@U
+P@UT
+P(`@@d
+P@UT
+"QD@
+P@UT
+TE* RJU
+"! " 
+TE@$
+DB@UD@$
+TE@$$
+UQ-" 
+"QD$
+TE@$T
+TE@$T
+UD@$T@UT
+P@UT
+HH@U,
+"QDD@$
+P@UT
+P@UD@$
+DB@U
+HH@UD@$$
+HED"
+P@UD@$
+P@UD@$
+@@@$
+* jE
+X@D""
+D@$$
+*" Z
+	- "
+JH@U
+TE@$
+P@UD@$
+TED	H
+P@UD@$
+*"j	
+(@@D@
+P@UT
+P@UD@$
+HH@UD@$$
+*EDTD"
+"Q@U
+TE@$
+P@UD,
+"RUUU
+"QDD@$
+P@UT
+HH@UT
+""*"
+"Q@UE
+P@E@T
+T-" 
+* jE
+P@UD@$
+PE@$
+E@$$
+@D@$$
+* RJU
+QE%""
+DB@U$ 
+T""" 
+PUD@$$
+)@@$ RJU
+TE@d
+P@UT
+*" Z
+""*"
+TE@$
+QE@$
+TE@$
+@@@$
+P@UD@$
+P@UT
+E@$$
+RDDE$"
+P@UT
+P@UD@$
+U@T-
+P@UT
+HH@U
+HH@U	
+RDDE$"
+"Q@UT
+TE@$
+P@UD@$
+HH@U
+@@B@U
+E@$$
+*E$Z
+P@UT
+VUUUUUUUU
+*"UTTTTTD
+T@UT@T
+H@UD@$@
+D@UD
+("QTTD
+ZD@$@
+"Q@UT
+TE@$
+TETT@TQT
+TE* RU
+*E$*"
+EUTQE
+UTQE
+@UD@
+$ " 
+VUUETEEEEEET
+@UD@$
+HUUD@$
+U@TUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUU
+  AG1
+DTQQQQ
+U@TUUUUUUUUUUUUUUUUUUUU
+TET@DUD
+HTD$
+*"* U
+TE@$@
+"Q@U
+*" R
+PET@DUD
+"Q@UD@$
+H@UD@$
+*" R
+D@UT
+TE@$
+TET@DU
+UQDQTD
+TEQ@T
+D@UD@$
+QDD@$
+ZD@$
+UUUU
+FUUQU
+D@Ut
+"Q@UT
+TE@$
+E@$H
+TE@$
+* jE
+T@UD@
+D@$@
+TE* R
+U@E@$
+H@UD@$
+UQTE
+QD@DDD@$
+D@UD
+DG@$
+"UUUUUUUU
+T@UD
+H@UD@$@
+TE@$
+HTD$
+("" R
+QDD@$
+@D	 
+*" R
+TD@$@
+"Q@UQ
+H@UD
+H@UD@$
+""QE
+(  R@UD@
+("" 
+"*" 
+@@$*
+" " 
+hqE%@
+UE*R
+QDD@$
+(*"R
+DU@E
+("" 
+TE* RU
+QtU@
+E@$U@T
+T@U4
+"Q@UT
+H@UD@$
+ATD$
+T@UT@T
+"*Z@T
+RU*U
+"BTD$
+UTD@$H@UD
+D"""
+"BTD$
+*" R
+D@UD@$
+QDD@$
+M@D@$H@
+D@$H
+H@UD
+PE@$@
+TE@$
+TET@DUD
+D4( 
+TE@$@
+"Q@UD@$
+"" R
+H@UD@$
+E@$H@
+H@UD@$@
+(Q@UD@$
+UD@$
+UQTE
+TE@$
+QD@T
+*" R
+UD@$@
+("" 
+@@#* Q
+D@$U
+$ " 
+@@$H@UDE
+H@UD@$@
+RDDED**
+H$H@
+D@$@
+"*QD$
+QDD@$
+PEQut
+PQEU
+DQQD
+( Z@
+"Q@UT
+TE@$
+@& R
+DjUYU
+UD@$H@UT
+H@UT
+TE@$
+@D@$
+*E$*"
+E@$@
+HTD$
+TE@$@
+TE@$
+@*UQ*
+E@$H@U
+T@UT@T
+TE@$
+PE* RU
+QTD$
+" 2 
+E@$H@U
+ED@T@
+TE@$
+("""
+$H@U
+UUUUUUUUUUUUUUUUUD
+T@UT@T
+TE* RU
+*E$*"
+QE+"
+$H@UT
+T@UD@
+TD@$@
+hQ@DUD
+TE@$Z
+H@UD@$
+ """ R
+ @@E
+H@UD
+DTEQ
+QD@$
+*"UTTTTTD
+E@$H@U
+HTEQ
+E@ET@DUD
+"Q@UD@$
+"Q@U
+"Q@UT
+PE@$
+QTD$
+VE* R
+D@UD@$
+QTD$
+T@UT@T
+ED@U
+$""" 
+D* *
+TE@$
+UD-"
+QTD$
+TE@$H@UD@$H@UT
+*"TQ-
+TE, J
+TE@$
+TE* R
+D@UD@$
+H@UD
+TE* R
+D@UD
+DTETDE
+TETT@T
+""QE
+*" R
+QDD@$
+H@UD
+""QuD
+H@UT@\
+UTQE
+UTQE
+UTMTTQE
+E@$@
+UQTE
+H- " 
+R@UT@T
+H@UD@$@
+pE@$j
+PE@$
+QDDD
+("  
+"Q@UD	H
+H@UD@$
+UQTE
+UTEUTQE
+UTQE
+UTQE
+E@$H@U
+QD- 
+P-" 
+""QE
+* j5
+TE@$@
+D@UT
+*" R
+H@UD@$@
+H@UD@$
+UQTE
+TE@$
+TE* RU
+E$ E
+U@TU
+QUUUUUUUUUUUUUU
+@@$@
+E@$H@U
+ET@DUD
+E@$H@U
+QD@E
+T-b-
+D@UD@$
+H@UD
+   (
+T@UD@
+D@UD
+QTD$
+	HQE
+*" R
+H@UD@$
+UQTE
+EU$ 
+UUUUU5U
+PE@$H@
+QUED
+PE@$
+H@UD
+DTEQ
+TE@$
+"Q@U
+D@UT
+H@UD
+H@UD
+DTEQ
+E@$H
+TE@$@
+QDE@$
+*" R
+TE@$@
+TE@$
+TET@DUD
+@@ED
+E@$@
+H@UD
+TE*`
+*"RU
+T)"Q
+E@$@
+PUD@$
+QDt4@@$
+ Z@$
+DUD$
+UT@T
+#Z}@
+" Z@
+T@UD@
+QDD@$
+"Q@UT
+TE@$
+TET@TTEQ
+HTD$
+ET@DUD
+"Q@UD@$
+UQTE
+UTQE
+UQDQTD
+("" 
+XT@D@
+TET@DUD
+"Q@UD@$
+U@TUUDUTTQQQ
+*" J
+U@EE
+TE@$
+H@UD@$@
+D@UD
+"Q@UT
+QUUUUUU
+UUD@$
+PD@$
+P@UD@$
+U""" 
+UETU
+P@UD@$
+@@B@U
+P@UT
+DE@$
+P@UD@$
+"Q@UE@$
+"Q@UT
+"QD@$
+TUD@$
+TE@$
+P@UD@$
+TE@$$
+TE@$
+U,QD
+P@UD@$
+"QD@$
+PE* RJU
+E@$Z@U
+U@TUUUUUUUUUUUUUUQ$"
+*"UTTTTTD
+QEDD
+TE@$H@UD@$H@UT
+( R@UD@
+TE* R
+PD@d
+TUD@$
+UE@$
+T@UT
+$   
+EUTQE
+UTSQ
+("" R
+QDD@$
+"RP"""""
+" R@
+" R@
+EDDD
+DDDDD$
+DDDDDDD
+""""""""""""""""
+DDDDDDDDDDDDDDDDDDD
+@DDDDDDDDDDDDDDDDDDD
+""""
+@DDDT-"
+DDDDDDDDDDDDDD
+(""""""""
+DDDDDDDDDD
+ """""""""""""""""""
+QDDDDDDDDDDDDD
+("@@
+y^^#\
+TUUUUUUUUU
+UUUUUUUUUUUUUUUU
+UUUUUUUUUUU
+`AUX@
+,@@[
+UUUU
+HE*R
+2@@&
+`Q$h
+& 1A"`
+D$F@
+HLi"1
+EPDB,
+DB"!
+DJ)A$
+H$H(!
+HH@"%
+DJ"!
+@"HBBB"!1!!
+@"A"
+DB"!
+HHP"!
+				
+H$H$$ 
+		B"!
+HHIHH$$$$$
+DB"!
+PDb@
+D$	HD
+*"QU
+#Px@
+"Q@)(
+    """
+"@@U
+@@D@$
+@@DDD
+"! " 
+D" " 
+@@@@
+@@$H@
+$ ! 
+PEDU
+     @
+"! " 
+! " 
+P@@@@
+(*""""
+@@$@
+" " 
+   """" 
+@@UD
+" ""
+DDDD@
+@@D@DD
+HTU""
+@@@@@@@@@$
+@DTUZ
+B@@D""
+DDD@$
+DDU 
+D$ QE
+D@D@$
+@@UU
+ETED
+B@@$
+@@@@$H@
+! " 
+UUM@@
+   """ Q@U
+(@@@@
+(   @@@$@
+B@@@
+DDDD
+I]DUDD
+H@UD@
+B@@D""
+**" 
+D@DDD
+" ""
+B@D@$
+"Q@U
+UEDTU
+E@$T
+@TU:
+P@UD, 
+B@@@$
+D@UD@
+B@@D""
+ @D,
+! " 
+DDDD
+TUD5
+@@@$
+UEQT
+ @$Z
+D@TUUU
+X@UU
+D@D"QD
+*" *
+B@@@$
+( """
+UQU"
+!  $ " 
+  Q@UD+
+D@D@$
+B@D@$
+P@QE
+"! " 
+"Q@UD
+*UUU
+"Z@"
+QUU-
+D@TU
+D@UD@
+@@@@@
+@@D@D
+@@@$I
+`@TUU
+         
+H@UD$
+D@UD
+E@DTED
+H@UD@
+   @@@
+"""" 
+     " 
+ @@@@
+  " "
+B@D@$
+DB@UD@
+D@$@
+D@DDD
+@D@$
+@@@$
+H@UD@
+H@UD@T
+H@D@$
+DTED
+H@D@
+"""" 
+"Q@UT
+  " 
+("!"
+@@@$I
+***Z
+D@D""
+@T@TU
+DB@UD@
+  H@
+*" Z
+ """
+D@UT
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+VUUUUUU
+VUUUU
+U[UUUUUUUUU
+VU[UUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUU
+jUUUUUUUUUUUUUUUUT$
+"RU#UQE
+RDDE
+*"RUTQE
+&UDR+
+T+"R
+V+"R
+T+"R
+VUMUD
+jEUuUD
+UUmE$
+*EDTD"F
+j5QUT
+E,RUD
+HUQE
+"RUD
+VUUU
+HjM)U
+j5R+
+UU#U5R
+ZUDQ
+TE*RJU
+VDR+"R
+V#UEU
+""UE
+ZMUU
+HEET
+******
+*RUDDj
+jUU[+bD
+VDjU
+QDR+"
+VTU+"U
+QDjEDR+R
+QDR+"
+""QE
+V+"U+"R
+jRE$
+*jE$jED
+HTEU
+HTD$
+VDjEE
+ZU5iE$
+VTQE
+QUEDR+jU
+hUDETE
+QDDU
+*"UTTTTTD
+UEUUDjUD
+UEDRE
+""U+
+"RkETDUD
+kT5*
+QDjUD$
+ZQEUUUUUUUUUUUUUUUUUUUU
+******
+("QkT
+VTUkE$
+HTD$
+TUTT
+KjEDR
++"UU
+VUUU
+VDR+
+UUUU
+"UUE$
+HjUDU
+UTQE
+ZQQE
+HjEjU
+ZEDR
+QTD$
+"R+*
+******"
+HUED
+VTQUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUETQQQQQ
+ZEDR
+RDU#
+"R+"
+E$jE
+(*"RU[Q+UTQE
+"FUD
+T)"*"
+HZU5R
+*EDED
+HjEDR
+ZqDUD
+QlUUUUUU
+QDjED
+UTQE
+UTQE
+UTQE
+UTQE
+UTQE
+UTQE
+UTQE
+UTQE
+QTD$
+QDMT
+HjETDU
+*"FZU
+VDRETDU
+ElZU
+RDDED
+VDR+
+VDR+E
+""QE
+jEUmE$
+VETDU
+*EDTD$
+HUQQE
+Z+"Q
+ZU5U
+FR+"
+VTQE
+UEDT
+VTQE
+jUQE
+ZUDQ
+*E$*
+QT+"R
+Z+"R
+*E$*
+VTQE
+DUQE
+ZETU
+VTQE
+HUQE
+UUUU
+RUU5i
+""UEU
+6""R
+T)"Q
+VDR+"
+ZUUUUUUUUUUUUUUUUU
+*RUUUUUU
+*E$*"
+HTD$
+IUTUkE
+QDRk$
+QTD$
+VUmmE
+*FRETDUD
+"UUUUUUUUETD$
+HjEUUUUUUUUUUUUUUUUUUUUD
+QDjED
+Z5UEU
+jEDR+
+*FRETU+"
+QDR+j
+HjETDU
+UTEU
+QDjEDjU
+TMjE
+UQTQTE
+HTD$
+VUD$
+T+"R
+HT+"
+*"U$
+"R+ZU
+HT+"Q
+ZE*RJU
+*E$*
+VU5U
+*E$*
+UUUUUUUUUUUUUUUUUTD
+VTQE
+ZQQE
+HjE$
+ED1U
+(""""
+]}__k\
+DDDDDDDDDDDDD
+HDDDDDDDDDDDD$"""""""""""""""""""""""""""""
+HDDDDDDDDDDDDD
+""""""""""""""""""
+QEDDDDQQE
+1""FD
+****
+(F11
+EQDQ
+CDDDD
+`FTU
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+"""""(
+XEDU
+0GDU
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+QUUUET
+XEDU
+0GDU
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+""""
+(""""
+"""""(
+XEDU
+0GDU
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+QUUUET
+P+" 
+jE@$
+UUUUDUDD
+VD@$
+U@TUUU
+QUUUETE
+DUUU
+P+" 
+QUUUETE
+XEDU
+0GDU
+(""""
+""""
+(""""
+"""""(""
+VD@$
+U@TUUU
+P+" 
+QUUUETED
+DUUU
+jE@$
+UUUUDUD
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+DUUU
+P+" 
+jE@$
+UUUUDUD
+VD@$
+U@TUUU
+jE@$
+UUUUDUD
+DUUU
+VDTU
+QDDDD
+EDDDD
+QDDDD
+EDDDD
+QDDDD
+EDDDD4
+(""""
+""""
+DUUU
+jE@$
+UUUUDUD
+U@TUUU
+P+" 
+QUU+
+Q@UD@

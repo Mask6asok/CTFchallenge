@@ -1,0 +1,14 @@
+name: ez_re1
+type: RE
+score:
+  dynamic: false
+  base_score: 100
+flag:
+  dynamic: false
+  value: 292-323-565
+description: >
+    请提交flag{*}
+external_link: 
+  - 'https://pan.baidu.com/s/1XzDXacFTLIwtUplKyNMdFg 提取码: thag'
+hint:
+  - 

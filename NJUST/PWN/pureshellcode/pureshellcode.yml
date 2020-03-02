@@ -1,0 +1,15 @@
+name: pureshellcode
+type: PWN
+score:
+  dynamic: false
+  base_score: 150
+flag:
+  dynamic: false
+  value: 2b29e858-158e-44a9-ac84-b9188e155894
+description: >
+  How can you build the door?
+external_link:
+  - 'nc 47.97.170.40 10002'
+  - 'https://pan.baidu.com/s/1fcsAUUyPv1-DvgDI6lxFeA 提取码: fmip'
+hint:
+  - this is easy

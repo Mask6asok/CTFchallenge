@@ -1,0 +1,16 @@
+name: bady_re
+type: RE
+score:
+    dynamic: false
+    base_score: 100
+flag:
+    dynamic: false
+    value: Welcome_to_NJUST!
+description: >
+    Can you find the flag?
+    得到flag格式为flag{*}
+external_link: 
+    - 'https://pan.baidu.com/s/1P78uGMF_6jY2RQqnRN7EWA pass:srd9 '
+hint:
+    - od 等软件打开就好
+    - this is easy

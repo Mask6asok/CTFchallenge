@@ -1,0 +1,14 @@
+b58 = '123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz'
+
+def base58encode(n):
+    result = ''
+    while n > 0:
+        result = b58[n%58] + result
+        n /= 58
+    return result
+
+def base256decode(s):
+    result = 0
+    for c in s:
+        result = result * 256 + ord(c)
+    return result

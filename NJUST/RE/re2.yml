@@ -1,0 +1,19 @@
+name: read_asm
+type: RE
+score:
+  dynamic: false
+  base_score: 200
+flag:
+  dynamic: false
+  value: read_asm_is_important
+description: >
+  这题参考自南邮ReadAsm，个人觉得出的很棒
+  学会阅读汇编是re的基础，接下来给的是有asm代码的cpp文件
+  请不要在任何平台编译运行这个文件，主要考察阅读汇编的能力.
+  环境windows mingw g++ X86_64
+  得到flag格式flag:{*}
+external_link: 
+  - 'https://pan.baidu.com/s/1PELxiUEQlAE-KfmXnqmv_w pass: x37d'
+hint:
+  - https://github.com/veficos/reverse-engineering-for-beginners
+  - 8086，x86_64汇编知识

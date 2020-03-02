@@ -69,7 +69,7 @@ extern ssize_t read_until(char *buf, size_t n, int c)
         if(r == 0 || buf[rx] == c) break;
         rx += 1;
     }
-    buf[rx] = '\0';
+    buf[rx] = '\0';// off by null
 
     if(rx == n && buf[n-1] != '\n')
         _dummyinput(c);

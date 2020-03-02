@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Fri Jan 17 10:38:03 2020
+Invocation: foremost Pixiv@純白可憐.jpg 
+Output directory: /mnt/c/Users/MoZha/Desktop/HGame/Misc/壁纸/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: Pixiv@純白可憐.jpg
+Start: Fri Jan 17 10:38:03 2020
+Length: 1 MB (1321183 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	       1 MB 	          0 	 
+1:	00002579.zip 	      20 KB 	    1320930 	 
+Finish: Fri Jan 17 10:38:03 2020
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Fri Jan 17 10:38:03 2020

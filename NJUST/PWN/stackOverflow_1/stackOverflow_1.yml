@@ -1,0 +1,15 @@
+name: stackOverflow_1
+type: PWN
+score:
+  dynamic: false
+  base_score: 100
+flag:
+  dynamic: false
+  value: d7e1c5cf-71cc-43a2-adc5-a7fff00e3027
+description: >
+  what is stack overflow?
+external_link:
+  - 'nc 47.97.170.40 10004'
+  - 'https://pan.baidu.com/s/13tLiXVhqwj7VeeBLAHVURg 提取码: tbws'
+hint:
+  - this is easy

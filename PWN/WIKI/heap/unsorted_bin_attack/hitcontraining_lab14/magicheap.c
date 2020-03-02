@@ -64,7 +64,7 @@ void edit_heap() {
     read(0, buf, 8);
     size = atoi(buf);
     printf("Content of heap : ");
-    read_input(heaparray[idx], size);
+    read_input(heaparray[idx], size); //堆溢出
     puts("Done !");
   } else {
     puts("No such heap !");

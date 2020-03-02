@@ -1,0 +1,15 @@
+name: stackOverflow_2
+type: PWN
+score:
+  dynamic: false
+  base_score: 100
+flag:
+  dynamic: false
+  value: 3d93de66-c02f-4a90-8fc8-d6937f7dd5fa
+description: >
+  Open magic door.
+external_link:
+  - 'nc 47.97.170.40 10005'
+  - 'https://pan.baidu.com/s/1WkuVj5R57mtBKIXPBj9o1Q 提取码: 35ps'
+hint:
+  - this is easy

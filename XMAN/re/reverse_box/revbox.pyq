@@ -1,0 +1,240 @@
+#!/usr/bin/python -i
+#
+# Emulation script for "reverse_box" from 0x80485b1 to 0x80486e0
+#
+# Powered by gef, unicorn-engine, and capstone-engine
+#
+# @_hugsy_
+#
+from __future__ import print_function
+import collections
+import capstone, unicorn
+
+registers = collections.OrderedDict(
+    sorted({
+        '$eax': unicorn.x86_const.UC_X86_REG_EAX,
+        '$esp': unicorn.x86_const.UC_X86_REG_ESP,
+        '$fs': unicorn.x86_const.UC_X86_REG_FS,
+        '$ss': unicorn.x86_const.UC_X86_REG_SS,
+        '$esi': unicorn.x86_const.UC_X86_REG_ESI,
+        '$eflags': unicorn.x86_const.UC_X86_REG_EFLAGS,
+        '$cs': unicorn.x86_const.UC_X86_REG_CS,
+        '$ecx': unicorn.x86_const.UC_X86_REG_ECX,
+        '$gs': unicorn.x86_const.UC_X86_REG_GS,
+        '$eip': unicorn.x86_const.UC_X86_REG_EIP,
+        '$edx': unicorn.x86_const.UC_X86_REG_EDX,
+        '$ebx': unicorn.x86_const.UC_X86_REG_EBX,
+        '$ebp': unicorn.x86_const.UC_X86_REG_EBP,
+        '$es': unicorn.x86_const.UC_X86_REG_ES,
+        '$edi': unicorn.x86_const.UC_X86_REG_EDI,
+        '$ds': unicorn.x86_const.UC_X86_REG_DS
+    }.items(),
+           key=lambda t: t[0]))
+uc = None
+verbose = False
+syscall_register = "$eax"
+
+
+def disassemble(code, addr):
+    cs = capstone.Cs(capstone.CS_ARCH_X86,
+                     capstone.CS_MODE_32 + capstone.CS_MODE_LITTLE_ENDIAN)
+    for i in cs.disasm(code, addr):
+        return i
+
+
+def hook_code(emu, address, size, user_data):
+    code = emu.mem_read(address, size)
+    insn = disassemble(code, address)
+    print(">>> {:#x}: {:s} {:s}".format(insn.address, insn.mnemonic,
+                                        insn.op_str))
+    return
+
+
+def code_hook(emu, address, size, user_data):
+    code = emu.mem_read(address, size)
+    insn = disassemble(code, address)
+    print(">>> {:#x}: {:s} {:s}".format(insn.address, insn.mnemonic,
+                                        insn.op_str))
+    return
+
+
+def intr_hook(emu, intno, data):
+    print(" \-> interrupt={:d}".format(intno))
+    return
+
+
+def syscall_hook(emu, user_data):
+    sysno = emu.reg_read(registers[syscall_register])
+    print(" \-> syscall={:d}".format(sysno))
+    return
+
+
+def print_regs(emu, regs):
+    for i, r in enumerate(regs):
+        print("{:7s} = {:#04x}  ".format(r, emu.reg_read(regs[r])), end="")
+        if (i % 4 == 3) or (i == len(regs) - 1): print("")
+    return
+
+
+SCRATCH_ADDR = 0xf000
+SEGMENT_FS_ADDR = 0x5000
+SEGMENT_GS_ADDR = 0x6000
+FSMSR = 0xC0000100
+GSMSR = 0xC0000101
+
+
+def set_msr(uc, msr, value, scratch=SCRATCH_ADDR):
+    buf = b"\x0f\x30"  # x86: wrmsr
+    uc.mem_map(scratch, 0x1000)
+    uc.mem_write(scratch, buf)
+    uc.reg_write(unicorn.x86_const.UC_X86_REG_RAX, value & 0xFFFFFFFF)
+    uc.reg_write(unicorn.x86_const.UC_X86_REG_RDX, (value >> 32) & 0xFFFFFFFF)
+    uc.reg_write(unicorn.x86_const.UC_X86_REG_RCX, msr & 0xFFFFFFFF)
+    uc.emu_start(scratch, scratch + len(buf), count=1)
+    uc.mem_unmap(scratch, 0x1000)
+    return
+
+
+def set_gs(uc, addr):
+    return set_msr(uc, GSMSR, addr)
+
+
+def set_fs(uc, addr):
+    return set_msr(uc, FSMSR, addr)
+
+
+def reset():
+    emu = unicorn.Uc(unicorn.UC_ARCH_X86,
+                     unicorn.UC_MODE_32 + unicorn.UC_MODE_LITTLE_ENDIAN)
+
+    emu.mem_map(SEGMENT_FS_ADDR - 0x1000, 0x3000)
+    set_fs(emu, SEGMENT_FS_ADDR)
+    set_gs(emu, SEGMENT_GS_ADDR)
+
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EBX, 0x0)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_ECX, 0x4ec99f02)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EDX, 0xfffffffff7fb13e4)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_ESP, 0xffffcd10)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EBP, 0xffffcd38)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_ESI, 0xfffffffff7fb1000)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EDI, 0xfffffffff7fb1000)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EIP, 0x80485b1)
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EFLAGS, 0x202)
+    # Mapping /home/pwn/Desktop/reverse_box: 0x8048000-0x8049000
+    emu.mem_map(0x8048000, 0x1000, 0o5)
+    emu.mem_write(0x8048000,
+                  open('/tmp/gef-reverse_box-0x8048000.raw', 'rb').read())
+
+    # Mapping /home/pwn/Desktop/reverse_box: 0x8049000-0x804a000
+    emu.mem_map(0x8049000, 0x1000, 0o1)
+    emu.mem_write(0x8049000,
+                  open('/tmp/gef-reverse_box-0x8049000.raw', 'rb').read())
+
+    # Mapping /home/pwn/Desktop/reverse_box: 0x804a000-0x804b000
+    emu.mem_map(0x804a000, 0x1000, 0o3)
+    emu.mem_write(0x804a000,
+                  open('/tmp/gef-reverse_box-0x804a000.raw', 'rb').read())
+
+    # Mapping : 0xf7dfe000-0xf7dff000
+    emu.mem_map(0xf7dfe000, 0x1000, 0o3)
+    emu.mem_write(0xf7dfe000,
+                  open('/tmp/gef-reverse_box-0xf7dfe000.raw', 'rb').read())
+
+    # Mapping /lib/i386-linux-gnu/libc-2.23.so: 0xf7dff000-0xf7faf000
+    emu.mem_map(0xf7dff000, 0x1b0000, 0o5)
+    emu.mem_write(0xf7dff000,
+                  open('/tmp/gef-reverse_box-0xf7dff000.raw', 'rb').read())
+
+    # Mapping /lib/i386-linux-gnu/libc-2.23.so: 0xf7faf000-0xf7fb1000
+    emu.mem_map(0xf7faf000, 0x2000, 0o1)
+    emu.mem_write(0xf7faf000,
+                  open('/tmp/gef-reverse_box-0xf7faf000.raw', 'rb').read())
+
+    # Mapping /lib/i386-linux-gnu/libc-2.23.so: 0xf7fb1000-0xf7fb2000
+    emu.mem_map(0xf7fb1000, 0x1000, 0o3)
+    emu.mem_write(0xf7fb1000,
+                  open('/tmp/gef-reverse_box-0xf7fb1000.raw', 'rb').read())
+
+    # Mapping : 0xf7fb2000-0xf7fb5000
+    emu.mem_map(0xf7fb2000, 0x3000, 0o3)
+    emu.mem_write(0xf7fb2000,
+                  open('/tmp/gef-reverse_box-0xf7fb2000.raw', 'rb').read())
+
+    # Mapping : 0xf7fd3000-0xf7fd4000
+    emu.mem_map(0xf7fd3000, 0x1000, 0o3)
+    emu.mem_write(0xf7fd3000,
+                  open('/tmp/gef-reverse_box-0xf7fd3000.raw', 'rb').read())
+
+    # Mapping [vdso]: 0xf7fd7000-0xf7fd9000
+    emu.mem_map(0xf7fd7000, 0x2000, 0o5)
+    emu.mem_write(0xf7fd7000,
+                  open('/tmp/gef-reverse_box-0xf7fd7000.raw', 'rb').read())
+
+    # Mapping /lib/i386-linux-gnu/ld-2.23.so: 0xf7fd9000-0xf7ffc000
+    emu.mem_map(0xf7fd9000, 0x23000, 0o5)
+    emu.mem_write(0xf7fd9000,
+                  open('/tmp/gef-reverse_box-0xf7fd9000.raw', 'rb').read())
+
+    # Mapping /lib/i386-linux-gnu/ld-2.23.so: 0xf7ffc000-0xf7ffd000
+    emu.mem_map(0xf7ffc000, 0x1000, 0o1)
+    emu.mem_write(0xf7ffc000,
+                  open('/tmp/gef-reverse_box-0xf7ffc000.raw', 'rb').read())
+
+    # Mapping /lib/i386-linux-gnu/ld-2.23.so: 0xf7ffd000-0xf7ffe000
+    emu.mem_map(0xf7ffd000, 0x1000, 0o3)
+    emu.mem_write(0xf7ffd000,
+                  open('/tmp/gef-reverse_box-0xf7ffd000.raw', 'rb').read())
+
+    # Mapping [stack]: 0xfffdd000-0xffffe000
+    emu.mem_map(0xfffdd000, 0x21000, 0o3)
+    emu.mem_write(0xfffdd000,
+                  open('/tmp/gef-reverse_box-0xfffdd000.raw', 'rb').read())
+
+    # emu.hook_add(unicorn.UC_HOOK_CODE, code_hook)
+    emu.hook_add(unicorn.UC_HOOK_INTR, intr_hook)
+    return emu
+
+
+t = "95eeaf95ef94234999582f722f492f72b19a7aaf72e6e776b57aee722fe77ab5ad9aaeb156729676ae7a236d99b1df4a"
+
+
+def emulate(rnd):
+    emu = reset()
+    start_addr = 0x080485AC
+    end_addr = 0x80486e0
+    emu.reg_write(unicorn.x86_const.UC_X86_REG_EAX, rnd)
+    # print(
+    #     "========================= Initial registers ========================="
+    # )
+    # print_regs(emu, registers)
+    emu.emu_start(start_addr, end_addr)
+    # try:
+    #     print(
+    #         "========================= Starting emulation ========================="
+    #     )
+    #     emu.emu_start(start_addr, end_addr)
+    # except Exception as e:
+    #     emu.emu_stop()
+    #     print(
+    #         "========================= Emulation failed ========================="
+    #     )
+    #     print("[!] Error: {}".format(e))
+
+    # print(
+    #     "========================= Final registers =========================")
+    # print_regs(emu, registers)
+    numlist = list(emu.mem_read(0xffffcd5c, 0x100))
+    # print(numlist)
+    if numlist[ord('T')] == 0x95 and numlist[ord('W')] == 0xee:
+        idx = list()
+        for i in range(len(t) / 2):
+            idx.append(int('0x' + t[i * 2:i * 2 + 2], 16))
+        for i in idx:
+            print(chr(numlist.index(i)), end='')
+        return numlist
+
+
+for i in range(1, 256):
+    emulate(i)
+
+# unicorn-engine script generated by gef

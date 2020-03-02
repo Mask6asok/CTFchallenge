@@ -1,0 +1,1 @@
+"F:\BIN-PWN\IDA 7.0\ida64.exe" -dCULTURE=all  Metaphysical_Necrosis

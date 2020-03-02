@@ -1,0 +1,15 @@
+name: roproprop
+type: PWN
+score:
+  dynamic: false
+  base_score: 150
+flag:
+  dynamic: false
+  value: fc9c0b35-baac-454c-9b80-51d4d3eaa507
+description: >
+  How can you jmp to shell?
+external_link:
+  - 'nc 47.97.170.40 10003'
+  - 'https://pan.baidu.com/s/1tg5sPAfNdCfK_ttzVIU-7Q 提取码: nid6'
+hint:
+  - this is easy

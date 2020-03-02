@@ -1,0 +1,10 @@
+Advanced ZIP Password Recovery 4.0 -
+A program for recovering lost or forgotten
+passwords for ZIP/PKZip/WinZip archives.
+Supports the customizable "brute-force"
+attack, effectively optimized for speed
+(up to 15 million passwords per second on
+Pentium 4), dictionary-based attack, and
+very fast and effective known-plaintext
+attack. Multilangual user interface is
+provided.

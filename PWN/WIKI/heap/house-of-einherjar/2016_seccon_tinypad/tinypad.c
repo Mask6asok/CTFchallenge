@@ -147,7 +147,7 @@ int main()
                     }
 
                     int confirmation = '0';
-                    strcpy(tinypad.buffer, tinypad.page[idx-1].memo);
+                    strcpy(tinypad.buffer, tinypad.page[idx-1].memo);// 先把idx的内容复制给buffer
                     while(toupper(confirmation) != 'Y') {
                         write_n(confirm_content, strlen(confirm_content));
                         writeln(tinypad.buffer, strlen(tinypad.buffer));

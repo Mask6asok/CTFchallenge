@@ -1,0 +1,3 @@
+xor rax,rax
+xor rdi,rdi
+mov rdx,0x666666

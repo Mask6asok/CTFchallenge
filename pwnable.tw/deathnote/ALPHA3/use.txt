@@ -1,0 +1,1 @@
+python ./PYTHON.py x86 ascii uppercase eax --input="bin" > name

@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Nov 23 03:13:54 2019
+Invocation: foremost keyboard.doc 
+Output directory: /mnt/c/Users/MoZha/Desktop/nctf/misc/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: keyboard.doc
+Start: Sat Nov 23 03:13:54 2019
+Length: 61 KB (62674 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.jpg 	      49 KB 	          0 	 
+1:	00000098.docx 	      11 KB 	      50402 	 
+Finish: Sat Nov 23 03:13:54 2019
+
+2 FILES EXTRACTED
+	
+jpg:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Nov 23 03:13:54 2019

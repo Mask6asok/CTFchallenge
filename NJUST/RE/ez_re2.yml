@@ -1,0 +1,13 @@
+name: TimeMachine
+type: RE
+score:
+  dynamic: false
+  base_score: 300
+flag:
+  dynamic: false
+  value: skvdttnmkopfenwunmgbfzvqfbwpfhdr
+description: >
+    what is your time?
+external_link: 
+  - 'https://pan.baidu.com/s/1VjWCLhzWhu_HH6ATx4rj9Q 提取码: 48j7'
+hint:

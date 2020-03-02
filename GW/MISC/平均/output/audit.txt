@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Nov 30 20:48:26 2019
+Invocation: foremost neta.png 
+Output directory: /mnt/c/Users/MoZha/Desktop/GW/平均/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: neta.png
+Start: Sat Nov 30 20:48:26 2019
+Length: 3 MB (3288915 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00006422.zip 	      469 B 	    3288447 	 
+1:	00000000.png 	       3 MB 	          0 	  (1920 x 1080)
+Finish: Sat Nov 30 20:48:26 2019
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Nov 30 20:48:26 2019

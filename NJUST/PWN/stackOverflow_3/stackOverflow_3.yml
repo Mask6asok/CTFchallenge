@@ -1,0 +1,15 @@
+name: stackOverflow_3
+type: PWN
+score:
+  dynamic: false
+  base_score: 150
+flag:
+  dynamic: false
+  value: 22ee2087-c396-48e1-ba6c-eb80009ecaed
+description: >
+  Open magic door,but the door is changed.
+external_link:
+  - 'nc 47.97.170.40 10006'
+  - 'https://pan.baidu.com/s/11UzrGK5P1Vi9EEA_5AV_2w 提取码: 6m43'
+hint:
+  - this is easy

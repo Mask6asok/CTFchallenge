@@ -1,0 +1,14 @@
+name: easy_re
+type: RE
+score:
+    dynamic: false
+    base_score: 150
+flag:
+    dynamic: false
+    value: ASD_FGHJ_KL
+description: >
+    Can you find the flag?
+external_link: 
+    - 'https://pan.baidu.com/s/1jYkqfWMvi6TynaKb69VIGw pass:rp6e'
+hint:
+    - you can get it

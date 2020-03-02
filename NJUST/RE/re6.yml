@@ -1,0 +1,16 @@
+name: Mountain Climbing
+type: RE
+score:
+  dynamic: false
+  base_score: 200
+flag:
+  dynamic: false
+  value: RVRVRHLVRVLVLVRVLVL
+description: >
+    bugctf中的mountain climbing
+    杀毒软件可能会报毒，无视就好
+    得到的是zsctf{*} 请提交flag{*}
+external_link: 
+  - 'https://pan.baidu.com/s/1qSWdrSHwoXs83fVK5zdc2A pass:hs07'
+hint:
+  - 
